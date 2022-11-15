@@ -81,4 +81,4 @@ jobs:
       - name: 📦 Install TSConfig Paths
         run: npm i tsconfig-paths
       - name: 🤖 Run step template creation script
-        run: npx ts-node ./scripts/computeHandlers.ts ${{ env.SHORT_SHA }}
+        run: npx ts-node --files ./scripts/computeHandlers.ts ${{ env.SHORT_SHA }}
