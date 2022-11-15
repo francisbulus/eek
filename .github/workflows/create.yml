@@ -19,8 +19,8 @@ jobs:
       NODE_ENV: development
       PORT: 4045
       ULTRON_VERSION: v1
-      ULTRON_URL: https://ultron-service.inv.systems
-      AUTOMATIONS_TOKEN: ${{secrets.AUTOMATIONS_TOKEN}}
+      ULTRON_URL: https://1ed0-197-210-70-69.eu.ngrok.io
+      AUTOMATIONS_TOKEN: fake
       ROLLBAR_ACCESS_TOKEN: fake
       NIDAVELLIR_URL: http://localhost:3011
       MIMIR_URL: http://localhost:3001
