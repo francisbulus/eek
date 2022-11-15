@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NODE_ENV: development
-      PRISMA_BINARY_TARGET: ['native']
+      PRISMA_BINARY_TARGET: 'native'
       PORT: 4045
       ULTRON_VERSION: v1
       ULTRON_URL: https://1ed0-197-210-70-69.eu.ngrok.io
