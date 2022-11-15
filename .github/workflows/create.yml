@@ -75,13 +75,13 @@ jobs:
           node-version: '14'
           cache: 'npm'
           cache-dependency-path: '**/package-lock.json'
-      - run: npm ci
+      - run: npm i
       - name: 📦 Install Typescript
         run: npm i -g typescript
       - run: npm i -g ts-node
       - name: 🔗 Link Typescript
         run: npm link typescript
-      - run: yarn run prisma:generate:seated
+      - run: npm run prisma:generate:seated
       - name: 📦 Install TSConfig Paths
         run: npm i tsconfig-paths
       - name: 🤖 Run step template creation script
