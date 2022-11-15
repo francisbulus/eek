@@ -5,7 +5,7 @@ name: Create step templates from handlers
 on:
   push:
     branches:
-      - fb/create-templates
+      - main
     # paths:
     #   - 'src/automations/**'
 jobs:
