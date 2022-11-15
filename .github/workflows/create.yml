@@ -61,7 +61,7 @@ jobs:
       FLOW_DB_URL: 'postgres://postgres:postgres@localhost:5432/postgres'
       OPSGENIE_API_KEY: fake
 
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - uses: actions/checkout@v3
