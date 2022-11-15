@@ -77,9 +77,10 @@ jobs:
       - run: npm ci
       - name: 📦 Install Typescript
         run: npm i -g typescript
+      - run: npm i -g ts-node
       - name: 🔗 Link Typescript
         run: npm link typescript
       - name: 📦 Install TSConfig Paths
         run: npm i tsconfig-paths
       - name: 🤖 Run step template creation script
-        run: npx ts-node --files ./scripts/computeHandlers.ts ${{ env.SHORT_SHA }}
+        run: ts-node ./scripts/computeHandlers.ts ${{ env.SHORT_SHA }}

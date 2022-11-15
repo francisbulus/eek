@@ -85,7 +85,6 @@ postgres-data/
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
-.env.local
 
 
 .next
