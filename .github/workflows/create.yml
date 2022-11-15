@@ -17,6 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NODE_ENV: development
+      PRISMA_BINARY_TARGET: ['native']
       PORT: 4045
       ULTRON_VERSION: v1
       ULTRON_URL: https://1ed0-197-210-70-69.eu.ngrok.io
@@ -80,6 +81,7 @@ jobs:
       - run: npm i -g ts-node
       - name: 🔗 Link Typescript
         run: npm link typescript
+      - run: npx prisma generate --schema ./src/lambdas/get-slot-availability/prisma/schema.prisma
       - name: 📦 Install TSConfig Paths
         run: npm i tsconfig-paths
       - name: 🤖 Run step template creation script
