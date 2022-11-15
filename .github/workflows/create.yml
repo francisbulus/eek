@@ -74,6 +74,7 @@ jobs:
           node-version: '14'
           cache: 'npm'
           cache-dependency-path: '**/package-lock.json'
+      - run: npm ci
       - name: 📦 Install Typescript
         run: npm i -g typescript
       - name: 🔗 Link Typescript
