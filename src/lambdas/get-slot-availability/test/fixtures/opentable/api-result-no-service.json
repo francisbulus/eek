@@ -1,0 +1,11 @@
+{
+    "availability": {
+        "error": {
+            "message": "NOT_AVAILABLE"
+        },
+        "waitlistStatus": {
+            "waitlistAvailable": false
+        }
+    },
+    "blockedDayMessages": []
+}

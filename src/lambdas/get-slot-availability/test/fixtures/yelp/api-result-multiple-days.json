@@ -1,0 +1,1716 @@
+{
+  "success": true,
+  "availability_data": [
+    {
+      "availability_list": [
+        {
+          "timestamp": 1627488000,
+          "formatted_time": "12:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1200/4",
+          "csrf_token": "6a8ef6de11eebef8b0c9145aebd8f292ca056345a13abf712d7a710080a5ada3",
+          "isodate": "2021-07-28T12:00:00-04:00"
+        },
+        {
+          "timestamp": 1627488900,
+          "formatted_time": "12:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1215/4",
+          "csrf_token": "c76b7817c310882f889ce6ad68c865a7bf87831dbb1e19864e535d9ffecf191d",
+          "isodate": "2021-07-28T12:15:00-04:00"
+        },
+        {
+          "timestamp": 1627489800,
+          "formatted_time": "12:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1230/4",
+          "csrf_token": "79132c68f439a70784b001822512f404d58429a319fab136a5951c1e77fe2e40",
+          "isodate": "2021-07-28T12:30:00-04:00"
+        },
+        {
+          "timestamp": 1627490700,
+          "formatted_time": "12:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1245/4",
+          "csrf_token": "ecddecc5663e11001f4df45d7aa0512cb682d6c8541c89419d11eebfcb96a88a",
+          "isodate": "2021-07-28T12:45:00-04:00"
+        },
+        {
+          "timestamp": 1627491600,
+          "formatted_time": "1:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1300/4",
+          "csrf_token": "967417bdaa23628bddc3fffd4d84fae659c399d99dc9e7506001e7c4a4d3609a",
+          "isodate": "2021-07-28T13:00:00-04:00"
+        },
+        {
+          "timestamp": 1627492500,
+          "formatted_time": "1:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1315/4",
+          "csrf_token": "5642b192f57f5d39e150b0b40ac4ef481a127776823a3947f8a73163d7e2d15d",
+          "isodate": "2021-07-28T13:15:00-04:00"
+        },
+        {
+          "timestamp": 1627493400,
+          "formatted_time": "1:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1330/4",
+          "csrf_token": "ac2f207f86ba88e8a306831d454c238ede692906364487b182fd8a3c1b2f370b",
+          "isodate": "2021-07-28T13:30:00-04:00"
+        },
+        {
+          "timestamp": 1627494300,
+          "formatted_time": "1:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1345/4",
+          "csrf_token": "400c654e106d5f7730d00f20957ce7f0afee11575beabb8b2092861c74f695b2",
+          "isodate": "2021-07-28T13:45:00-04:00"
+        },
+        {
+          "timestamp": 1627495200,
+          "formatted_time": "2:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1400/4",
+          "csrf_token": "35e319cd94877dd889687655b6691ffe26fc05e35028b091c04e823219f0538a",
+          "isodate": "2021-07-28T14:00:00-04:00"
+        },
+        {
+          "timestamp": 1627496100,
+          "formatted_time": "2:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1415/4",
+          "csrf_token": "f623f702fe060cceb732d7151f0d9ec9d4f08bc57cf221477c87a16cba1f67a4",
+          "isodate": "2021-07-28T14:15:00-04:00"
+        },
+        {
+          "timestamp": 1627497000,
+          "formatted_time": "2:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1430/4",
+          "csrf_token": "658f86a14db411c65bb9b3e9c1555254a8cabe29d0d5db3c09dd05228c00af88",
+          "isodate": "2021-07-28T14:30:00-04:00"
+        },
+        {
+          "timestamp": 1627497900,
+          "formatted_time": "2:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1445/4",
+          "csrf_token": "22600d7d79a00b25946c4e27a092bbfed2139292ffe18d50c3e9e2850717e686",
+          "isodate": "2021-07-28T14:45:00-04:00"
+        },
+        {
+          "timestamp": 1627498800,
+          "formatted_time": "3:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1500/4",
+          "csrf_token": "da4f7f9e7a9357be9df7681b8a52806089768512d0413b76068f848dbf2c3c73",
+          "isodate": "2021-07-28T15:00:00-04:00"
+        },
+        {
+          "timestamp": 1627499700,
+          "formatted_time": "3:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1515/4",
+          "csrf_token": "a952d4eac473d23ceffd344b035513dd1fca97b01e928edf08faeb9255e19c20",
+          "isodate": "2021-07-28T15:15:00-04:00"
+        },
+        {
+          "timestamp": 1627500600,
+          "formatted_time": "3:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1530/4",
+          "csrf_token": "4447ac1e73531ccab4d5fbf24cffca05394f39c7fb326a4163072b5f398cba2a",
+          "isodate": "2021-07-28T15:30:00-04:00"
+        },
+        {
+          "timestamp": 1627501500,
+          "formatted_time": "3:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1545/4",
+          "csrf_token": "3f220d724bfcad92fcc5d0fc05615f1a2b04e5b50f280489a67f4617ffc10022",
+          "isodate": "2021-07-28T15:45:00-04:00"
+        },
+        {
+          "timestamp": 1627502400,
+          "formatted_time": "4:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1600/4",
+          "csrf_token": "ab230626fb9472e4e02fd14d4b8f2778f23e0451ca182ea46b4e0034afbf5302",
+          "isodate": "2021-07-28T16:00:00-04:00"
+        },
+        {
+          "timestamp": 1627503300,
+          "formatted_time": "4:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1615/4",
+          "csrf_token": "894a4024590d6b8705f51290b12a123e4f2728865da987416c6c1ff36ace44bd",
+          "isodate": "2021-07-28T16:15:00-04:00"
+        },
+        {
+          "timestamp": 1627504200,
+          "formatted_time": "4:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1630/4",
+          "csrf_token": "6d3ad4e19cc5beed797c8b932e2ee473b0d6e8cbe1c876df606b0f35cba72392",
+          "isodate": "2021-07-28T16:30:00-04:00"
+        },
+        {
+          "timestamp": 1627505100,
+          "formatted_time": "4:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1645/4",
+          "csrf_token": "ff82fe54c3e391deeded6dc1f7cbb9baee1cc8206762cea7c623b3f82cb94f52",
+          "isodate": "2021-07-28T16:45:00-04:00"
+        },
+        {
+          "timestamp": 1627506000,
+          "formatted_time": "5:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1700/4",
+          "csrf_token": "5c7918326b48c4b9b2050cb6c9c25913c1737d2ee2bd0dc988cb2f58ac0fb748",
+          "isodate": "2021-07-28T17:00:00-04:00"
+        },
+        {
+          "timestamp": 1627506900,
+          "formatted_time": "5:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1715/4",
+          "csrf_token": "1000b0bf3e55ec052912520651cd620d7e466686c44dc832482ab5ae029d7e3e",
+          "isodate": "2021-07-28T17:15:00-04:00"
+        },
+        {
+          "timestamp": 1627507800,
+          "formatted_time": "5:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1730/4",
+          "csrf_token": "f7f6718aba1c8da7ad2e0659c728e7ca61b65c287fa3c4df9910c48facd41386",
+          "isodate": "2021-07-28T17:30:00-04:00"
+        },
+        {
+          "timestamp": 1627508700,
+          "formatted_time": "5:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1745/4",
+          "csrf_token": "f2193491684134255d3c1e391fa001ceba2384c2f024cd2990118df626bf39a2",
+          "isodate": "2021-07-28T17:45:00-04:00"
+        },
+        {
+          "timestamp": 1627509600,
+          "formatted_time": "6:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1800/4",
+          "csrf_token": "b5c2b536b1dd3cf248df03e8c715c507e6a8ce7536a95e7411ec16cfb9762815",
+          "isodate": "2021-07-28T18:00:00-04:00"
+        },
+        {
+          "timestamp": 1627510500,
+          "formatted_time": "6:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1815/4",
+          "csrf_token": "18db461a514a85e46bad68bc3519ca1c52dce991042e9e8c810a7133f635067b",
+          "isodate": "2021-07-28T18:15:00-04:00"
+        },
+        {
+          "timestamp": 1627511400,
+          "formatted_time": "6:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1830/4",
+          "csrf_token": "b4d9cc679794156bea7996f9ba30b9bf734b70f97ad779e74f3ea48dc6e3c375",
+          "isodate": "2021-07-28T18:30:00-04:00"
+        },
+        {
+          "timestamp": 1627512300,
+          "formatted_time": "6:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1845/4",
+          "csrf_token": "c2a639e97fcbb7f52c0a232aa773596ff845574d88805c29b26a3f688d5c8a07",
+          "isodate": "2021-07-28T18:45:00-04:00"
+        },
+        {
+          "timestamp": 1627513200,
+          "formatted_time": "7:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1900/4",
+          "csrf_token": "60d591974c6fbb699123011c5a18b1bc62886f037a86516880d9e76fd7fe5009",
+          "isodate": "2021-07-28T19:00:00-04:00"
+        },
+        {
+          "timestamp": 1627514100,
+          "formatted_time": "7:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1915/4",
+          "csrf_token": "896f5f8bc91b734c81005c485be24ced50317be6bd94ca00fab36e612a83772e",
+          "isodate": "2021-07-28T19:15:00-04:00"
+        },
+        {
+          "timestamp": 1627515000,
+          "formatted_time": "7:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1930/4",
+          "csrf_token": "9ab2eff7148fba4a6242090b6d77fd538c0e08c85755d5a00ae709741db73a13",
+          "isodate": "2021-07-28T19:30:00-04:00"
+        },
+        {
+          "timestamp": 1627515900,
+          "formatted_time": "7:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1945/4",
+          "csrf_token": "b16327c713ca7311b2d4f93da0ff139f6b22d5254f53d3ec8dadc2b281c886b1",
+          "isodate": "2021-07-28T19:45:00-04:00"
+        },
+        {
+          "timestamp": 1627516800,
+          "formatted_time": "8:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/2000/4",
+          "csrf_token": "68dd89882683e472f614a3d5eb98b899ef7c52af894f16ccc57c46867dd4050c",
+          "isodate": "2021-07-28T20:00:00-04:00"
+        },
+        {
+          "timestamp": 1627517700,
+          "formatted_time": "8:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/2015/4",
+          "csrf_token": "5c6f0ce161df377241e0507e751cf47c868d5ba163d425b2cf84a61a29889ec7",
+          "isodate": "2021-07-28T20:15:00-04:00"
+        },
+        {
+          "timestamp": 1627518600,
+          "formatted_time": "8:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/2030/4",
+          "csrf_token": "f85506c178292257a3fdb6352fd144741fc75bacf49c9301589c5b0800917c22",
+          "isodate": "2021-07-28T20:30:00-04:00"
+        },
+        {
+          "timestamp": 1627519500,
+          "formatted_time": "8:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/2045/4",
+          "csrf_token": "f9d2222e8e1741ff7abb5f27c0996fdbb2aed356dfa5ef026d8d2bb58e4c9f52",
+          "isodate": "2021-07-28T20:45:00-04:00"
+        },
+        {
+          "timestamp": 1627520400,
+          "formatted_time": "9:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/2100/4",
+          "csrf_token": "ea389e2e7cdda4a2cbf89e7a4b553319b97155f0da4a784d760ff37757d3ef00",
+          "isodate": "2021-07-28T21:00:00-04:00"
+        },
+        {
+          "timestamp": 1627521300,
+          "formatted_time": "9:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/2115/4",
+          "csrf_token": "2dfe46fbe1b4ccb3d65271aeeade422bd22f9ea4e4ac4061c15132b849d8320f",
+          "isodate": "2021-07-28T21:15:00-04:00"
+        },
+        {
+          "timestamp": 1627522200,
+          "formatted_time": "9:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/2130/4",
+          "csrf_token": "ac55417912040c4f9ba37a0d99dd6727fbabb62efc86546dcf39e954416f35c1",
+          "isodate": "2021-07-28T21:30:00-04:00"
+        }
+      ],
+      "date": "Wed, Jul 28",
+      "covers": 4,
+      "time": "12:00 PM",
+      "timestamp": 1627473600,
+      "msg": "Availability on <strong><%=date%></strong> around <strong><%=time%></strong> for <strong><%=covers%> guests:</strong>",
+      "isodate": "2021-07-28T12:00:00-04:00"
+    },
+    {
+      "availability_list": [
+        {
+          "timestamp": 1627574400,
+          "formatted_time": "12:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1200/4",
+          "csrf_token": "cea8707fc9228b73704fc9d1c0f3b200f4850234a66f211a014d191d17d406e8",
+          "isodate": "2021-07-29T12:00:00-04:00"
+        },
+        {
+          "timestamp": 1627575300,
+          "formatted_time": "12:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1215/4",
+          "csrf_token": "d156927c7429381ba31d69d918429a8fafbdeaf2928e431c892afa99904349f7",
+          "isodate": "2021-07-29T12:15:00-04:00"
+        },
+        {
+          "timestamp": 1627576200,
+          "formatted_time": "12:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1230/4",
+          "csrf_token": "402dbb38e2534948169731a6e2f09eb82caa99e3b69c5ddd4e8f3e50cced23a5",
+          "isodate": "2021-07-29T12:30:00-04:00"
+        },
+        {
+          "timestamp": 1627577100,
+          "formatted_time": "12:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1245/4",
+          "csrf_token": "febc891a2cf699ecb2eb36b533cf7e49ec1921cd8af38ef7c523479b22c07cf7",
+          "isodate": "2021-07-29T12:45:00-04:00"
+        },
+        {
+          "timestamp": 1627578000,
+          "formatted_time": "1:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1300/4",
+          "csrf_token": "1c485110291d675dd088312726d4e9109dfd7cd74cd38be1bd7460a50d9d96fa",
+          "isodate": "2021-07-29T13:00:00-04:00"
+        },
+        {
+          "timestamp": 1627578900,
+          "formatted_time": "1:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1315/4",
+          "csrf_token": "241b11954a2b6922ff0905a86a160d50a4cc868f6182acd9fc8f6e7066979365",
+          "isodate": "2021-07-29T13:15:00-04:00"
+        },
+        {
+          "timestamp": 1627579800,
+          "formatted_time": "1:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1330/4",
+          "csrf_token": "08bb4372563e663f92a1cfc6c32544dba50d3b7cf3c69d009ad8465b921fe610",
+          "isodate": "2021-07-29T13:30:00-04:00"
+        },
+        {
+          "timestamp": 1627580700,
+          "formatted_time": "1:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1345/4",
+          "csrf_token": "d41e82054b3a4f0cc337d7db63d9bdbf05bb3f937043294928b9f08f673035c2",
+          "isodate": "2021-07-29T13:45:00-04:00"
+        },
+        {
+          "timestamp": 1627581600,
+          "formatted_time": "2:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1400/4",
+          "csrf_token": "2f257adf25bc75ec4b762993a73d00349652ab6b7e52694c3de5f39b5571556e",
+          "isodate": "2021-07-29T14:00:00-04:00"
+        },
+        {
+          "timestamp": 1627582500,
+          "formatted_time": "2:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1415/4",
+          "csrf_token": "0d17d7a85a99dc9849777b0d783b4e03b694cc581fad420475dbfd846413ecec",
+          "isodate": "2021-07-29T14:15:00-04:00"
+        },
+        {
+          "timestamp": 1627583400,
+          "formatted_time": "2:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1430/4",
+          "csrf_token": "e8e059556a63f7dc0d1498de11182f8e5facbe79e1b1442b21c18fee6934ec1c",
+          "isodate": "2021-07-29T14:30:00-04:00"
+        },
+        {
+          "timestamp": 1627584300,
+          "formatted_time": "2:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1445/4",
+          "csrf_token": "88fd6dc62f50a66c02ab5e70c69db97707b3c4bc10c18a1146e25bba680e29e5",
+          "isodate": "2021-07-29T14:45:00-04:00"
+        },
+        {
+          "timestamp": 1627585200,
+          "formatted_time": "3:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1500/4",
+          "csrf_token": "8387532fd882567b9721ac03f701d6e07c09c5634011103450860c74bf92491e",
+          "isodate": "2021-07-29T15:00:00-04:00"
+        },
+        {
+          "timestamp": 1627586100,
+          "formatted_time": "3:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1515/4",
+          "csrf_token": "9b9f0f06f6c4bd5e69b09768489764c55b403b25152219af4dccde5d1145ba00",
+          "isodate": "2021-07-29T15:15:00-04:00"
+        },
+        {
+          "timestamp": 1627587000,
+          "formatted_time": "3:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1530/4",
+          "csrf_token": "71e1ba92a52db1a2fdefcdc8109ea5465682bc6a120c214d306d5925202b4070",
+          "isodate": "2021-07-29T15:30:00-04:00"
+        },
+        {
+          "timestamp": 1627587900,
+          "formatted_time": "3:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1545/4",
+          "csrf_token": "c19ffdcb64170b531435140531837156c4c71ebb2e72b17a28837b9225f3928e",
+          "isodate": "2021-07-29T15:45:00-04:00"
+        },
+        {
+          "timestamp": 1627588800,
+          "formatted_time": "4:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1600/4",
+          "csrf_token": "416116165e5e07a41359086af5473f1342406b7441caa1018ea17fde9b8f294d",
+          "isodate": "2021-07-29T16:00:00-04:00"
+        },
+        {
+          "timestamp": 1627589700,
+          "formatted_time": "4:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1615/4",
+          "csrf_token": "9ffbcc4a0702b3c139813a6c5a4b6dd5d577f961e0d57e948840edf2de2de790",
+          "isodate": "2021-07-29T16:15:00-04:00"
+        },
+        {
+          "timestamp": 1627590600,
+          "formatted_time": "4:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1630/4",
+          "csrf_token": "333df43f3571340d15fd847b628be17e2e2a346233739240f57386bc20b16d10",
+          "isodate": "2021-07-29T16:30:00-04:00"
+        },
+        {
+          "timestamp": 1627591500,
+          "formatted_time": "4:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1645/4",
+          "csrf_token": "98821050c95232402f5a696d317ced1a54492b6242d2396e624facbb0fcac88e",
+          "isodate": "2021-07-29T16:45:00-04:00"
+        },
+        {
+          "timestamp": 1627592400,
+          "formatted_time": "5:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1700/4",
+          "csrf_token": "d051011736e80217cc0ee17159741e5b344aa0def73b17236b762358b9d948c0",
+          "isodate": "2021-07-29T17:00:00-04:00"
+        },
+        {
+          "timestamp": 1627593300,
+          "formatted_time": "5:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1715/4",
+          "csrf_token": "dc9183681cbacf02d1c2d0e66e2a363a401e79fa715e6221a3db77d9c8002ff2",
+          "isodate": "2021-07-29T17:15:00-04:00"
+        },
+        {
+          "timestamp": 1627594200,
+          "formatted_time": "5:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1730/4",
+          "csrf_token": "6ece76a6cd178bebab8b32e846a82b6429540e2e8e66d080db87d5dfbdf63374",
+          "isodate": "2021-07-29T17:30:00-04:00"
+        },
+        {
+          "timestamp": 1627595100,
+          "formatted_time": "5:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1745/4",
+          "csrf_token": "625b7f03b97ac36837156e6979ca87f28f4739c65eb7877e5fd1f1a2e76dd7f9",
+          "isodate": "2021-07-29T17:45:00-04:00"
+        },
+        {
+          "timestamp": 1627596000,
+          "formatted_time": "6:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1800/4",
+          "csrf_token": "2a92af64aafa77f41f31a3612e9970de34b57a1ffcadbe637afe1f48481ddb1a",
+          "isodate": "2021-07-29T18:00:00-04:00"
+        },
+        {
+          "timestamp": 1627596900,
+          "formatted_time": "6:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1815/4",
+          "csrf_token": "0881836fece53c0508cd418b18f725ca516ac5406669e587d248b218ec47c801",
+          "isodate": "2021-07-29T18:15:00-04:00"
+        },
+        {
+          "timestamp": 1627597800,
+          "formatted_time": "6:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1830/4",
+          "csrf_token": "86b9a1e617ef24158653b5c00faf1e6217caf07b8799355bcecd160937af162c",
+          "isodate": "2021-07-29T18:30:00-04:00"
+        },
+        {
+          "timestamp": 1627598700,
+          "formatted_time": "6:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1845/4",
+          "csrf_token": "a446e5dd22d0c4d88f8d3db47fb85893d57362b6a2393856c346f22f51a00f6e",
+          "isodate": "2021-07-29T18:45:00-04:00"
+        },
+        {
+          "timestamp": 1627599600,
+          "formatted_time": "7:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1900/4",
+          "csrf_token": "516c8bb43fa9c22502f6efcb0ffd92f125ae073710f19b4673abe916587ed1f7",
+          "isodate": "2021-07-29T19:00:00-04:00"
+        },
+        {
+          "timestamp": 1627600500,
+          "formatted_time": "7:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1915/4",
+          "csrf_token": "cecbd62bceec149f8777d33cf62fd97628aa937d47ae9271ce0b7d442f797408",
+          "isodate": "2021-07-29T19:15:00-04:00"
+        },
+        {
+          "timestamp": 1627601400,
+          "formatted_time": "7:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1930/4",
+          "csrf_token": "d818aa514127389493ffa8dcbf1f07592419efd58d616e8e7440597a4ad49cc5",
+          "isodate": "2021-07-29T19:30:00-04:00"
+        },
+        {
+          "timestamp": 1627602300,
+          "formatted_time": "7:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/1945/4",
+          "csrf_token": "bc4577226e8298bc4e5a63b954c987188397b2c60e93785f8b3e7c7610f5772a",
+          "isodate": "2021-07-29T19:45:00-04:00"
+        },
+        {
+          "timestamp": 1627603200,
+          "formatted_time": "8:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/2000/4",
+          "csrf_token": "0a71a88a319c3e17f720e932695be8f2838350167be8563705aa3b19f7d5ca4e",
+          "isodate": "2021-07-29T20:00:00-04:00"
+        },
+        {
+          "timestamp": 1627604100,
+          "formatted_time": "8:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/2015/4",
+          "csrf_token": "2d328aaf5b6003a1696f3be28a73fcf31f1f57734faea039c57e5d18a77d4f2b",
+          "isodate": "2021-07-29T20:15:00-04:00"
+        },
+        {
+          "timestamp": 1627605000,
+          "formatted_time": "8:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/2030/4",
+          "csrf_token": "164393739d86b9015233e03fd05570716173453488ac7bf9f1ed58761ab8b3ff",
+          "isodate": "2021-07-29T20:30:00-04:00"
+        },
+        {
+          "timestamp": 1627605900,
+          "formatted_time": "8:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/2045/4",
+          "csrf_token": "26a8f2582b488e3ef25d8d9a24cc5129bdf801b3f218eb658550255eb2965a95",
+          "isodate": "2021-07-29T20:45:00-04:00"
+        },
+        {
+          "timestamp": 1627606800,
+          "formatted_time": "9:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/2100/4",
+          "csrf_token": "fc87a7a673655731d70ef709875b861a9f2410ca024e3f919a83e087b8c6d12a",
+          "isodate": "2021-07-29T21:00:00-04:00"
+        },
+        {
+          "timestamp": 1627607700,
+          "formatted_time": "9:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/2115/4",
+          "csrf_token": "9f704c751280a886ddc2ce73f5e2946ec7e1c1c4142e70a80c65d77b170b68fb",
+          "isodate": "2021-07-29T21:15:00-04:00"
+        },
+        {
+          "timestamp": 1627608600,
+          "formatted_time": "9:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-29/2130/4",
+          "csrf_token": "6b9d88ec483ecf3a88340905b943af0d651d3ea636ee95f0787e8589ee76e4a6",
+          "isodate": "2021-07-29T21:30:00-04:00"
+        }
+      ],
+      "date": "Thu, Jul 29",
+      "covers": 4,
+      "time": "12:00 PM",
+      "timestamp": 1627560000,
+      "msg": "Availability on <strong><%=date%></strong> around <strong><%=time%></strong> for <strong><%=covers%> guests:</strong>",
+      "isodate": "2021-07-29T12:00:00-04:00"
+    },
+    {
+      "availability_list": [
+        {
+          "timestamp": 1627660800,
+          "formatted_time": "12:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1200/4",
+          "csrf_token": "29bd6ee84da82082c7be2754a0b844d921fa573f68756f654dfd629182fef7a4",
+          "isodate": "2021-07-30T12:00:00-04:00"
+        },
+        {
+          "timestamp": 1627661700,
+          "formatted_time": "12:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1215/4",
+          "csrf_token": "305fa9a582f089f2b632b8ef639d94dcda3a99018bb0c125a9ec21057dd74b32",
+          "isodate": "2021-07-30T12:15:00-04:00"
+        },
+        {
+          "timestamp": 1627662600,
+          "formatted_time": "12:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1230/4",
+          "csrf_token": "31fa09b36204c8e70268ead5ed28e754537b36be4d1d86c78622fe561ed51a56",
+          "isodate": "2021-07-30T12:30:00-04:00"
+        },
+        {
+          "timestamp": 1627663500,
+          "formatted_time": "12:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1245/4",
+          "csrf_token": "3714eab9e6088fb993202099c072c06806d2a5c298490dd007f629abecfe4a80",
+          "isodate": "2021-07-30T12:45:00-04:00"
+        },
+        {
+          "timestamp": 1627664400,
+          "formatted_time": "1:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1300/4",
+          "csrf_token": "5d5cba7b1b005f7a847b460a687fba439eee21a8d7ddd023f025592cab089773",
+          "isodate": "2021-07-30T13:00:00-04:00"
+        },
+        {
+          "timestamp": 1627665300,
+          "formatted_time": "1:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1315/4",
+          "csrf_token": "d5f20f49baee21771f2facf3dbef057004317bf6e940d7e5bc3916176d75782e",
+          "isodate": "2021-07-30T13:15:00-04:00"
+        },
+        {
+          "timestamp": 1627666200,
+          "formatted_time": "1:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1330/4",
+          "csrf_token": "00d460c132eabfbbcd88a0a03b138990231baec2f8cd9b51df25cf749549319b",
+          "isodate": "2021-07-30T13:30:00-04:00"
+        },
+        {
+          "timestamp": 1627667100,
+          "formatted_time": "1:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1345/4",
+          "csrf_token": "e5ad46a7e2b4ba57447362e6e8e3adab2fca22e380a1252f42746f9f0911946e",
+          "isodate": "2021-07-30T13:45:00-04:00"
+        },
+        {
+          "timestamp": 1627668000,
+          "formatted_time": "2:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1400/4",
+          "csrf_token": "8864706aa27aa85f59f71caed5abef431b6e398b2ba1115ceb8124f9072c6968",
+          "isodate": "2021-07-30T14:00:00-04:00"
+        },
+        {
+          "timestamp": 1627668900,
+          "formatted_time": "2:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1415/4",
+          "csrf_token": "d2f14dfd10720295d0e492ee05a36fe9bde944773b7e9794c80f4064a57cc4df",
+          "isodate": "2021-07-30T14:15:00-04:00"
+        },
+        {
+          "timestamp": 1627669800,
+          "formatted_time": "2:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1430/4",
+          "csrf_token": "dca4b75b180911f8c4333fd78d2e4ecf45bee4c87fd042b5d12b316dcb22591b",
+          "isodate": "2021-07-30T14:30:00-04:00"
+        },
+        {
+          "timestamp": 1627670700,
+          "formatted_time": "2:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1445/4",
+          "csrf_token": "771d7570abaf07a8c655b85a17e77809a2f946626b9e8f73cd5b5bb4e7d3548e",
+          "isodate": "2021-07-30T14:45:00-04:00"
+        },
+        {
+          "timestamp": 1627671600,
+          "formatted_time": "3:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1500/4",
+          "csrf_token": "572c1a8779b0e872442ab5f8c3ba2c8a1cefeca79410bd17c47ee255707c3678",
+          "isodate": "2021-07-30T15:00:00-04:00"
+        },
+        {
+          "timestamp": 1627672500,
+          "formatted_time": "3:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1515/4",
+          "csrf_token": "7a3832e815fc8837dc11ff303d73a59ecf8069e05e6d6b33f03bed33984f3adb",
+          "isodate": "2021-07-30T15:15:00-04:00"
+        },
+        {
+          "timestamp": 1627673400,
+          "formatted_time": "3:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1530/4",
+          "csrf_token": "9353f5e86eed53127f159b86c15e7dad698d2d65b9dedb90aea92ea25cba8891",
+          "isodate": "2021-07-30T15:30:00-04:00"
+        },
+        {
+          "timestamp": 1627674300,
+          "formatted_time": "3:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1545/4",
+          "csrf_token": "db6cb915e783e029e8a8f6c4e48b44223b6cbbcc3e9f6187cd0721fe06e63c44",
+          "isodate": "2021-07-30T15:45:00-04:00"
+        },
+        {
+          "timestamp": 1627675200,
+          "formatted_time": "4:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1600/4",
+          "csrf_token": "a261dc7920d2218617ed4dcdbe3b470293adc6da35837a8962fba324c7a240a8",
+          "isodate": "2021-07-30T16:00:00-04:00"
+        },
+        {
+          "timestamp": 1627676100,
+          "formatted_time": "4:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1615/4",
+          "csrf_token": "6345fa811a1af321f26645d9fd4b5e9a0ad512e45113aafc55244bd528b59db3",
+          "isodate": "2021-07-30T16:15:00-04:00"
+        },
+        {
+          "timestamp": 1627677000,
+          "formatted_time": "4:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1630/4",
+          "csrf_token": "ce0c9141a34f89cbeaf41a747a41e766f061828a200cf68e8c42438bc5ef9643",
+          "isodate": "2021-07-30T16:30:00-04:00"
+        },
+        {
+          "timestamp": 1627677900,
+          "formatted_time": "4:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1645/4",
+          "csrf_token": "1d70da1ad20859e45e6bf23195ba312c9edb2bc67fe30462145495ab2e45426b",
+          "isodate": "2021-07-30T16:45:00-04:00"
+        },
+        {
+          "timestamp": 1627678800,
+          "formatted_time": "5:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1700/4",
+          "csrf_token": "e20c9df4f45c82f4b60c9c0b04ac216ea531d8c96d9601fc661ecf3e78bdec7e",
+          "isodate": "2021-07-30T17:00:00-04:00"
+        },
+        {
+          "timestamp": 1627679700,
+          "formatted_time": "5:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1715/4",
+          "csrf_token": "fc7c316201daf65a0a6c4feccded796f47ce4fba6650e14b0e2739896cd08b6d",
+          "isodate": "2021-07-30T17:15:00-04:00"
+        },
+        {
+          "timestamp": 1627680600,
+          "formatted_time": "5:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1730/4",
+          "csrf_token": "6fba7302697c4043599a182effa28f29792c11332205500166fd8f7d1e0e5c8b",
+          "isodate": "2021-07-30T17:30:00-04:00"
+        },
+        {
+          "timestamp": 1627681500,
+          "formatted_time": "5:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1745/4",
+          "csrf_token": "dc9beddcc9f42ddda9b491281a8ab1c8047dbdb42cc2b570db476da9f25ce491",
+          "isodate": "2021-07-30T17:45:00-04:00"
+        },
+        {
+          "timestamp": 1627682400,
+          "formatted_time": "6:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1800/4",
+          "csrf_token": "2418e3ad2a6e698e72620e2142a11e55319f49a818f3f47efc2f4657a5e20949",
+          "isodate": "2021-07-30T18:00:00-04:00"
+        },
+        {
+          "timestamp": 1627683300,
+          "formatted_time": "6:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1815/4",
+          "csrf_token": "4b7c0b160672fb66b9bb02e683a8a43912002993509659a09d38e3046456f820",
+          "isodate": "2021-07-30T18:15:00-04:00"
+        },
+        {
+          "timestamp": 1627684200,
+          "formatted_time": "6:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1830/4",
+          "csrf_token": "be3fdc2cd88e6f64dcec5c1eaf2791bd4a556ae5693dcf200f9220c871d24fa1",
+          "isodate": "2021-07-30T18:30:00-04:00"
+        },
+        {
+          "timestamp": 1627685100,
+          "formatted_time": "6:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1845/4",
+          "csrf_token": "c14a12f9d2c0c6a29bb90ae07ee146fd9692c3f5d0853ed35318cde74d41e4eb",
+          "isodate": "2021-07-30T18:45:00-04:00"
+        },
+        {
+          "timestamp": 1627686000,
+          "formatted_time": "7:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1900/4",
+          "csrf_token": "2d73c9defb11b9f70ffa45823b982273174af2a93cd3ed125eccde7ab7a8b241",
+          "isodate": "2021-07-30T19:00:00-04:00"
+        },
+        {
+          "timestamp": 1627686900,
+          "formatted_time": "7:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1915/4",
+          "csrf_token": "ef1965d98abe14784ca15e4db4460712561dce1f21b835d74c012ed7a5c44a6f",
+          "isodate": "2021-07-30T19:15:00-04:00"
+        },
+        {
+          "timestamp": 1627687800,
+          "formatted_time": "7:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1930/4",
+          "csrf_token": "e8a13f9d444ec427b38555f4f478e9b16f9e0fd2dcb8169abad7a18657a81489",
+          "isodate": "2021-07-30T19:30:00-04:00"
+        },
+        {
+          "timestamp": 1627688700,
+          "formatted_time": "7:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/1945/4",
+          "csrf_token": "264b5532a9f66e98d7881997095d62b889e716d4c611ef9bd22ae465b388ee81",
+          "isodate": "2021-07-30T19:45:00-04:00"
+        },
+        {
+          "timestamp": 1627689600,
+          "formatted_time": "8:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/2000/4",
+          "csrf_token": "f258ba81df0a678134167ce7f76e79d4487d57ce48d788f1127c5f7b0ca0581f",
+          "isodate": "2021-07-30T20:00:00-04:00"
+        },
+        {
+          "timestamp": 1627690500,
+          "formatted_time": "8:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/2015/4",
+          "csrf_token": "c6c177890af21d098cac9e895df6d5b6d504bfc848df42a1bd79822d06da8dee",
+          "isodate": "2021-07-30T20:15:00-04:00"
+        },
+        {
+          "timestamp": 1627691400,
+          "formatted_time": "8:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/2030/4",
+          "csrf_token": "6d43cb64f1585cce327bc0d9519c81985715658e878dab23d0eb11f8f066c607",
+          "isodate": "2021-07-30T20:30:00-04:00"
+        },
+        {
+          "timestamp": 1627692300,
+          "formatted_time": "8:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/2045/4",
+          "csrf_token": "5a8fb60ed49771de1dabc6d238fc77e923e4615cffbf8f55f1b30051a79941e9",
+          "isodate": "2021-07-30T20:45:00-04:00"
+        },
+        {
+          "timestamp": 1627693200,
+          "formatted_time": "9:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/2100/4",
+          "csrf_token": "3fe71e8940f57a1f1994f19f41ee2b538da3a66a9f9ae3ed9399f5c291a21c31",
+          "isodate": "2021-07-30T21:00:00-04:00"
+        },
+        {
+          "timestamp": 1627694100,
+          "formatted_time": "9:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/2115/4",
+          "csrf_token": "cf4d97dab5add18ad230a5db936541292c72a37a9697bfb9c525f3c582fa333d",
+          "isodate": "2021-07-30T21:15:00-04:00"
+        },
+        {
+          "timestamp": 1627695000,
+          "formatted_time": "9:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-30/2130/4",
+          "csrf_token": "4205f19b29bf0538cd63820ea432ae3e4d38d9594d0d58b3477022821392434a",
+          "isodate": "2021-07-30T21:30:00-04:00"
+        }
+      ],
+      "date": "Fri, Jul 30",
+      "covers": 4,
+      "time": "12:00 PM",
+      "timestamp": 1627646400,
+      "msg": "Availability on <strong><%=date%></strong> around <strong><%=time%></strong> for <strong><%=covers%> guests:</strong>",
+      "isodate": "2021-07-30T12:00:00-04:00"
+    },
+    {
+      "availability_list": [
+        {
+          "timestamp": 1627747200,
+          "formatted_time": "12:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1200/4",
+          "csrf_token": "8f14d2455878e97469dbe9abc5eb6b8037b452f8bf4c9eab36cbd24488aafc6a",
+          "isodate": "2021-07-31T12:00:00-04:00"
+        },
+        {
+          "timestamp": 1627748100,
+          "formatted_time": "12:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1215/4",
+          "csrf_token": "019ed544b3318f06d57af655c39cf6659dbc72a6cec066fd5e562a44bebc1fde",
+          "isodate": "2021-07-31T12:15:00-04:00"
+        },
+        {
+          "timestamp": 1627749000,
+          "formatted_time": "12:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1230/4",
+          "csrf_token": "be5c184ea2f5a3f0f59a40fb6c655c7b626b40cb666dc5fd9c42e09c967dfb36",
+          "isodate": "2021-07-31T12:30:00-04:00"
+        },
+        {
+          "timestamp": 1627749900,
+          "formatted_time": "12:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1245/4",
+          "csrf_token": "83293270c4305a632128f2d24ab2bec1aa9e299dd229f09201d94c2ef96b3864",
+          "isodate": "2021-07-31T12:45:00-04:00"
+        },
+        {
+          "timestamp": 1627750800,
+          "formatted_time": "1:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1300/4",
+          "csrf_token": "e0373f814e390e14195f67558e4955ce9928071a5eac16271bce6e12e8dec5e8",
+          "isodate": "2021-07-31T13:00:00-04:00"
+        },
+        {
+          "timestamp": 1627751700,
+          "formatted_time": "1:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1315/4",
+          "csrf_token": "4daebfd7cfc74a8df5a1efadb98913b40322480abd32d51189b3dce184d5452e",
+          "isodate": "2021-07-31T13:15:00-04:00"
+        },
+        {
+          "timestamp": 1627752600,
+          "formatted_time": "1:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1330/4",
+          "csrf_token": "f8798fc8445dbda6d665fb82356261900e50db3483f121487d45055594a61f00",
+          "isodate": "2021-07-31T13:30:00-04:00"
+        },
+        {
+          "timestamp": 1627753500,
+          "formatted_time": "1:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1345/4",
+          "csrf_token": "1ff055593c2e586ee380573a20342a8f3f87f060236facd30af32b031643a274",
+          "isodate": "2021-07-31T13:45:00-04:00"
+        },
+        {
+          "timestamp": 1627754400,
+          "formatted_time": "2:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1400/4",
+          "csrf_token": "dc466ac3b638c936de3d5723cd99fbeff6c309d35f85f16134b8cffc12c07334",
+          "isodate": "2021-07-31T14:00:00-04:00"
+        },
+        {
+          "timestamp": 1627755300,
+          "formatted_time": "2:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1415/4",
+          "csrf_token": "91c11618ddf907243c285a66f6f84b0c07b0bf936457d48907a3b231c1760ef7",
+          "isodate": "2021-07-31T14:15:00-04:00"
+        },
+        {
+          "timestamp": 1627756200,
+          "formatted_time": "2:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1430/4",
+          "csrf_token": "0c18dbf09f3f00a44dbcdc155c2cf4781a5e3bed295174d873d30e9a6ae50bf8",
+          "isodate": "2021-07-31T14:30:00-04:00"
+        },
+        {
+          "timestamp": 1627757100,
+          "formatted_time": "2:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1445/4",
+          "csrf_token": "4d544b181a5bed1ffc592a9efe9822e1f1cd39650735eb8b6f537f0b74469d5b",
+          "isodate": "2021-07-31T14:45:00-04:00"
+        },
+        {
+          "timestamp": 1627758000,
+          "formatted_time": "3:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1500/4",
+          "csrf_token": "7d040514d90515f78ab389dcca0bedcc9e3eec5055311f50bbb57580dc288fe6",
+          "isodate": "2021-07-31T15:00:00-04:00"
+        },
+        {
+          "timestamp": 1627758900,
+          "formatted_time": "3:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1515/4",
+          "csrf_token": "75e59cd4dea9c93fe14bb86dab4b38eb7f13ef0f2afa76eadd2a388a2b700059",
+          "isodate": "2021-07-31T15:15:00-04:00"
+        },
+        {
+          "timestamp": 1627759800,
+          "formatted_time": "3:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1530/4",
+          "csrf_token": "6fb4adee7c926150ae1c90999420f2e0d0dd2ddb83e9e81db5c2ac0f905f185b",
+          "isodate": "2021-07-31T15:30:00-04:00"
+        },
+        {
+          "timestamp": 1627760700,
+          "formatted_time": "3:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1545/4",
+          "csrf_token": "3936e511bb3054dcc51ebff5a26f9f7691d6d965b06b1a63ffe3d5fd9d654485",
+          "isodate": "2021-07-31T15:45:00-04:00"
+        },
+        {
+          "timestamp": 1627761600,
+          "formatted_time": "4:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1600/4",
+          "csrf_token": "d1b9d2ca0c333ccb8c2f6a71383eed809881161e69a012e8733528906ad4e9c6",
+          "isodate": "2021-07-31T16:00:00-04:00"
+        },
+        {
+          "timestamp": 1627762500,
+          "formatted_time": "4:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1615/4",
+          "csrf_token": "4ca4e76b5ea5bfec42a5792c377100e7a377eab63dc692c8d9492c14855a261f",
+          "isodate": "2021-07-31T16:15:00-04:00"
+        },
+        {
+          "timestamp": 1627763400,
+          "formatted_time": "4:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1630/4",
+          "csrf_token": "2a50e84b85331ae0bb5e9a6873c9b9e272cc410601ae85ed0a45acd56408288a",
+          "isodate": "2021-07-31T16:30:00-04:00"
+        },
+        {
+          "timestamp": 1627764300,
+          "formatted_time": "4:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1645/4",
+          "csrf_token": "8fe6278f1da80530f0d5c28f309650fb1de579002dfd21bf075925ea1aebe308",
+          "isodate": "2021-07-31T16:45:00-04:00"
+        },
+        {
+          "timestamp": 1627765200,
+          "formatted_time": "5:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1700/4",
+          "csrf_token": "c689b140b64b5f84d3d7199224d3f45ee5d0080ca184d1f0451bcff3618a68af",
+          "isodate": "2021-07-31T17:00:00-04:00"
+        },
+        {
+          "timestamp": 1627766100,
+          "formatted_time": "5:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1715/4",
+          "csrf_token": "b02c293b49e713cc1fe7e787ff2702389d4950457a199db2ec3dbc4c86576cc4",
+          "isodate": "2021-07-31T17:15:00-04:00"
+        },
+        {
+          "timestamp": 1627767000,
+          "formatted_time": "5:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1730/4",
+          "csrf_token": "8d89d853268ee72f04633666fe2c1d56388645d63b7034c9034695e1a371a1a3",
+          "isodate": "2021-07-31T17:30:00-04:00"
+        },
+        {
+          "timestamp": 1627767900,
+          "formatted_time": "5:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1745/4",
+          "csrf_token": "e9d57059b1b4f66d427a72f0fe58c99b68de158e045109eb78f3c2b5bee05375",
+          "isodate": "2021-07-31T17:45:00-04:00"
+        },
+        {
+          "timestamp": 1627768800,
+          "formatted_time": "6:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1800/4",
+          "csrf_token": "974cfdc0e98cd8ae95a518cbfce2ec50d3117030640a1060f0df0dc5d9016cad",
+          "isodate": "2021-07-31T18:00:00-04:00"
+        },
+        {
+          "timestamp": 1627769700,
+          "formatted_time": "6:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1815/4",
+          "csrf_token": "e5625505b0192f736135c2a3c02cfcf5c1edb22dd799ed879bbfded027869fe4",
+          "isodate": "2021-07-31T18:15:00-04:00"
+        },
+        {
+          "timestamp": 1627770600,
+          "formatted_time": "6:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1830/4",
+          "csrf_token": "aa67c7b4f6bebfed387259b57f4e8df1c86ac64f83121975d47f5209f24fd948",
+          "isodate": "2021-07-31T18:30:00-04:00"
+        },
+        {
+          "timestamp": 1627771500,
+          "formatted_time": "6:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1845/4",
+          "csrf_token": "5572447a58b2845ac4e898b2764f9bb9c120a550d69a4d71a9a22e6a7be30b79",
+          "isodate": "2021-07-31T18:45:00-04:00"
+        },
+        {
+          "timestamp": 1627772400,
+          "formatted_time": "7:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1900/4",
+          "csrf_token": "384d95803d80e69cc20ca787e4380135380e4b4e9f2e63bcd2591fe8817d73e1",
+          "isodate": "2021-07-31T19:00:00-04:00"
+        },
+        {
+          "timestamp": 1627773300,
+          "formatted_time": "7:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1915/4",
+          "csrf_token": "0cc0d303dc7a7eafb1d6ce986f80fbe84227f007476e8b1c61dca4aa0dec1ca6",
+          "isodate": "2021-07-31T19:15:00-04:00"
+        },
+        {
+          "timestamp": 1627774200,
+          "formatted_time": "7:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1930/4",
+          "csrf_token": "14d85b1535a341c5d72e5c99f229c003283a7a09dd3769fc379f341afceab73f",
+          "isodate": "2021-07-31T19:30:00-04:00"
+        },
+        {
+          "timestamp": 1627775100,
+          "formatted_time": "7:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/1945/4",
+          "csrf_token": "b9e97edbb9a4d199063ef4e086afcc5d0f55b2376042914674270f29189f32a5",
+          "isodate": "2021-07-31T19:45:00-04:00"
+        },
+        {
+          "timestamp": 1627776000,
+          "formatted_time": "8:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/2000/4",
+          "csrf_token": "2b6925bf63f6be5192f6037fe78b2dc2adce08dd61817c6ef4a88d04df05481d",
+          "isodate": "2021-07-31T20:00:00-04:00"
+        },
+        {
+          "timestamp": 1627776900,
+          "formatted_time": "8:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/2015/4",
+          "csrf_token": "bcd9164509c99b8ad0694ea871b310310dc593dd389cb488105012bc6f8f76fd",
+          "isodate": "2021-07-31T20:15:00-04:00"
+        },
+        {
+          "timestamp": 1627777800,
+          "formatted_time": "8:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/2030/4",
+          "csrf_token": "0050e0525921fd3c165a3c49ec2229101395b8cb05b9e3ac75953edcd03c3b8f",
+          "isodate": "2021-07-31T20:30:00-04:00"
+        },
+        {
+          "timestamp": 1627778700,
+          "formatted_time": "8:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/2045/4",
+          "csrf_token": "eac907401e1809a4b5ea462608860bcb2052aa67589f5cad8c48bc0e3bb56144",
+          "isodate": "2021-07-31T20:45:00-04:00"
+        },
+        {
+          "timestamp": 1627779600,
+          "formatted_time": "9:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/2100/4",
+          "csrf_token": "efa9df7386c3544159cf7a6fa4202ca02d6927183b474d758232494f8bb8ba46",
+          "isodate": "2021-07-31T21:00:00-04:00"
+        },
+        {
+          "timestamp": 1627780500,
+          "formatted_time": "9:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/2115/4",
+          "csrf_token": "4d8523d67d5e7504e1781d48d9e040463db6dc5f75fdf404aa0f84315c873610",
+          "isodate": "2021-07-31T21:15:00-04:00"
+        },
+        {
+          "timestamp": 1627781400,
+          "formatted_time": "9:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-31/2130/4",
+          "csrf_token": "aca3adb3b0f83d3e073bf7e0a6b12a1532e22692f9349e4ac671c8414418bd2d",
+          "isodate": "2021-07-31T21:30:00-04:00"
+        }
+      ],
+      "date": "Sat, Jul 31",
+      "covers": 4,
+      "time": "12:00 PM",
+      "timestamp": 1627732800,
+      "msg": "Availability on <strong><%=date%></strong> around <strong><%=time%></strong> for <strong><%=covers%> guests:</strong>",
+      "isodate": "2021-07-31T12:00:00-04:00"
+    },
+    {
+      "availability_list": [
+        {
+          "timestamp": 1627833600,
+          "formatted_time": "12:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1200/4",
+          "csrf_token": "1ac12bc78f3cf8eb9f30235fc7512ab7ea7bff1efb1a11fcbd8bd5dd881b96ff",
+          "isodate": "2021-08-01T12:00:00-04:00"
+        },
+        {
+          "timestamp": 1627834500,
+          "formatted_time": "12:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1215/4",
+          "csrf_token": "7b0dfa0d4c10f430e981edba89a648baac0249705c209a95380b91e64b6fa1ef",
+          "isodate": "2021-08-01T12:15:00-04:00"
+        },
+        {
+          "timestamp": 1627835400,
+          "formatted_time": "12:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1230/4",
+          "csrf_token": "6708bf4b5d8d9eb194e2367fd8a411a904002429a477806c1c894c55ee90efcc",
+          "isodate": "2021-08-01T12:30:00-04:00"
+        },
+        {
+          "timestamp": 1627836300,
+          "formatted_time": "12:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1245/4",
+          "csrf_token": "a4b8e9e659522bd0041eefef5463ea2a6a383589a211e85594244cf247628312",
+          "isodate": "2021-08-01T12:45:00-04:00"
+        },
+        {
+          "timestamp": 1627837200,
+          "formatted_time": "1:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1300/4",
+          "csrf_token": "8221ee7db9c2afc5b4e1af9983da7d8e1162ee9d854f200aa8d30a2267ac97c9",
+          "isodate": "2021-08-01T13:00:00-04:00"
+        },
+        {
+          "timestamp": 1627838100,
+          "formatted_time": "1:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1315/4",
+          "csrf_token": "3138746adc8f4a1ddbe53c2347b5d810c06900382f1f932f25194bc5ecd008f6",
+          "isodate": "2021-08-01T13:15:00-04:00"
+        },
+        {
+          "timestamp": 1627839000,
+          "formatted_time": "1:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1330/4",
+          "csrf_token": "dfc5b46d614064c6dc799f72b48f6d2ed54358a718b2ef1bf0513de618a0578c",
+          "isodate": "2021-08-01T13:30:00-04:00"
+        },
+        {
+          "timestamp": 1627839900,
+          "formatted_time": "1:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1345/4",
+          "csrf_token": "eca37397b31ef19b226a16f2e7be2c7b1f1ab1c7de4b93058eadbd3d2da76057",
+          "isodate": "2021-08-01T13:45:00-04:00"
+        },
+        {
+          "timestamp": 1627840800,
+          "formatted_time": "2:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1400/4",
+          "csrf_token": "cc51c465e0b359cd97b9782a3f03381b7976cf8b206df70b0472397231d07978",
+          "isodate": "2021-08-01T14:00:00-04:00"
+        },
+        {
+          "timestamp": 1627841700,
+          "formatted_time": "2:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1415/4",
+          "csrf_token": "c706ad863625ded3f5db88f84c49c28f3ae7e019c5b5f1466645260624cba517",
+          "isodate": "2021-08-01T14:15:00-04:00"
+        },
+        {
+          "timestamp": 1627842600,
+          "formatted_time": "2:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1430/4",
+          "csrf_token": "54d636721137c63e1217b5a5bc4f9fc405f1d0254b9882b990e372c6e44a3012",
+          "isodate": "2021-08-01T14:30:00-04:00"
+        },
+        {
+          "timestamp": 1627843500,
+          "formatted_time": "2:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1445/4",
+          "csrf_token": "80383a545ab601cd69efc89b2464f9a3bdaf5dc19213a7ed5fb3d727480e4a2f",
+          "isodate": "2021-08-01T14:45:00-04:00"
+        },
+        {
+          "timestamp": 1627844400,
+          "formatted_time": "3:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1500/4",
+          "csrf_token": "39254a6ea3d561b6e54f48f442aecdc79269b96fb82f7667f4ae933862953c91",
+          "isodate": "2021-08-01T15:00:00-04:00"
+        },
+        {
+          "timestamp": 1627845300,
+          "formatted_time": "3:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1515/4",
+          "csrf_token": "29b7df2e0ae5ca5303a23eef58ad396e7bc0ed43738867189eec997b9ce6f4b3",
+          "isodate": "2021-08-01T15:15:00-04:00"
+        },
+        {
+          "timestamp": 1627846200,
+          "formatted_time": "3:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1530/4",
+          "csrf_token": "b259ec423f9889e15cb266275f3001f92a6cf626b71fab469e03a6be960027f8",
+          "isodate": "2021-08-01T15:30:00-04:00"
+        },
+        {
+          "timestamp": 1627847100,
+          "formatted_time": "3:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1545/4",
+          "csrf_token": "0e66fd45906b96dc7b5b7882898168d556585550a184333910a9345abc897c1b",
+          "isodate": "2021-08-01T15:45:00-04:00"
+        },
+        {
+          "timestamp": 1627848000,
+          "formatted_time": "4:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1600/4",
+          "csrf_token": "35e9be598c403b343dbe77375f224c02cf13808f7db38d8b300e60b94e61b62a",
+          "isodate": "2021-08-01T16:00:00-04:00"
+        },
+        {
+          "timestamp": 1627848900,
+          "formatted_time": "4:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1615/4",
+          "csrf_token": "9408783d6496f909a5c928fef9f507918928c9cc2ee0b434632a6e5afc154a1a",
+          "isodate": "2021-08-01T16:15:00-04:00"
+        },
+        {
+          "timestamp": 1627849800,
+          "formatted_time": "4:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1630/4",
+          "csrf_token": "0630edf59f03b255e3ae64a5a985bb2f069c0e24f7e6b6d0405e4c7303adfa6d",
+          "isodate": "2021-08-01T16:30:00-04:00"
+        },
+        {
+          "timestamp": 1627850700,
+          "formatted_time": "4:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1645/4",
+          "csrf_token": "4555ba729e9729a2592f58293c64576eddc9218146e75d3e31a2919961a207a2",
+          "isodate": "2021-08-01T16:45:00-04:00"
+        },
+        {
+          "timestamp": 1627851600,
+          "formatted_time": "5:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1700/4",
+          "csrf_token": "86129abeb56f4f2c33f5562d55fd395367915fdd86c7f705c51b7aec104e7490",
+          "isodate": "2021-08-01T17:00:00-04:00"
+        },
+        {
+          "timestamp": 1627852500,
+          "formatted_time": "5:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1715/4",
+          "csrf_token": "2d7ee24b8d4b25aa6c201a719fd6ef7ed5b1c467baa080c510bc86337aef4679",
+          "isodate": "2021-08-01T17:15:00-04:00"
+        },
+        {
+          "timestamp": 1627853400,
+          "formatted_time": "5:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1730/4",
+          "csrf_token": "cf74833b0dfdce89e96d4ee3130a563ee6d6c5016aad1be92580af263ef1915d",
+          "isodate": "2021-08-01T17:30:00-04:00"
+        },
+        {
+          "timestamp": 1627854300,
+          "formatted_time": "5:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1745/4",
+          "csrf_token": "9e13d1ab3b502f58fe53b0060c3d173963731f1701ff57458bb2f60b278d11cc",
+          "isodate": "2021-08-01T17:45:00-04:00"
+        },
+        {
+          "timestamp": 1627855200,
+          "formatted_time": "6:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1800/4",
+          "csrf_token": "6909b070a6850bc06c0e4be70640ce7a7a09df45f18d1ba5c0f11894eb3d8ec2",
+          "isodate": "2021-08-01T18:00:00-04:00"
+        },
+        {
+          "timestamp": 1627856100,
+          "formatted_time": "6:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1815/4",
+          "csrf_token": "3ab107fb9e2c5b8d916dd13a1e382f35dd7fff26183228eca9d89fe5e177e521",
+          "isodate": "2021-08-01T18:15:00-04:00"
+        },
+        {
+          "timestamp": 1627857000,
+          "formatted_time": "6:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1830/4",
+          "csrf_token": "bd5b42325ef9d0d20274774cc0cde4a40847387bbf7a7a81d7cd8a1d1bd01434",
+          "isodate": "2021-08-01T18:30:00-04:00"
+        },
+        {
+          "timestamp": 1627857900,
+          "formatted_time": "6:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1845/4",
+          "csrf_token": "b1e601bf6d6bec7d8513c88f8a40f9ad4150f8ef96b783e251dc7b19a8c45dbc",
+          "isodate": "2021-08-01T18:45:00-04:00"
+        },
+        {
+          "timestamp": 1627858800,
+          "formatted_time": "7:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1900/4",
+          "csrf_token": "58acd00a2e0a2b2c998e12a747103682754a51250c35b887f2cff6cedbfd5a3a",
+          "isodate": "2021-08-01T19:00:00-04:00"
+        },
+        {
+          "timestamp": 1627859700,
+          "formatted_time": "7:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1915/4",
+          "csrf_token": "83910864dd8756de1caff056caca5290b7fdb50e9fdbdd02807e3ee7612e2024",
+          "isodate": "2021-08-01T19:15:00-04:00"
+        },
+        {
+          "timestamp": 1627860600,
+          "formatted_time": "7:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1930/4",
+          "csrf_token": "ccd52f3d4f694c0358855a5a52825c768b3a852fbb76b6e8096c550c6dd891be",
+          "isodate": "2021-08-01T19:30:00-04:00"
+        },
+        {
+          "timestamp": 1627861500,
+          "formatted_time": "7:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/1945/4",
+          "csrf_token": "37467b0bd0e42771fc32f3cf526ade77e614d8006215634cf1ee69a690e672b5",
+          "isodate": "2021-08-01T19:45:00-04:00"
+        },
+        {
+          "timestamp": 1627862400,
+          "formatted_time": "8:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/2000/4",
+          "csrf_token": "cfed42b52568f92983e95e644cacf4ed529af1178135ee2ffc28752613091c01",
+          "isodate": "2021-08-01T20:00:00-04:00"
+        },
+        {
+          "timestamp": 1627863300,
+          "formatted_time": "8:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/2015/4",
+          "csrf_token": "af6d144ced79d7faba74f37b09410478ecaf74d6fb0864c2cd0a0e74aa72c473",
+          "isodate": "2021-08-01T20:15:00-04:00"
+        },
+        {
+          "timestamp": 1627864200,
+          "formatted_time": "8:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/2030/4",
+          "csrf_token": "454884562f58ec54c7be25a7d75f8dae8bc91fa5f8e51f7735e4a0b1d04dded7",
+          "isodate": "2021-08-01T20:30:00-04:00"
+        },
+        {
+          "timestamp": 1627865100,
+          "formatted_time": "8:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/2045/4",
+          "csrf_token": "21d57fcf2265922876175cf7c8303232896c25ce54f6fd87dede8c3e436b5a17",
+          "isodate": "2021-08-01T20:45:00-04:00"
+        },
+        {
+          "timestamp": 1627866000,
+          "formatted_time": "9:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/2100/4",
+          "csrf_token": "d406c9411e6b3acb942d216c2074def7d81a6c37b93627e5155ec9dcf15e9a80",
+          "isodate": "2021-08-01T21:00:00-04:00"
+        },
+        {
+          "timestamp": 1627866900,
+          "formatted_time": "9:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/2115/4",
+          "csrf_token": "0bc1b4ae6d60a59490e5b29b639be3ece35921da4188b6ee4b0dd0f88fbdd24e",
+          "isodate": "2021-08-01T21:15:00-04:00"
+        },
+        {
+          "timestamp": 1627867800,
+          "formatted_time": "9:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-01/2130/4",
+          "csrf_token": "975c2d6baea0006893eee7bb82394754edc2e1bbcb3a6678f4d4ce85f1513f7e",
+          "isodate": "2021-08-01T21:30:00-04:00"
+        }
+      ],
+      "date": "Sun, Aug 1",
+      "covers": 4,
+      "time": "12:00 PM",
+      "timestamp": 1627819200,
+      "msg": "Availability on <strong><%=date%></strong> around <strong><%=time%></strong> for <strong><%=covers%> guests:</strong>",
+      "isodate": "2021-08-01T12:00:00-04:00"
+    },
+    {
+      "availability_list": [
+        {
+          "timestamp": 1627920000,
+          "formatted_time": "12:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1200/4",
+          "csrf_token": "04f26fa6e5dff9d35725d86bdf8bb7fdbe59770b94310391469f2d9f5864e6b0",
+          "isodate": "2021-08-02T12:00:00-04:00"
+        },
+        {
+          "timestamp": 1627920900,
+          "formatted_time": "12:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1215/4",
+          "csrf_token": "862a76569062cdcff370878045767c46cb4612118ddb3837552d9a50f098d836",
+          "isodate": "2021-08-02T12:15:00-04:00"
+        },
+        {
+          "timestamp": 1627921800,
+          "formatted_time": "12:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1230/4",
+          "csrf_token": "739f6e770a541313c145cde732b5e0f5e6169ba52adb4eac8eb8507f91bc757e",
+          "isodate": "2021-08-02T12:30:00-04:00"
+        },
+        {
+          "timestamp": 1627922700,
+          "formatted_time": "12:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1245/4",
+          "csrf_token": "b7a1d1a79818ec592172f7a2e9476b994832029e95ebe8f48338ff96f289121e",
+          "isodate": "2021-08-02T12:45:00-04:00"
+        },
+        {
+          "timestamp": 1627923600,
+          "formatted_time": "1:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1300/4",
+          "csrf_token": "fd2a6097442d4b828b836e5ff4f26a690df25630f1fe2023d7116b61ec3b3793",
+          "isodate": "2021-08-02T13:00:00-04:00"
+        },
+        {
+          "timestamp": 1627924500,
+          "formatted_time": "1:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1315/4",
+          "csrf_token": "deb50610532409981ab44832ca8f1ea71424ac9213bca7f2cfdaa1a23ea3ecd0",
+          "isodate": "2021-08-02T13:15:00-04:00"
+        },
+        {
+          "timestamp": 1627925400,
+          "formatted_time": "1:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1330/4",
+          "csrf_token": "7d83063f793083062dde9769ada8242f493dc5cba3c71bc2b2ddc61f68fdecff",
+          "isodate": "2021-08-02T13:30:00-04:00"
+        },
+        {
+          "timestamp": 1627926300,
+          "formatted_time": "1:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1345/4",
+          "csrf_token": "2143bc838a4c9f755e66ab6afd760b3a6fafd8c2559a3ded23e158bfc4e74379",
+          "isodate": "2021-08-02T13:45:00-04:00"
+        },
+        {
+          "timestamp": 1627927200,
+          "formatted_time": "2:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1400/4",
+          "csrf_token": "1103d43ee65125e5385fc96aba95c250dab33341ae2cfd5104dc9b51513272fe",
+          "isodate": "2021-08-02T14:00:00-04:00"
+        },
+        {
+          "timestamp": 1627928100,
+          "formatted_time": "2:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1415/4",
+          "csrf_token": "8f28667e6b53d826998e11d8981f32d58ac3262576b010a5df8aa715cc32334b",
+          "isodate": "2021-08-02T14:15:00-04:00"
+        },
+        {
+          "timestamp": 1627929000,
+          "formatted_time": "2:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1430/4",
+          "csrf_token": "adf434dda15a388989b244a9974503d09e781c37cc5701970ccf55c77e4f8469",
+          "isodate": "2021-08-02T14:30:00-04:00"
+        },
+        {
+          "timestamp": 1627929900,
+          "formatted_time": "2:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1445/4",
+          "csrf_token": "deb37010ac4ba56ac86ac9a74bd3348980fd5da40adc81290404c058d2144bb5",
+          "isodate": "2021-08-02T14:45:00-04:00"
+        },
+        {
+          "timestamp": 1627930800,
+          "formatted_time": "3:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1500/4",
+          "csrf_token": "b168f939076ace8877f0101580d53d5e635667de4f4143e537ec28c4c4581ab8",
+          "isodate": "2021-08-02T15:00:00-04:00"
+        },
+        {
+          "timestamp": 1627931700,
+          "formatted_time": "3:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1515/4",
+          "csrf_token": "6cad709af172d2785a3dfe26a6907f02c9fea04ba22135ce4d1217d985e17a27",
+          "isodate": "2021-08-02T15:15:00-04:00"
+        },
+        {
+          "timestamp": 1627932600,
+          "formatted_time": "3:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1530/4",
+          "csrf_token": "ec5ada5696876b4262718eb0772cd1bae027a476a173d6598c7d0f374d8b5765",
+          "isodate": "2021-08-02T15:30:00-04:00"
+        },
+        {
+          "timestamp": 1627933500,
+          "formatted_time": "3:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1545/4",
+          "csrf_token": "4c0ff8b75655ff27e6040ff9bcb646823c1d72bcfa2b84117d13b3468ec655d3",
+          "isodate": "2021-08-02T15:45:00-04:00"
+        },
+        {
+          "timestamp": 1627934400,
+          "formatted_time": "4:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1600/4",
+          "csrf_token": "900b128f4ebe32c118824a96116ccb72a51d3c76e27be7fd87deff827aed1187",
+          "isodate": "2021-08-02T16:00:00-04:00"
+        },
+        {
+          "timestamp": 1627935300,
+          "formatted_time": "4:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1615/4",
+          "csrf_token": "c37e4a06f4376a67ede5e01c3f887b70a0eecf8c3836c8bc8732b37ab54a779f",
+          "isodate": "2021-08-02T16:15:00-04:00"
+        },
+        {
+          "timestamp": 1627936200,
+          "formatted_time": "4:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1630/4",
+          "csrf_token": "7bf0358697027b64822fdf6a0ef2222f67a355991cd4ebf98c0b1f340f5d3050",
+          "isodate": "2021-08-02T16:30:00-04:00"
+        },
+        {
+          "timestamp": 1627937100,
+          "formatted_time": "4:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1645/4",
+          "csrf_token": "ce717d0b5a58f32f0ee8d1d800e606f88eec7ad25817acf983d1b38133437245",
+          "isodate": "2021-08-02T16:45:00-04:00"
+        },
+        {
+          "timestamp": 1627938000,
+          "formatted_time": "5:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1700/4",
+          "csrf_token": "9d6dd5a7f808361c5d1b6709031bd9ad3289e95f46f84ffb9390e669a436d194",
+          "isodate": "2021-08-02T17:00:00-04:00"
+        },
+        {
+          "timestamp": 1627938900,
+          "formatted_time": "5:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1715/4",
+          "csrf_token": "992cd9157768f1bf6f86a65a0b8a637990094a4c471a0a79f81b8c9333bac7f1",
+          "isodate": "2021-08-02T17:15:00-04:00"
+        },
+        {
+          "timestamp": 1627939800,
+          "formatted_time": "5:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1730/4",
+          "csrf_token": "dfe6deaf9a439b3d78c30a2549df18174233376e675ef510bddcabd9d6836b13",
+          "isodate": "2021-08-02T17:30:00-04:00"
+        },
+        {
+          "timestamp": 1627940700,
+          "formatted_time": "5:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1745/4",
+          "csrf_token": "b70232e1d005e307e7e6ddc528a5576da7a73b2a67bc54baec95ca14a12a3841",
+          "isodate": "2021-08-02T17:45:00-04:00"
+        },
+        {
+          "timestamp": 1627941600,
+          "formatted_time": "6:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1800/4",
+          "csrf_token": "c7702d6d4220ee0c8339d2d8eaadcdaaba68d271d75e21c8a6740a6b83bc4464",
+          "isodate": "2021-08-02T18:00:00-04:00"
+        },
+        {
+          "timestamp": 1627942500,
+          "formatted_time": "6:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1815/4",
+          "csrf_token": "2d8431cee10954b1d9455eb1249c7d32937ba8f3deb8c39ef28bb1bf5b8ef5eb",
+          "isodate": "2021-08-02T18:15:00-04:00"
+        },
+        {
+          "timestamp": 1627943400,
+          "formatted_time": "6:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1830/4",
+          "csrf_token": "b5fda4d47da30cf746a802df37bda12f4962deaf1668277d039cfa20f984eeaf",
+          "isodate": "2021-08-02T18:30:00-04:00"
+        },
+        {
+          "timestamp": 1627944300,
+          "formatted_time": "6:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1845/4",
+          "csrf_token": "23e31f96aac55495cee3c7eac975ff737528e577dc1a48ac80c8e79f36b7e0fd",
+          "isodate": "2021-08-02T18:45:00-04:00"
+        },
+        {
+          "timestamp": 1627945200,
+          "formatted_time": "7:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1900/4",
+          "csrf_token": "5efe4ea7750e1e637916ee51edb677cf123d96d8d74195f0cc91a9a757eee0c9",
+          "isodate": "2021-08-02T19:00:00-04:00"
+        },
+        {
+          "timestamp": 1627946100,
+          "formatted_time": "7:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1915/4",
+          "csrf_token": "80aed15ecd5c79016f06e1c69990e5a407d05323bc32e79588d7f586713a31ae",
+          "isodate": "2021-08-02T19:15:00-04:00"
+        },
+        {
+          "timestamp": 1627947000,
+          "formatted_time": "7:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1930/4",
+          "csrf_token": "7ea8bbf0e74a834d916a896d357f68ea16e9091051416b876436b04325b9862f",
+          "isodate": "2021-08-02T19:30:00-04:00"
+        },
+        {
+          "timestamp": 1627947900,
+          "formatted_time": "7:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/1945/4",
+          "csrf_token": "da076b85c7979e5a03c5149c30e85979f32d3508a85bc8eeea8042f9b2ea4e44",
+          "isodate": "2021-08-02T19:45:00-04:00"
+        },
+        {
+          "timestamp": 1627948800,
+          "formatted_time": "8:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/2000/4",
+          "csrf_token": "eee6e70f0a095de21816e2490d581367aa579a20c65160c008a9b0b99ecd76db",
+          "isodate": "2021-08-02T20:00:00-04:00"
+        },
+        {
+          "timestamp": 1627949700,
+          "formatted_time": "8:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/2015/4",
+          "csrf_token": "5d7174768b07ac24862685127a894bcf26604e57567bf0695c461e754230ef66",
+          "isodate": "2021-08-02T20:15:00-04:00"
+        },
+        {
+          "timestamp": 1627950600,
+          "formatted_time": "8:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/2030/4",
+          "csrf_token": "b7c9f5f1d7bd0775bdb947beef5fb1c4b27f19e673beed37a78adc2cdca749ca",
+          "isodate": "2021-08-02T20:30:00-04:00"
+        },
+        {
+          "timestamp": 1627951500,
+          "formatted_time": "8:45 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/2045/4",
+          "csrf_token": "4a4b563f1f9d3b76af9314d5cb721b47dbc5265065060f6125cfbd6ec4a7d13c",
+          "isodate": "2021-08-02T20:45:00-04:00"
+        },
+        {
+          "timestamp": 1627952400,
+          "formatted_time": "9:00 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/2100/4",
+          "csrf_token": "a58d4d3ad86a7d7e91fda19312ac93fa0f63a1c3aa1632c99f2b71aaf585a432",
+          "isodate": "2021-08-02T21:00:00-04:00"
+        },
+        {
+          "timestamp": 1627953300,
+          "formatted_time": "9:15 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/2115/4",
+          "csrf_token": "e9a9bd424fa0cae22b1ea5f9d4a4f5ba6c0baed81f4dcacb579c1d127dc9dc28",
+          "isodate": "2021-08-02T21:15:00-04:00"
+        },
+        {
+          "timestamp": 1627954200,
+          "formatted_time": "9:30 PM",
+          "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-08-02/2130/4",
+          "csrf_token": "5e88c10084ae05c88f7a543bdffc666b67f0a57c5bc704cb59b84dfca1a2ca20",
+          "isodate": "2021-08-02T21:30:00-04:00"
+        }
+      ],
+      "date": "Mon, Aug 2",
+      "covers": 4,
+      "time": "12:00 PM",
+      "timestamp": 1627905600,
+      "msg": "Availability on <strong><%=date%></strong> around <strong><%=time%></strong> for <strong><%=covers%> guests:</strong>",
+      "isodate": "2021-08-02T12:00:00-04:00"
+    }
+  ],
+  "availability_profile": "exact",
+  "exact_match": {
+    "timestamp": 1627488000,
+    "formatted_time": "12:00 PM",
+    "form_action": "/reservations/angeletto-restaurant-new-york/checkout/2021-07-28/1200/4",
+    "csrf_token": "6a8ef6de11eebef8b0c9145aebd8f292ca056345a13abf712d7a710080a5ada3",
+    "isodate": "2021-07-28T12:00:00-04:00"
+  },
+  "notify_me_message": null,
+  "notify_me_url": null,
+  "enable_next_available": false,
+  "motivational_content": null,
+  "recovery_profile": "none"
+}

@@ -1,0 +1,51 @@
+{{- if .Values.cronjob }}
+{{- range $job, $val := .Values.cronjob.crons }}
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: {{ .name }}
+  labels:
+    {{- include "invisible-app.labels" $ | nindent 4 }}
+spec:
+  schedule: {{ .schedule | quote}}
+  successfulJobsHistoryLimit: 0
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          restartPolicy: Never
+          containers:
+          - image: "{{ $.Values.image.repository }}:{{ $.Values.image.tag }}"
+            envFrom: {{- toYaml $.Values.envFrom | nindent 12 }}
+            name: {{ .name }}
+            args:
+              - sh
+              - -c
+              - |
+                touch /tmp/healthy
+                sleep 2s
+                node {{ .pathToScript }}
+                sleep 30
+                rm -f /tmp/healthy
+            imagePullPolicy: {{ $.Values.image.pullPolicy }}
+            ports:
+            - name: http
+              containerPort: {{ $.Values.appPort }}
+              protocol: TCP
+            livenessProbe:
+              exec:
+                command:
+                - cat
+                - /tmp/healthy
+              initialDelaySeconds: 5
+              periodSeconds: 5
+            readinessProbe:
+              exec:
+                  command:
+                  - cat
+                  - /tmp/healthy
+              initialDelaySeconds: 5
+              periodSeconds: 5
+---
+{{- end}}
+{{- end}}

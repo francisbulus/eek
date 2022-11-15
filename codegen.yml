@@ -1,0 +1,18 @@
+schema: 'src/external/mimir/schema.graphql'
+documents: 'src/external/mimir/graphql/**/*.graphql'
+generates:
+  ./src/generated/graphql.ts:
+    config:
+      withHooks: true
+      typesPrefix: I
+      nameSuffix: 'Query'
+      enumsAsConst: true
+    plugins:
+      - typescript
+      - typescript-operations
+      - typed-document-node
+      # - typescript-document-nodes
+hooks:
+  afterOneFileWrite:
+    - prettier --write
+    - eslint --quiet --fix

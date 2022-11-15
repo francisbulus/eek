@@ -1,0 +1,483 @@
+{
+  "announcement": null,
+  "reopen": {
+    "date": null
+  },
+  "custom_affiliations": [],
+  "collections": [
+    {
+      "id": 889,
+      "type_id": 3,
+      "file_name": "collection-climbing",
+      "image": "https://s3.amazonaws.com/resy.com/images/lists/collection-climbing.svg",
+      "name": "Climbing",
+      "short_name": "Climbing",
+      "description": "You dine, the restaurant climbs. Climbing on Resy is the only data-driven list powered by your reservations. Consider it a curated guide by locals, for locals."
+    },
+    {
+      "id": 890,
+      "type_id": 4,
+      "file_name": "collection-new",
+      "image": "https://s3.amazonaws.com/resy.com/images/lists/collection-new.svg",
+      "name": "New on Resy",
+      "short_name": "New on Resy",
+      "description": "Lucky for you, these restaurants are brand-New on Resy. We've sorted them by popularity because if you know, you know."
+    }
+  ],
+  "config": {
+    "allow_bypass_payment_method": 1,
+    "allow_multiple_resys": 0,
+    "enable_discovery": 1,
+    "enable_invite": 1,
+    "enable_resypay": 0,
+    "hospitality_included": 0
+  },
+  "contact": {
+    "phone_number": "+12062567525",
+    "url": "https://www.fogroomseattle.com/"
+  },
+  "content": [
+    {
+      "attribution": null,
+      "body": "Featuring Instagram-worthy views from the 16th floor rooftop of downtown\u2019s Charter Hotel, this is one of those rare hotel bars that attracts locals as much as it does tourists. Cocktails are pretty much the main attraction, but dishes like crab rolls and shoestring fries, or charcuterie boards and chocolate pot de creme, will keep the party going just a wee bit longer.",
+      "display": {
+        "type": "text"
+      },
+      "icon": {
+        "url": "https://s3.amazonaws.com/resy.com/images/icons/heart.svg"
+      },
+      "locale": {
+        "language": "en-us"
+      },
+      "name": "why_we_like_it",
+      "title": null
+    },
+    {
+      "attribution": null,
+      "body": "",
+      "display": {
+        "type": "text"
+      },
+      "icon": {
+        "url": "https://s3.amazonaws.com/resy.com/images/icons/quote.svg"
+      },
+      "locale": {
+        "language": "en-us"
+      },
+      "name": "tagline",
+      "title": null
+    },
+    {
+      "attribution": null,
+      "body": null,
+      "display": {
+        "type": "text"
+      },
+      "icon": {
+        "url": "https://s3.amazonaws.com/resy.com/images/icons/chat.svg"
+      },
+      "locale": null,
+      "name": "from_the_venue",
+      "title": null
+    },
+    {
+      "attribution": null,
+      "body": "Fog Room Lounge is open Tuesday through Saturday from 5 PM to 12 AM and fully complies with CDC, State and County regulations regarding COVID-19. As we currently operate at reduced capacity, reservations are highly recommended. If you need to make any changes to your reservation, please call us at (206) 256-7525 and leave a voice message or adjust the reservation on Resy. If you are running late please note that for each reservation we only hold your table for 15 minutes unless otherwise notified,  after which we will give your table to next guest on our waitlist. The patio is covered and heated, however please dress according to weather conditions.",
+      "display": {
+        "type": "text"
+      },
+      "icon": {
+        "url": "https://s3.amazonaws.com/resy.com/images/icons/info.svg"
+      },
+      "locale": {
+        "language": "en-us"
+      },
+      "name": "need_to_know",
+      "title": null
+    },
+    {
+      "attribution": null,
+      "body": "Seattle's only all-season rooftop lounge. Fog Room offers creative cocktails, wine and beer alongside delicious sharable plates in a comfortably luxurious indoor-outdoor space perched 16 floors above the hustle of 2nd Avenue. Views of Elliot Bay and the city abound. Fog Room is a 21 and over establishment.",
+      "display": {
+        "type": "text"
+      },
+      "icon": {
+        "url": null
+      },
+      "locale": {
+        "language": "en-us"
+      },
+      "name": "about",
+      "title": null
+    },
+    {
+      "attribution": null,
+      "body": null,
+      "display": {
+        "type": "text"
+      },
+      "icon": {
+        "url": null
+      },
+      "locale": null,
+      "name": "pickup_description",
+      "title": null
+    }
+  ],
+  "id": {
+    "foursquare": "null",
+    "google": "ChIJn7R-pGtrkFQRE_0Z11upVTw",
+    "resy": 43644,
+    "fb_pixel": "787306891881694"
+  },
+  "images": [
+    "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/640x360",
+    "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/640x360",
+    "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/640x360",
+    "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/640x360",
+    "https://image.resy.com/3/003/2/43644/3fd045ba8e9df5559e3f18a3e7140edc571940aa/jpg/640x360",
+    "https://image.resy.com/3/003/2/43644/7101608d69705f6cb2107e13c921844c7e3a0185/jpg/640x360"
+  ],
+  "map_images": {
+    "222x222": {
+      "15": {
+        "FF2500": "https://s3.amazonaws.com/resy.com/images/venues/maps/43644/222x222-15-FF2500.png"
+      }
+    }
+  },
+  "responsive_images": {
+    "urls": {
+      "94e3b83a03d0a0dc4946ee5c320507e75a42a0e6": {
+        "1:1": {
+          "200": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/1:1/200",
+          "400": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/1:1/400",
+          "800": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/1:1/800",
+          "1600": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/1:1/1600"
+        },
+        "4:3": {
+          "400": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/4:3/400",
+          "800": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/4:3/800",
+          "1600": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/4:3/1600"
+        },
+        "16:9": {
+          "400": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/16:9/400",
+          "800": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/16:9/800",
+          "1600": "https://image.resy.com/3/003/2/43644/94e3b83a03d0a0dc4946ee5c320507e75a42a0e6/jpg/16:9/1600"
+        }
+      },
+      "f334b21a0d3d7647cd0912da35bd299c42564f6f": {
+        "1:1": {
+          "200": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/1:1/200",
+          "400": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/1:1/400",
+          "800": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/1:1/800"
+        },
+        "4:3": {
+          "400": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/4:3/400",
+          "800": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/4:3/800",
+          "1600": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/4:3/1600"
+        },
+        "16:9": {
+          "400": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/16:9/400",
+          "800": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/16:9/800",
+          "1600": "https://image.resy.com/3/003/2/43644/f334b21a0d3d7647cd0912da35bd299c42564f6f/jpg/16:9/1600"
+        }
+      },
+      "cc96bc7419c386675687e17b7fb82139414fd2c6": {
+        "1:1": {
+          "200": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/1:1/200",
+          "400": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/1:1/400",
+          "800": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/1:1/800",
+          "1600": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/1:1/1600"
+        },
+        "4:3": {
+          "400": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/4:3/400",
+          "800": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/4:3/800",
+          "1600": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/4:3/1600"
+        },
+        "16:9": {
+          "400": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/16:9/400",
+          "800": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/16:9/800",
+          "1600": "https://image.resy.com/3/003/2/43644/cc96bc7419c386675687e17b7fb82139414fd2c6/jpg/16:9/1600"
+        }
+      },
+      "0a97c0d413d6e048b469d9ccf33d34173450dbe9": {
+        "1:1": {
+          "200": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/1:1/200",
+          "400": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/1:1/400",
+          "800": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/1:1/800",
+          "1600": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/1:1/1600"
+        },
+        "4:3": {
+          "400": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/4:3/400",
+          "800": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/4:3/800",
+          "1600": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/4:3/1600"
+        },
+        "16:9": {
+          "400": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/16:9/400",
+          "800": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/16:9/800",
+          "1600": "https://image.resy.com/3/003/2/43644/0a97c0d413d6e048b469d9ccf33d34173450dbe9/jpg/16:9/1600"
+        }
+      },
+      "3fd045ba8e9df5559e3f18a3e7140edc571940aa": {
+        "1:1": {
+          "200": "https://image.resy.com/3/003/2/43644/3fd045ba8e9df5559e3f18a3e7140edc571940aa/jpg/1:1/200",
+          "400": "https://image.resy.com/3/003/2/43644/3fd045ba8e9df5559e3f18a3e7140edc571940aa/jpg/1:1/400"
+        },
+        "4:3": {
+          "400": "https://image.resy.com/3/003/2/43644/3fd045ba8e9df5559e3f18a3e7140edc571940aa/jpg/4:3/400",
+          "800": "https://image.resy.com/3/003/2/43644/3fd045ba8e9df5559e3f18a3e7140edc571940aa/jpg/4:3/800"
+        },
+        "16:9": {
+          "400": "https://image.resy.com/3/003/2/43644/3fd045ba8e9df5559e3f18a3e7140edc571940aa/jpg/16:9/400",
+          "800": "https://image.resy.com/3/003/2/43644/3fd045ba8e9df5559e3f18a3e7140edc571940aa/jpg/16:9/800"
+        }
+      },
+      "7101608d69705f6cb2107e13c921844c7e3a0185": {
+        "1:1": {
+          "200": "https://image.resy.com/3/003/2/43644/7101608d69705f6cb2107e13c921844c7e3a0185/jpg/1:1/200",
+          "400": "https://image.resy.com/3/003/2/43644/7101608d69705f6cb2107e13c921844c7e3a0185/jpg/1:1/400",
+          "800": "https://image.resy.com/3/003/2/43644/7101608d69705f6cb2107e13c921844c7e3a0185/jpg/1:1/800"
+        },
+        "4:3": {
+          "400": "https://image.resy.com/3/003/2/43644/7101608d69705f6cb2107e13c921844c7e3a0185/jpg/4:3/400",
+          "800": "https://image.resy.com/3/003/2/43644/7101608d69705f6cb2107e13c921844c7e3a0185/jpg/4:3/800"
+        },
+        "16:9": {
+          "400": "https://image.resy.com/3/003/2/43644/7101608d69705f6cb2107e13c921844c7e3a0185/jpg/16:9/400",
+          "800": "https://image.resy.com/3/003/2/43644/7101608d69705f6cb2107e13c921844c7e3a0185/jpg/16:9/800"
+        }
+      }
+    },
+    "file_names": [
+      "94e3b83a03d0a0dc4946ee5c320507e75a42a0e6",
+      "f334b21a0d3d7647cd0912da35bd299c42564f6f",
+      "cc96bc7419c386675687e17b7fb82139414fd2c6",
+      "0a97c0d413d6e048b469d9ccf33d34173450dbe9",
+      "3fd045ba8e9df5559e3f18a3e7140edc571940aa",
+      "7101608d69705f6cb2107e13c921844c7e3a0185"
+    ],
+    "aspect_ratios": {
+      "1:1": {
+        "200": "200x200",
+        "400": "400x400",
+        "800": "800x800",
+        "1600": "1600x1600"
+      },
+      "4:3": {
+        "400": "400x300",
+        "800": "800x600",
+        "1600": "1600x1200"
+      },
+      "16:9": {
+        "400": "400x225",
+        "800": "800x450",
+        "1600": "1600x900"
+      }
+    }
+  },
+  "inventory": {
+    "type": {
+      "id": 2
+    }
+  },
+  "links": {
+    "deep": "resy://resy.com/VenueDetails?venue_id=43644",
+    "web": "https://resy.com/cities/sea/fog-room"
+  },
+  "locale": {
+    "currency": "USD",
+    "time_zone": "PST8PDT"
+  },
+  "location": {
+    "address_1": "1610 2nd Ave",
+    "address_2": null,
+    "code": "sea",
+    "country": "United States",
+    "country_iso3166": "US",
+    "cross_street_1": "Pine St",
+    "cross_street_2": "Stewart St",
+    "id": 13,
+    "latitude": 47.6110571354808,
+    "locality": "Seattle",
+    "longitude": -122.340094999037,
+    "neighborhood": "Downtown",
+    "postal_code": "98101",
+    "region": "WA"
+  },
+  "custom_affiliation": {
+    "id": null
+  },
+  "venue_group": {
+    "id": 198596,
+    "name": "Widewaters Hotels",
+    "venues": []
+  },
+  "metadata": {
+    "description": "Fog Room is a Cocktail Bar restaurant in the Downtown neighborhood of Seattle.",
+    "keywords": ["book","dining","reservations","restaurant","seattle","98101","downtown","cocktail bar","resy","5.0 star"]
+  },
+  "name": "Fog Room",
+  "price_range_id": 1,
+  "currency_symbol": "$",
+  "rater": [{"name": "Resy","scale": 5,"score": 4.05167,"total": 329}],
+  "resy_select": 0,
+  "is_gdc": 0,
+  "is_global_dining_access": false,
+  "is_global_dining_access_only": false,
+  "is_rga": false,
+  "gdc_perk": "",
+  "requires_reservation_transfers": 0,
+  "is_gns": 0,
+  "social": [],
+  "ticket": {
+    "average": 25,
+    "average_str": "$25"
+  },
+  "type": "Cocktail Bar",
+  "url_slug": "fog-room",
+  "favorite": null,
+  "user_login_preference": {
+    "mobile_first": 1
+  },
+  "source": {
+    "name": null,
+    "logo": null,
+    "terms_of_service": null,
+    "privacy_policy": null
+  },
+  "pickups": {
+    "active": false
+  },
+  "hide_allergy_question": false,
+  "hide_occasion_question": false,
+  "hide_special_request_question": false,
+  "safety_categories": [
+    {
+      "id": 1,
+      "value": "Social Distancing",
+      "order_num": 1,
+      "items": [
+        {
+          "id": 1,
+          "safety_category_id": 1,
+          "value": "Limited Capacity",
+          "order_num": 1,
+          "active": true
+        },
+        {
+          "id": 2,
+          "safety_category_id": 1,
+          "value": "Extra Space between Tables",
+          "order_num": 2,
+          "active": true
+        },
+        {
+          "id": 3,
+          "safety_category_id": 1,
+          "value": "Social distancing enforced in common areas",
+          "order_num": 3,
+          "active": true
+        },
+        {
+          "id": 4,
+          "safety_category_id": 1,
+          "value": "Designated pick-up area",
+          "order_num": 4,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "value": "Contactless Policies",
+      "order_num": 2,
+      "items": [{"id": 5,"safety_category_id": 2,"value": "Contactless / disposable menus","order_num": 1,"active": true}]
+    },
+    {
+      "id": 3,
+      "value": "Cleaning & Prevention",
+      "order_num": 3,
+      "items": [
+        {
+          "id": 10,
+          "safety_category_id": 3,
+          "value": "Sanitize between seatings",
+          "order_num": 1,
+          "active": true
+        },
+        {
+          "id": 11,
+          "safety_category_id": 3,
+          "value": "Frequent cleaning of common areas / restrooms",
+          "order_num": 2,
+          "active": true
+        },
+        {
+          "id": 12,
+          "safety_category_id": 3,
+          "value": "Provides hand sanitizer to guests",
+          "order_num": 3,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "value": "Protective Equipment",
+      "order_num": 4,
+      "items": [
+        {
+          "id": 14,
+          "safety_category_id": 4,
+          "value": "Staff wears masks",
+          "order_num": 1,
+          "active": true
+        },
+        {
+          "id": 16,
+          "safety_category_id": 4,
+          "value": "Diners required to wear masks when not seated",
+          "order_num": 3,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "value": "Staffing & Operations",
+      "order_num": 5,
+      "items": [
+        {
+          "id": 19,
+          "safety_category_id": 5,
+          "value": "Daily temperature checks / health screenings for staff",
+          "order_num": 2,
+          "active": true
+        },
+        {
+          "id": 22,
+          "safety_category_id": 5,
+          "value": "Increased cleaning / disinfecting in the back-of-house",
+          "order_num": 5,
+          "active": true
+        },
+        {
+          "id": 23,
+          "safety_category_id": 5,
+          "value": "Staff training on up-to-date safety information and precautions",
+          "order_num": 6,
+          "active": true
+        },
+        {
+          "id": 24,
+          "safety_category_id": 5,
+          "value": "Added food safety protocols",
+          "order_num": 7,
+          "active": true
+        }
+      ]
+    }
+  ],
+  "safety_info_url": null,
+  "is_active": 1
+}

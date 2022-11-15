@@ -1,0 +1,71 @@
+fragment StepRunDetails on StepRun {
+  id
+  name
+  processRun {
+    instance {
+      id
+      name
+      deadline
+      assistant {
+        id
+        profile {
+          name
+          email
+        }
+        company {
+          name
+          id
+        }
+      }
+      client {
+        id
+        profile {
+          name
+          email
+        }
+      }
+      owner {
+        id
+        profile {
+          name
+          email
+        }
+      }
+      quote {
+        id
+        amountInCents
+      }
+    }
+    process {
+      id
+      name
+    }
+  }
+  taskRun {
+    id
+    name
+    qaAssignee {
+      id
+      profile {
+        name
+        email
+      }
+    }
+    assignee {
+      id
+      profile {
+        name
+        email
+      }
+    }
+  }
+}
+
+query StepRun(
+  $id: Int!
+  $bustCache: Boolean
+) {
+  stepRun(id: $id, bustCache: $bustCache) {
+    ...StepRunDetails
+  }
+}

@@ -1,0 +1,3637 @@
+{
+  "sameDayAvailability":
+  {
+    "times": [],
+    "noTimesMessage": "At the moment, there\u2019s no online availability within 2.5 hours of 6:30 PM."
+  },
+  "multiDaysAvailability":
+  {
+    "nextAvailabilityIndex": 0,
+    "time": "6:30 pm",
+    "timeslots": [
+      {
+        "date": "Monday, July 26, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-07-26T17:15:00.000Z",
+            "timeString": "5:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-26%2017%3A15&sd=2021-07-26%2017%3A15&p=2&pt=100&pofids=&hash=2004978337&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-26T17:30:00.000Z",
+            "timeString": "5:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-26%2017%3A30&sd=2021-07-26%2017%3A30&p=2&pt=100&pofids=&hash=1854115771&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-26T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-26%2020%3A30&sd=2021-07-26%2020%3A30&p=2&pt=100&pofids=&hash=2680642447&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-26T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-26%2020%3A45&sd=2021-07-26%2020%3A45&p=2&pt=100&pofids=&hash=907469040&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, July 27, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-07-27T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-27%2018%3A00&sd=2021-07-27%2018%3A00&p=2&pt=100&pofids=&hash=1838944811&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-27T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-27%2018%3A15&sd=2021-07-27%2018%3A15&p=2&pt=100&pofids=&hash=99035278&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-27T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-27%2018%3A30&sd=2021-07-27%2018%3A30&p=2&pt=100&pofids=&hash=35710259&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-27T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-27%2020%3A30&sd=2021-07-27%2020%3A30&p=2&pt=100&pofids=&hash=258071073&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-27T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-27%2020%3A45&sd=2021-07-27%2020%3A45&p=2&pt=100&pofids=&hash=2251187588&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Wednesday, July 28, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-07-28T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-28%2020%3A30&sd=2021-07-28%2020%3A30&p=2&pt=100&pofids=&hash=668841413&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-28T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-28%2020%3A45&sd=2021-07-28%2020%3A45&p=2&pt=100&pofids=&hash=3461211214&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Thursday, July 29, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-07-29T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-29%2018%3A00&sd=2021-07-29%2018%3A00&p=2&pt=100&pofids=&hash=4046607055&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-29T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-29%2018%3A15&sd=2021-07-29%2018%3A15&p=2&pt=100&pofids=&hash=2782605058&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-29T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-29%2018%3A30&sd=2021-07-29%2018%3A30&p=2&pt=100&pofids=&hash=1348336441&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-29T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-29%2020%3A30&sd=2021-07-29%2020%3A30&p=2&pt=100&pofids=&hash=3791711341&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-29T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-29%2020%3A45&sd=2021-07-29%2020%3A45&p=2&pt=100&pofids=&hash=1393314533&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Friday, July 30, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-07-30T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-30%2018%3A00&sd=2021-07-30%2018%3A00&p=2&pt=100&pofids=&hash=3305730308&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-30T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-30%2018%3A15&sd=2021-07-30%2018%3A15&p=2&pt=100&pofids=&hash=3301581229&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-30T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-30%2018%3A30&sd=2021-07-30%2018%3A30&p=2&pt=100&pofids=&hash=4131897918&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-30T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-30%2020%3A30&sd=2021-07-30%2020%3A30&p=2&pt=100&pofids=&hash=1569242103&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-30T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-30%2020%3A45&sd=2021-07-30%2020%3A45&p=2&pt=100&pofids=&hash=70563140&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Saturday, July 31, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-07-31T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-31%2018%3A00&sd=2021-07-31%2018%3A00&p=2&pt=100&pofids=&hash=3595663247&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-31T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-31%2018%3A15&sd=2021-07-31%2018%3A15&p=2&pt=100&pofids=&hash=3395610604&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-31T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-31%2018%3A30&sd=2021-07-31%2018%3A30&p=2&pt=100&pofids=&hash=2017712855&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-31T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-31%2020%3A30&sd=2021-07-31%2020%3A30&p=2&pt=100&pofids=&hash=1146678744&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-07-31T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-07-31%2020%3A45&sd=2021-07-31%2020%3A45&p=2&pt=100&pofids=&hash=1590641956&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Monday, August 2, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-02T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-02%2018%3A00&sd=2021-08-02%2018%3A00&p=2&pt=100&pofids=&hash=4089330619&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-02T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-02%2018%3A15&sd=2021-08-02%2018%3A15&p=2&pt=100&pofids=&hash=2473092956&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-02T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-02%2018%3A30&sd=2021-08-02%2018%3A30&p=2&pt=100&pofids=&hash=490487574&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-02T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-02%2020%3A30&sd=2021-08-02%2020%3A30&p=2&pt=100&pofids=&hash=1972729425&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-02T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-02%2020%3A45&sd=2021-08-02%2020%3A45&p=2&pt=100&pofids=&hash=1935853994&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, August 3, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-03T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-03%2018%3A00&sd=2021-08-03%2018%3A00&p=2&pt=100&pofids=&hash=4265255002&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-03T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-03%2018%3A15&sd=2021-08-03%2018%3A15&p=2&pt=100&pofids=&hash=3043181002&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-03T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-03%2018%3A30&sd=2021-08-03%2018%3A30&p=2&pt=100&pofids=&hash=2082697586&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-03T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-03%2020%3A30&sd=2021-08-03%2020%3A30&p=2&pt=100&pofids=&hash=2557817429&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-03T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-03%2020%3A45&sd=2021-08-03%2020%3A45&p=2&pt=100&pofids=&hash=445236683&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Wednesday, August 4, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-04T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-04%2018%3A00&sd=2021-08-04%2018%3A00&p=2&pt=100&pofids=&hash=909746332&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-04T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-04%2018%3A15&sd=2021-08-04%2018%3A15&p=2&pt=100&pofids=&hash=725829088&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-04T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-04%2018%3A30&sd=2021-08-04%2018%3A30&p=2&pt=100&pofids=&hash=1199020478&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-04T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-04%2020%3A30&sd=2021-08-04%2020%3A30&p=2&pt=100&pofids=&hash=4293423271&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-04T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-04%2020%3A45&sd=2021-08-04%2020%3A45&p=2&pt=100&pofids=&hash=120014093&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Thursday, August 5, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-05T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-05%2018%3A00&sd=2021-08-05%2018%3A00&p=2&pt=100&pofids=&hash=3878963066&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-05T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-05%2018%3A15&sd=2021-08-05%2018%3A15&p=2&pt=100&pofids=&hash=4039041838&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-05T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-05%2018%3A30&sd=2021-08-05%2018%3A30&p=2&pt=100&pofids=&hash=3132345468&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-05T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-05%2020%3A30&sd=2021-08-05%2020%3A30&p=2&pt=100&pofids=&hash=1347462620&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-05T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-05%2020%3A45&sd=2021-08-05%2020%3A45&p=2&pt=100&pofids=&hash=692952550&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Friday, August 6, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-06T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-06%2018%3A00&sd=2021-08-06%2018%3A00&p=2&pt=100&pofids=&hash=160576204&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-06T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-06%2018%3A15&sd=2021-08-06%2018%3A15&p=2&pt=100&pofids=&hash=1786088820&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-06T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-06%2018%3A30&sd=2021-08-06%2018%3A30&p=2&pt=100&pofids=&hash=869165997&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-06T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-06%2020%3A30&sd=2021-08-06%2020%3A30&p=2&pt=100&pofids=&hash=2730678816&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-06T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-06%2020%3A45&sd=2021-08-06%2020%3A45&p=2&pt=100&pofids=&hash=1212578772&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Saturday, August 7, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-07T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-07%2018%3A00&sd=2021-08-07%2018%3A00&p=2&pt=100&pofids=&hash=3837414454&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-07T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-07%2018%3A15&sd=2021-08-07%2018%3A15&p=2&pt=100&pofids=&hash=3355235459&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-07T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-07%2018%3A30&sd=2021-08-07%2018%3A30&p=2&pt=100&pofids=&hash=2840334708&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-07T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-07%2020%3A30&sd=2021-08-07%2020%3A30&p=2&pt=100&pofids=&hash=2813367528&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-07T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-07%2020%3A45&sd=2021-08-07%2020%3A45&p=2&pt=100&pofids=&hash=3823972837&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Monday, August 9, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-09T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-09%2018%3A00&sd=2021-08-09%2018%3A00&p=2&pt=100&pofids=&hash=110749586&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-09T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-09%2018%3A15&sd=2021-08-09%2018%3A15&p=2&pt=100&pofids=&hash=1346479435&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-09T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-09%2018%3A30&sd=2021-08-09%2018%3A30&p=2&pt=100&pofids=&hash=1259385926&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-09T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-09%2020%3A30&sd=2021-08-09%2020%3A30&p=2&pt=100&pofids=&hash=99398616&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-09T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-09%2020%3A45&sd=2021-08-09%2020%3A45&p=2&pt=100&pofids=&hash=1501427494&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, August 10, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-10T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-10%2018%3A00&sd=2021-08-10%2018%3A00&p=2&pt=100&pofids=&hash=1430278941&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-10T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-10%2018%3A15&sd=2021-08-10%2018%3A15&p=2&pt=100&pofids=&hash=99677466&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-10T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-10%2018%3A30&sd=2021-08-10%2018%3A30&p=2&pt=100&pofids=&hash=410799923&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-10T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-10%2020%3A30&sd=2021-08-10%2020%3A30&p=2&pt=100&pofids=&hash=3433833670&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-10T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-10%2020%3A45&sd=2021-08-10%2020%3A45&p=2&pt=100&pofids=&hash=2891239414&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Wednesday, August 11, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-11T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-11%2018%3A00&sd=2021-08-11%2018%3A00&p=2&pt=100&pofids=&hash=250815363&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-11T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-11%2018%3A15&sd=2021-08-11%2018%3A15&p=2&pt=100&pofids=&hash=1715502961&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-11T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-11%2018%3A30&sd=2021-08-11%2018%3A30&p=2&pt=100&pofids=&hash=1056616310&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-11T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-11%2020%3A30&sd=2021-08-11%2020%3A30&p=2&pt=100&pofids=&hash=2143833940&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-11T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-11%2020%3A45&sd=2021-08-11%2020%3A45&p=2&pt=100&pofids=&hash=187980059&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Thursday, August 12, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-12T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-12%2018%3A00&sd=2021-08-12%2018%3A00&p=2&pt=100&pofids=&hash=1811504198&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-12T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-12%2018%3A15&sd=2021-08-12%2018%3A15&p=2&pt=100&pofids=&hash=40280604&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-12T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-12%2018%3A30&sd=2021-08-12%2018%3A30&p=2&pt=100&pofids=&hash=3940704873&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-12T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-12%2020%3A30&sd=2021-08-12%2020%3A30&p=2&pt=100&pofids=&hash=1169314257&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-12T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-12%2020%3A45&sd=2021-08-12%2020%3A45&p=2&pt=100&pofids=&hash=1221960190&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Friday, August 13, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-13T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-13%2018%3A00&sd=2021-08-13%2018%3A00&p=2&pt=100&pofids=&hash=3957335892&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-13T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-13%2018%3A15&sd=2021-08-13%2018%3A15&p=2&pt=100&pofids=&hash=3993373764&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-13T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-13%2018%3A30&sd=2021-08-13%2018%3A30&p=2&pt=100&pofids=&hash=911501123&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-13T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-13%2020%3A30&sd=2021-08-13%2020%3A30&p=2&pt=100&pofids=&hash=1954760689&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-13T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-13%2020%3A45&sd=2021-08-13%2020%3A45&p=2&pt=100&pofids=&hash=446298763&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Saturday, August 14, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-14T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-14%2018%3A00&sd=2021-08-14%2018%3A00&p=2&pt=100&pofids=&hash=2607869986&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-14T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-14%2018%3A15&sd=2021-08-14%2018%3A15&p=2&pt=100&pofids=&hash=2163493117&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-14T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-14%2018%3A30&sd=2021-08-14%2018%3A30&p=2&pt=100&pofids=&hash=920920188&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-14T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-14%2020%3A30&sd=2021-08-14%2020%3A30&p=2&pt=100&pofids=&hash=1420092008&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-14T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-14%2020%3A45&sd=2021-08-14%2020%3A45&p=2&pt=100&pofids=&hash=3578787525&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Monday, August 16, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-16T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-16%2018%3A00&sd=2021-08-16%2018%3A00&p=2&pt=100&pofids=&hash=1283942346&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-16T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-16%2018%3A15&sd=2021-08-16%2018%3A15&p=2&pt=100&pofids=&hash=3886725176&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-16T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-16%2018%3A30&sd=2021-08-16%2018%3A30&p=2&pt=100&pofids=&hash=3115828987&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-16T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-16%2020%3A30&sd=2021-08-16%2020%3A30&p=2&pt=100&pofids=&hash=3621674850&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-16T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-16%2020%3A45&sd=2021-08-16%2020%3A45&p=2&pt=100&pofids=&hash=559766272&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, August 17, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-17T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-17%2018%3A00&sd=2021-08-17%2018%3A00&p=2&pt=100&pofids=&hash=3384466695&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-17T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-17%2018%3A15&sd=2021-08-17%2018%3A15&p=2&pt=100&pofids=&hash=3865826317&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-17T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-17%2018%3A30&sd=2021-08-17%2018%3A30&p=2&pt=100&pofids=&hash=832132168&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-17T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-17%2020%3A30&sd=2021-08-17%2020%3A30&p=2&pt=100&pofids=&hash=1172466664&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-17T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-17%2020%3A45&sd=2021-08-17%2020%3A45&p=2&pt=100&pofids=&hash=2093015405&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Wednesday, August 18, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-18T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-18%2018%3A00&sd=2021-08-18%2018%3A00&p=2&pt=100&pofids=&hash=595480760&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-18T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-18%2018%3A15&sd=2021-08-18%2018%3A15&p=2&pt=100&pofids=&hash=2370564114&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-18T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-18%2018%3A30&sd=2021-08-18%2018%3A30&p=2&pt=100&pofids=&hash=1459714331&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-18T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-18%2020%3A30&sd=2021-08-18%2020%3A30&p=2&pt=100&pofids=&hash=3081887925&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-18T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-18%2020%3A45&sd=2021-08-18%2020%3A45&p=2&pt=100&pofids=&hash=4031118457&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Thursday, August 19, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-19T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-19%2018%3A00&sd=2021-08-19%2018%3A00&p=2&pt=100&pofids=&hash=1815013187&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-19T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-19%2018%3A15&sd=2021-08-19%2018%3A15&p=2&pt=100&pofids=&hash=378576492&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-19T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-19%2018%3A30&sd=2021-08-19%2018%3A30&p=2&pt=100&pofids=&hash=226753797&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-19T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-19%2020%3A30&sd=2021-08-19%2020%3A30&p=2&pt=100&pofids=&hash=4146772193&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-19T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-19%2020%3A45&sd=2021-08-19%2020%3A45&p=2&pt=100&pofids=&hash=1068059394&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Friday, August 20, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-20T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-20%2018%3A00&sd=2021-08-20%2018%3A00&p=2&pt=100&pofids=&hash=2762032949&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-20T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-20%2018%3A15&sd=2021-08-20%2018%3A15&p=2&pt=100&pofids=&hash=323265303&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-20T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-20%2018%3A30&sd=2021-08-20%2018%3A30&p=2&pt=100&pofids=&hash=1354807461&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-20T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-20%2020%3A30&sd=2021-08-20%2020%3A30&p=2&pt=100&pofids=&hash=2807021922&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-20T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-20%2020%3A45&sd=2021-08-20%2020%3A45&p=2&pt=100&pofids=&hash=3478086548&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Saturday, August 21, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-21T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-21%2018%3A00&sd=2021-08-21%2018%3A00&p=2&pt=100&pofids=&hash=97690699&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-21T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-21%2018%3A15&sd=2021-08-21%2018%3A15&p=2&pt=100&pofids=&hash=518300278&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-21T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-21%2018%3A30&sd=2021-08-21%2018%3A30&p=2&pt=100&pofids=&hash=259727159&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-21T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-21%2020%3A30&sd=2021-08-21%2020%3A30&p=2&pt=100&pofids=&hash=3923009095&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-21T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-21%2020%3A45&sd=2021-08-21%2020%3A45&p=2&pt=100&pofids=&hash=1997280772&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Monday, August 23, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-23T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-23%2018%3A00&sd=2021-08-23%2018%3A00&p=2&pt=100&pofids=&hash=3519442896&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-23T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-23%2018%3A15&sd=2021-08-23%2018%3A15&p=2&pt=100&pofids=&hash=2961116779&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-23T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-23%2018%3A30&sd=2021-08-23%2018%3A30&p=2&pt=100&pofids=&hash=3710566429&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-23T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-23%2020%3A30&sd=2021-08-23%2020%3A30&p=2&pt=100&pofids=&hash=1758725089&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-23T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-23%2020%3A45&sd=2021-08-23%2020%3A45&p=2&pt=100&pofids=&hash=1150354660&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, August 24, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-24T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-24%2018%3A00&sd=2021-08-24%2018%3A00&p=2&pt=100&pofids=&hash=4204573388&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-24T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-24%2018%3A15&sd=2021-08-24%2018%3A15&p=2&pt=100&pofids=&hash=2812703277&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-24T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-24%2018%3A30&sd=2021-08-24%2018%3A30&p=2&pt=100&pofids=&hash=1422452823&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-24T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-24%2020%3A30&sd=2021-08-24%2020%3A30&p=2&pt=100&pofids=&hash=1152457808&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-24T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-24%2020%3A45&sd=2021-08-24%2020%3A45&p=2&pt=100&pofids=&hash=1558548261&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Wednesday, August 25, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-25T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-25%2018%3A00&sd=2021-08-25%2018%3A00&p=2&pt=100&pofids=&hash=2773976631&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-25T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-25%2018%3A15&sd=2021-08-25%2018%3A15&p=2&pt=100&pofids=&hash=4282165078&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-25T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-25%2018%3A30&sd=2021-08-25%2018%3A30&p=2&pt=100&pofids=&hash=321200306&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-25T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-25%2020%3A30&sd=2021-08-25%2020%3A30&p=2&pt=100&pofids=&hash=3351642107&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-25T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-25%2020%3A45&sd=2021-08-25%2020%3A45&p=2&pt=100&pofids=&hash=2768769096&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Thursday, August 26, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-26T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-26%2018%3A00&sd=2021-08-26%2018%3A00&p=2&pt=100&pofids=&hash=2452540982&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-26T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-26%2018%3A15&sd=2021-08-26%2018%3A15&p=2&pt=100&pofids=&hash=1607035364&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-26T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-26%2018%3A30&sd=2021-08-26%2018%3A30&p=2&pt=100&pofids=&hash=2396606747&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-26T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-26%2020%3A30&sd=2021-08-26%2020%3A30&p=2&pt=100&pofids=&hash=2820505570&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-26T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-26%2020%3A45&sd=2021-08-26%2020%3A45&p=2&pt=100&pofids=&hash=1112696021&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Friday, August 27, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-27T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-27%2018%3A00&sd=2021-08-27%2018%3A00&p=2&pt=100&pofids=&hash=2031440008&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-27T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-27%2018%3A15&sd=2021-08-27%2018%3A15&p=2&pt=100&pofids=&hash=4247464748&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-27T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-27%2018%3A30&sd=2021-08-27%2018%3A30&p=2&pt=100&pofids=&hash=1243666938&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-27T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-27%2020%3A30&sd=2021-08-27%2020%3A30&p=2&pt=100&pofids=&hash=2495620200&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-27T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-27%2020%3A45&sd=2021-08-27%2020%3A45&p=2&pt=100&pofids=&hash=194777621&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Saturday, August 28, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-28T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-28%2018%3A00&sd=2021-08-28%2018%3A00&p=2&pt=100&pofids=&hash=4174924954&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-28T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-28%2018%3A15&sd=2021-08-28%2018%3A15&p=2&pt=100&pofids=&hash=654212212&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-28T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-28%2018%3A30&sd=2021-08-28%2018%3A30&p=2&pt=100&pofids=&hash=155694944&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-28T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-28%2020%3A30&sd=2021-08-28%2020%3A30&p=2&pt=100&pofids=&hash=596892815&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-28T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-28%2020%3A45&sd=2021-08-28%2020%3A45&p=2&pt=100&pofids=&hash=2425883657&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Monday, August 30, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-30T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-30%2018%3A00&sd=2021-08-30%2018%3A00&p=2&pt=100&pofids=&hash=2348992072&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-30T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-30%2018%3A15&sd=2021-08-30%2018%3A15&p=2&pt=100&pofids=&hash=1805989945&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-30T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-30%2018%3A30&sd=2021-08-30%2018%3A30&p=2&pt=100&pofids=&hash=2840179588&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-30T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-30%2020%3A30&sd=2021-08-30%2020%3A30&p=2&pt=100&pofids=&hash=2425514668&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-30T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-30%2020%3A45&sd=2021-08-30%2020%3A45&p=2&pt=100&pofids=&hash=2990871793&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, August 31, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-08-31T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-31%2018%3A00&sd=2021-08-31%2018%3A00&p=2&pt=100&pofids=&hash=2494938820&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-31T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-31%2018%3A15&sd=2021-08-31%2018%3A15&p=2&pt=100&pofids=&hash=1620034941&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-31T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-31%2018%3A30&sd=2021-08-31%2018%3A30&p=2&pt=100&pofids=&hash=134536155&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-31T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-31%2020%3A30&sd=2021-08-31%2020%3A30&p=2&pt=100&pofids=&hash=568701325&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-08-31T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-08-31%2020%3A45&sd=2021-08-31%2020%3A45&p=2&pt=100&pofids=&hash=1357622885&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Wednesday, September 1, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-01T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-01%2018%3A00&sd=2021-09-01%2018%3A00&p=2&pt=100&pofids=&hash=2775108611&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-01T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-01%2018%3A15&sd=2021-09-01%2018%3A15&p=2&pt=100&pofids=&hash=869865710&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-01T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-01%2018%3A30&sd=2021-09-01%2018%3A30&p=2&pt=100&pofids=&hash=3844498436&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-01T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-01%2020%3A30&sd=2021-09-01%2020%3A30&p=2&pt=100&pofids=&hash=948855864&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-01T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-01%2020%3A45&sd=2021-09-01%2020%3A45&p=2&pt=100&pofids=&hash=2461370265&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Thursday, September 2, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-02T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-02%2018%3A00&sd=2021-09-02%2018%3A00&p=2&pt=100&pofids=&hash=4118261864&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-02T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-02%2018%3A15&sd=2021-09-02%2018%3A15&p=2&pt=100&pofids=&hash=4223532385&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-02T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-02%2018%3A30&sd=2021-09-02%2018%3A30&p=2&pt=100&pofids=&hash=2948931994&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-02T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-02%2020%3A30&sd=2021-09-02%2020%3A30&p=2&pt=100&pofids=&hash=2586675108&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-02T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-02%2020%3A45&sd=2021-09-02%2020%3A45&p=2&pt=100&pofids=&hash=3425819296&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Friday, September 3, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-03T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-03%2018%3A00&sd=2021-09-03%2018%3A00&p=2&pt=100&pofids=&hash=229842128&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-03T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-03%2018%3A15&sd=2021-09-03%2018%3A15&p=2&pt=100&pofids=&hash=450186584&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-03T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-03%2018%3A30&sd=2021-09-03%2018%3A30&p=2&pt=100&pofids=&hash=3735326222&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-03T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-03%2020%3A30&sd=2021-09-03%2020%3A30&p=2&pt=100&pofids=&hash=195868668&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-03T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-03%2020%3A45&sd=2021-09-03%2020%3A45&p=2&pt=100&pofids=&hash=126635244&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Saturday, September 4, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-04T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-04%2018%3A00&sd=2021-09-04%2018%3A00&p=2&pt=100&pofids=&hash=2742649291&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-04T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-04%2018%3A15&sd=2021-09-04%2018%3A15&p=2&pt=100&pofids=&hash=162915291&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-04T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-04%2018%3A30&sd=2021-09-04%2018%3A30&p=2&pt=100&pofids=&hash=3080727803&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-04T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-04%2020%3A30&sd=2021-09-04%2020%3A30&p=2&pt=100&pofids=&hash=3726294841&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-04T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-04%2020%3A45&sd=2021-09-04%2020%3A45&p=2&pt=100&pofids=&hash=854591930&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, September 7, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-07T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-07%2018%3A00&sd=2021-09-07%2018%3A00&p=2&pt=100&pofids=&hash=124169951&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-07T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-07%2018%3A15&sd=2021-09-07%2018%3A15&p=2&pt=100&pofids=&hash=28173198&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-07T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-07%2018%3A30&sd=2021-09-07%2018%3A30&p=2&pt=100&pofids=&hash=529470608&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-07T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-07%2020%3A30&sd=2021-09-07%2020%3A30&p=2&pt=100&pofids=&hash=3528353214&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-07T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-07%2020%3A45&sd=2021-09-07%2020%3A45&p=2&pt=100&pofids=&hash=1271582412&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Wednesday, September 8, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-08T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-08%2018%3A00&sd=2021-09-08%2018%3A00&p=2&pt=100&pofids=&hash=358528711&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-08T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-08%2018%3A15&sd=2021-09-08%2018%3A15&p=2&pt=100&pofids=&hash=921328741&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-08T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-08%2018%3A30&sd=2021-09-08%2018%3A30&p=2&pt=100&pofids=&hash=4035152871&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-08T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-08%2020%3A30&sd=2021-09-08%2020%3A30&p=2&pt=100&pofids=&hash=1298543955&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-08T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-08%2020%3A45&sd=2021-09-08%2020%3A45&p=2&pt=100&pofids=&hash=4104768662&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Thursday, September 9, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-09T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-09%2018%3A00&sd=2021-09-09%2018%3A00&p=2&pt=100&pofids=&hash=1161013783&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-09T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-09%2018%3A15&sd=2021-09-09%2018%3A15&p=2&pt=100&pofids=&hash=2365575532&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-09T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-09%2018%3A30&sd=2021-09-09%2018%3A30&p=2&pt=100&pofids=&hash=1470307045&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-09T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-09%2020%3A30&sd=2021-09-09%2020%3A30&p=2&pt=100&pofids=&hash=2934075651&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-09T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-09%2020%3A45&sd=2021-09-09%2020%3A45&p=2&pt=100&pofids=&hash=3558914581&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Friday, September 10, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-10T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-10%2018%3A00&sd=2021-09-10%2018%3A00&p=2&pt=100&pofids=&hash=3346775868&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-10T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-10%2018%3A15&sd=2021-09-10%2018%3A15&p=2&pt=100&pofids=&hash=708856689&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-10T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-10%2018%3A30&sd=2021-09-10%2018%3A30&p=2&pt=100&pofids=&hash=1253693337&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-10T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-10%2020%3A30&sd=2021-09-10%2020%3A30&p=2&pt=100&pofids=&hash=3998569434&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-10T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-10%2020%3A45&sd=2021-09-10%2020%3A45&p=2&pt=100&pofids=&hash=759650624&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Saturday, September 11, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-11T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-11%2018%3A00&sd=2021-09-11%2018%3A00&p=2&pt=100&pofids=&hash=3961831535&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-11T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-11%2018%3A15&sd=2021-09-11%2018%3A15&p=2&pt=100&pofids=&hash=2227586109&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-11T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-11%2018%3A30&sd=2021-09-11%2018%3A30&p=2&pt=100&pofids=&hash=3650971908&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-11T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-11%2020%3A30&sd=2021-09-11%2020%3A30&p=2&pt=100&pofids=&hash=2884483773&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-11T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-11%2020%3A45&sd=2021-09-11%2020%3A45&p=2&pt=100&pofids=&hash=1771476649&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Sunday, September 12, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-12T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-12%2018%3A00&sd=2021-09-12%2018%3A00&p=2&pt=100&pofids=&hash=3806087040&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-12T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-12%2018%3A15&sd=2021-09-12%2018%3A15&p=2&pt=100&pofids=&hash=625924395&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-12T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-12%2018%3A30&sd=2021-09-12%2018%3A30&p=2&pt=100&pofids=&hash=2785562660&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-12T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-12%2020%3A30&sd=2021-09-12%2020%3A30&p=2&pt=100&pofids=&hash=3803101172&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-12T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-12%2020%3A45&sd=2021-09-12%2020%3A45&p=2&pt=100&pofids=&hash=3967280047&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Monday, September 13, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-13T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-13%2018%3A00&sd=2021-09-13%2018%3A00&p=2&pt=100&pofids=&hash=3487497504&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-13T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-13%2018%3A15&sd=2021-09-13%2018%3A15&p=2&pt=100&pofids=&hash=3511169792&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-13T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-13%2018%3A30&sd=2021-09-13%2018%3A30&p=2&pt=100&pofids=&hash=3249678722&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-13T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-13%2020%3A30&sd=2021-09-13%2020%3A30&p=2&pt=100&pofids=&hash=4043790269&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-13T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-13%2020%3A45&sd=2021-09-13%2020%3A45&p=2&pt=100&pofids=&hash=1696611605&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, September 14, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-14T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-14%2018%3A00&sd=2021-09-14%2018%3A00&p=2&pt=100&pofids=&hash=1735335207&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-14T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-14%2018%3A15&sd=2021-09-14%2018%3A15&p=2&pt=100&pofids=&hash=855064490&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-14T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-14%2018%3A30&sd=2021-09-14%2018%3A30&p=2&pt=100&pofids=&hash=4232213044&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-14T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-14%2020%3A30&sd=2021-09-14%2020%3A30&p=2&pt=100&pofids=&hash=2982191590&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-14T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-14%2020%3A45&sd=2021-09-14%2020%3A45&p=2&pt=100&pofids=&hash=1021395495&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Wednesday, September 15, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-15T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-15%2018%3A00&sd=2021-09-15%2018%3A00&p=2&pt=100&pofids=&hash=3979761586&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-15T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-15%2018%3A15&sd=2021-09-15%2018%3A15&p=2&pt=100&pofids=&hash=735390437&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-15T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-15%2018%3A30&sd=2021-09-15%2018%3A30&p=2&pt=100&pofids=&hash=2556186969&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-15T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-15%2020%3A30&sd=2021-09-15%2020%3A30&p=2&pt=100&pofids=&hash=3782946291&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-15T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-15%2020%3A45&sd=2021-09-15%2020%3A45&p=2&pt=100&pofids=&hash=770106853&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Thursday, September 16, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-16T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-16%2018%3A00&sd=2021-09-16%2018%3A00&p=2&pt=100&pofids=&hash=2857484058&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-16T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-16%2018%3A15&sd=2021-09-16%2018%3A15&p=2&pt=100&pofids=&hash=3647046957&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-16T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-16%2018%3A30&sd=2021-09-16%2018%3A30&p=2&pt=100&pofids=&hash=4045672073&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-16T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-16%2020%3A30&sd=2021-09-16%2020%3A30&p=2&pt=100&pofids=&hash=3478523313&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-16T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-16%2020%3A45&sd=2021-09-16%2020%3A45&p=2&pt=100&pofids=&hash=2375481022&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Friday, September 17, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-17T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-17%2018%3A00&sd=2021-09-17%2018%3A00&p=2&pt=100&pofids=&hash=2198923096&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-17T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-17%2018%3A15&sd=2021-09-17%2018%3A15&p=2&pt=100&pofids=&hash=2884829409&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-17T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-17%2018%3A30&sd=2021-09-17%2018%3A30&p=2&pt=100&pofids=&hash=3047900184&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-17T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-17%2020%3A30&sd=2021-09-17%2020%3A30&p=2&pt=100&pofids=&hash=3477181097&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-17T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-17%2020%3A45&sd=2021-09-17%2020%3A45&p=2&pt=100&pofids=&hash=2505144508&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Saturday, September 18, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-18T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-18%2018%3A00&sd=2021-09-18%2018%3A00&p=2&pt=100&pofids=&hash=4262927485&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-18T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-18%2018%3A15&sd=2021-09-18%2018%3A15&p=2&pt=100&pofids=&hash=453823793&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-18T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-18%2018%3A30&sd=2021-09-18%2018%3A30&p=2&pt=100&pofids=&hash=3321922574&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-18T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-18%2020%3A30&sd=2021-09-18%2020%3A30&p=2&pt=100&pofids=&hash=1789551224&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-18T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-18%2020%3A45&sd=2021-09-18%2020%3A45&p=2&pt=100&pofids=&hash=1683992326&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Sunday, September 19, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-19T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-19%2018%3A00&sd=2021-09-19%2018%3A00&p=2&pt=100&pofids=&hash=2996724343&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-19T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-19%2018%3A15&sd=2021-09-19%2018%3A15&p=2&pt=100&pofids=&hash=1877876678&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-19T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-19%2018%3A30&sd=2021-09-19%2018%3A30&p=2&pt=100&pofids=&hash=4005398274&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-19T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-19%2020%3A30&sd=2021-09-19%2020%3A30&p=2&pt=100&pofids=&hash=2943374191&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-19T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-19%2020%3A45&sd=2021-09-19%2020%3A45&p=2&pt=100&pofids=&hash=2958306041&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Monday, September 20, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-20T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-20%2018%3A00&sd=2021-09-20%2018%3A00&p=2&pt=100&pofids=&hash=719391565&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-20T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-20%2018%3A15&sd=2021-09-20%2018%3A15&p=2&pt=100&pofids=&hash=2080486808&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-20T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-20%2018%3A30&sd=2021-09-20%2018%3A30&p=2&pt=100&pofids=&hash=275654621&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-20T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-20%2020%3A30&sd=2021-09-20%2020%3A30&p=2&pt=100&pofids=&hash=3340148848&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-20T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-20%2020%3A45&sd=2021-09-20%2020%3A45&p=2&pt=100&pofids=&hash=912940805&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      },
+      {
+        "date": "Tuesday, September 21, 2021",
+        "times": [
+          {
+            "covers": 2,
+            "dateTime": "2021-09-21T18:00:00.000Z",
+            "timeString": "6:00 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-21%2018%3A00&sd=2021-09-21%2018%3A00&p=2&pt=100&pofids=&hash=1642805996&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-21T18:15:00.000Z",
+            "timeString": "6:15 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-21%2018%3A15&sd=2021-09-21%2018%3A15&p=2&pt=100&pofids=&hash=358512997&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-21T18:30:00.000Z",
+            "timeString": "6:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-21%2018%3A30&sd=2021-09-21%2018%3A30&p=2&pt=100&pofids=&hash=362957314&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-21T20:30:00.000Z",
+            "timeString": "8:30 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-21%2020%3A30&sd=2021-09-21%2020%3A30&p=2&pt=100&pofids=&hash=1285148500&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          },
+          {
+            "covers": 2,
+            "dateTime": "2021-09-21T20:45:00.000Z",
+            "timeString": "8:45 PM",
+            "points": 100,
+            "offers": [],
+            "premium": false,
+            "premiumAccessPriceAmount": null,
+            "ticketed": false,
+            "attributes": ["default","bar","outdoor"],
+            "url": "//www.opentable.com/book/validate?rid=96577&d=2021-09-21%2020%3A45&sd=2021-09-21%2020%3A45&p=2&pt=100&pofids=&hash=2892475782&st=Standard&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ&corrid=6971ae6d-b0d6-4a67-bd9c-0f6fe1dd309c"
+          }
+        ],
+        "noTimesMessage": null
+      }
+    ]
+  },
+  "noAvailabilityRestaurants":
+  {
+    "visible": true,
+    "title": "Restaurants you may also like",
+    "subtitle": "",
+    "correlationId": "add573ec-1844-4450-8424-5f38f696a1e8",
+    "restaurants": [
+      {
+        "rid": 92353,
+        "name": "Dulce Vida Latin Bistro",
+        "photo": "https://images.otstatic.com/prod/25138854/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.6,
+        "reviewsCount": 101,
+        "price": "$$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Latin American",
+        "restaurantProfileUrl": "https://www.opentable.com/r/dulce-vida-latin-bistro-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 2,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "POSTMATES",
+            "menuUrl": "https://postmates.onelink.me/5uYG?pid=opentable&c=opentable&af_dp=postmates%3A%2F%2Fv1%2Fplaces%2F376679fb-33bc-49d2-b8b7-ad6691ee1c26&af_web_dp=https%3A%2F%2Fpostmates.com%2Fmerchant%2Fdulce-vida-cafe-restaurant-new-york"
+          },
+          {
+            "deliveryPartnerName": "UBER_EATS",
+            "menuUrl": "https://ubertrk.com/c/2606859/811249/5714?prodsku=9330c48c-7a5f-43d3-8391-abf63a365efb&u=https%3A%2F%2Fwww.ubereats.com%2Fnew-york%2Ffood-delivery%2Fdulce-vida-latin-bistro-ues%2FkzDEjHpfQ9ODkav2OjZe-w%2F%3Futm_campaign%3Daffiliate-ir-%7Birmpname%7D_1_-99_national_e_all_acq_cpa_en_click-%7Bclickid%7D&intsrc=CATF_5854"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 68032,
+        "name": "Toloache - Upper East Side",
+        "photo": "https://images.otstatic.com/prod/23693628/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.7,
+        "reviewsCount": 1118,
+        "price": "$$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Mexican",
+        "restaurantProfileUrl": "https://www.opentable.com/r/toloache-upper-east-side-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 29,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "UBER_EATS",
+            "menuUrl": "https://ubertrk.com/c/2606859/811249/5714?prodsku=f567cb7e-e094-4790-91ec-b12f3fc1f9d0&u=https%3A%2F%2Fwww.ubereats.com%2Fnew-york%2Ffood-delivery%2Ftoloache-82nd%2F9WfLfuCUR5CR7LEvP8H50A%2F%3Futm_campaign%3Daffiliate-ir-%7Birmpname%7D_1_-99_national_e_all_acq_cpa_en_click-%7Bclickid%7D&intsrc=CATF_5854"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 1063846,
+        "name": "Tandoor Oven",
+        "photo": "https://images.otstatic.com/prod1/29674228/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.4,
+        "reviewsCount": 15,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Contemporary Indian",
+        "restaurantProfileUrl": "https://www.opentable.com/r/tandoor-oven-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 1,
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 160741,
+        "name": "Bocado Cafe",
+        "photo": "https://images.otstatic.com/prod/23676018/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.5,
+        "reviewsCount": 698,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "American",
+        "restaurantProfileUrl": "https://www.opentable.com/bocado-cafe?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 24,
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 66493,
+        "name": "Eats",
+        "photo": "https://images.otstatic.com/prod/23693101/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.3,
+        "reviewsCount": 684,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "American",
+        "restaurantProfileUrl": "https://www.opentable.com/eats?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 3,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "POSTMATES",
+            "menuUrl": "https://postmates.onelink.me/5uYG?pid=opentable&c=opentable&af_dp=postmates%3A%2F%2Fv1%2Fplaces%2Fac53dd28-4dc6-45a8-8762-dc98721d3f6e&af_web_dp=https%3A%2F%2Fpostmates.com%2Fmerchant%2Feats-new-york"
+          },
+          {
+            "deliveryPartnerName": "UBER_EATS",
+            "menuUrl": "https://ubertrk.com/c/2606859/811249/5714?prodsku=c0b07f60-90ed-4fc6-85ca-089319accb5d&u=https%3A%2F%2Fwww.ubereats.com%2Fnew-york%2Ffood-delivery%2Feats-ues%2FwLB_YJDtT8aFygiTGazLXQ%2F%3Futm_campaign%3Daffiliate-ir-%7Birmpname%7D_1_-99_national_e_all_acq_cpa_en_click-%7Bclickid%7D&intsrc=CATF_5854"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 33595,
+        "name": "Sojourn Restaurant",
+        "photo": "https://images.otstatic.com/prod/26533056/2/medium.jpg",
+        "showReviews": true,
+        "rating": 4.6,
+        "reviewsCount": 1701,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Contemporary American",
+        "restaurantProfileUrl": "https://www.opentable.com/r/sojourn-restaurant-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 21,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "POSTMATES",
+            "menuUrl": "https://postmates.onelink.me/5uYG?pid=opentable&c=opentable&af_dp=postmates%3A%2F%2Fv1%2Fplaces%2F196ee7fa-2c90-40b6-952f-2cfa4e30b3fe&af_web_dp=https%3A%2F%2Fpostmates.com%2Fmerchant%2Fsojourn-new-york"
+          },
+          {
+            "deliveryPartnerName": "UBER_EATS",
+            "menuUrl": "https://ubertrk.com/c/2606859/811249/5714?prodsku=700b0bbf-9d45-4592-acd8-525992dc35da&u=https%3A%2F%2Fwww.ubereats.com%2Fnew-york%2Ffood-delivery%2Fsojourn%2FcAsLv51FRZKs2FJZktw12g%2F%3Futm_campaign%3Daffiliate-ir-%7Birmpname%7D_1_-99_national_e_all_acq_cpa_en_click-%7Bclickid%7D&intsrc=CATF_5854"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 93817,
+        "name": "Caffe Buon Gusto - UES",
+        "photo": "https://images.otstatic.com/prod/23700718/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.6,
+        "reviewsCount": 787,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Italian",
+        "restaurantProfileUrl": "https://www.opentable.com/caffe-buon-gusto-ues?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 27,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "POSTMATES",
+            "menuUrl": "https://postmates.onelink.me/5uYG?pid=opentable&c=opentable&af_dp=postmates%3A%2F%2Fv1%2Fplaces%2Fad173972-c749-4c4c-8bc8-bb3011ef3c33&af_web_dp=https%3A%2F%2Fpostmates.com%2Fmerchant%2Fcaffe-buon-gusto-new-york-236-e-77th-st"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 1085323,
+        "name": "Gray Hawk Grill",
+        "photo": "https://images.otstatic.com/prod1/32334743/3/medium.png",
+        "showReviews": true,
+        "rating": 4.7,
+        "reviewsCount": 87,
+        "price": "$$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "American",
+        "restaurantProfileUrl": "https://www.opentable.com/r/gray-hawk-grill-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 4,
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 231208,
+        "name": "San Matteo Pizzeria e Cucina",
+        "photo": "https://images.otstatic.com/prod/24905392/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.7,
+        "reviewsCount": 203,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Pizzeria",
+        "restaurantProfileUrl": "https://www.opentable.com/r/san-matteo-pizzeria-e-cucina-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 18,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "POSTMATES",
+            "menuUrl": "https://postmates.onelink.me/5uYG?pid=opentable&c=opentable&af_dp=postmates%3A%2F%2Fv1%2Fplaces%2Fbd5a6433-edc9-4b34-9c24-63f3579648e6&af_web_dp=https%3A%2F%2Fpostmates.com%2Fmerchant%2Fsaffron-indian-cuisine-rockville&af_android_url=https%3A%2F%2Fpostmates.com%2Fmerchant%2Fsaffron-indian-cuisine-rockville&af_ios_url=https%3A%2F%2Fpostmates.com%2Fmerchant%2Fsaffron-indian-cuisine-rockville"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 4162,
+        "name": "Orsay",
+        "photo": "https://images.otstatic.com/prod/25160356/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.5,
+        "reviewsCount": 2713,
+        "price": "$$$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "French",
+        "restaurantProfileUrl": "https://www.opentable.com/r/orsay-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 63,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "POSTMATES",
+            "menuUrl": "https://postmates.onelink.me/5uYG?pid=opentable&c=opentable&af_dp=postmates%3A%2F%2Fv1%2Fplaces%2Ff0339807-2170-484c-91d1-0ace74233b6e&af_web_dp=https%3A%2F%2Fpostmates.com%2Fmerchant%2Forsay-new-york"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 344095,
+        "name": "Sandro's Restaurant",
+        "photo": "https://images.otstatic.com/prod/24862495/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.9,
+        "reviewsCount": 412,
+        "price": "$$$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Italian",
+        "restaurantProfileUrl": "https://www.opentable.com/r/sandros-restaurant-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 7,
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 4730,
+        "name": "T-BAR Steak & Lounge (Upper East Side)",
+        "photo": "https://images.otstatic.com/prod/23687042/1/medium.jpg",
+        "showReviews": true,
+        "rating": 4.8,
+        "reviewsCount": 1555,
+        "price": "$$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Steakhouse",
+        "restaurantProfileUrl": "https://www.opentable.com/t-bar-steak-and-lounge-upper-east-side?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 12,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "UBER_EATS",
+            "menuUrl": "https://ubertrk.com/c/2606859/811249/5714?prodsku=465a5caa-5c44-47a5-af07-cef331ca0038&u=https%3A%2F%2Fwww.ubereats.com%2Fnew-york%2Ffood-delivery%2Fa-la-turka-ues%2FRlpcqlxER6WvB87zMcoAOA%2F%3Futm_campaign%3Daffiliate-ir-%7Birmpname%7D_1_-99_national_e_all_acq_cpa_en_click-%7Bclickid%7D&intsrc=CATF_5854"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 1039201,
+        "name": "BLT Prime",
+        "photo": "https://images.otstatic.com/prod1/32142935/3/medium.jpg",
+        "showReviews": true,
+        "rating": 4.7,
+        "reviewsCount": 361,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Steakhouse",
+        "restaurantProfileUrl": "https://www.opentable.com/r/blt-prime-new-york-2?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 37,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "POSTMATES",
+            "menuUrl": "https://postmates.onelink.me/5uYG?pid=opentable&c=opentable&af_dp=postmates%3A%2F%2Fv1%2Fplaces%2F49ed0632-37a3-4492-aaf5-990783667bce&af_web_dp=https%3A%2F%2Fpostmates.com%2Fmerchant%2Fblt-prime-new-york-1"
+          }
+        ],
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 256942,
+        "name": "Doc Watsons",
+        "photo": "https://images.otstatic.com/prod1/41744216/2/medium.jpg",
+        "showReviews": true,
+        "rating": 4.6,
+        "reviewsCount": 13,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "American",
+        "restaurantProfileUrl": "https://www.opentable.com/r/doc-watsons-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 2,
+        "showDeliveryCarousel": true
+      },
+      {
+        "rid": 84010,
+        "name": "Numero 28",
+        "photo": "https://images.otstatic.com/prod/27952682/2/medium.jpg",
+        "showReviews": true,
+        "rating": 4.4,
+        "reviewsCount": 110,
+        "price": "$$",
+        "neighborhood": "Upper East Side",
+        "primaryCuisine": "Italian",
+        "restaurantProfileUrl": "https://www.opentable.com/r/numero-28-new-york?covers=2&dateTime=2021-07-25T18%3A30%3A00&crossSellLink=true&withFacets=false",
+        "recentReservationCount": 8,
+        "deliveryPartners": [
+          {
+            "deliveryPartnerName": "POSTMATES",
+            "menuUrl": "https://postmates.onelink.me/5uYG?pid=opentable&c=opentable&af_dp=postmates%3A%2F%2Fv1%2Fplaces%2F7afd2cbe-8893-4384-9b1a-031151247b1d&af_web_dp=https%3A%2F%2Fpostmates.com%2Fmerchant%2Ftryst-gastro-lounge-240-beach-dr-ne&af_android_url=https%3A%2F%2Fpostmates.com%2Fmerchant%2Ftryst-gastro-lounge-240-beach-dr-ne&af_ios_url=https%3A%2F%2Fpostmates.com%2Fmerchant%2Ftryst-gastro-lounge-240-beach-dr-ne"
+          },
+          {
+            "deliveryPartnerName": "UBER_EATS",
+            "menuUrl": "https://ubertrk.com/c/2606859/811249/5714?prodsku=28cc6551-dcc6-4e3a-aa35-cea1c0a473c3&u=https%3A%2F%2Fwww.ubereats.com%2Fnew-york%2Ffood-delivery%2Fnumero-28-ues%2FKMxlUdzGTjqqNc6hwKRzww%2F%3Futm_campaign%3Daffiliate-ir-%7Birmpname%7D_1_-99_national_e_all_acq_cpa_en_click-%7Bclickid%7D&intsrc=CATF_5854"
+          }
+        ],
+        "showDeliveryCarousel": true
+      }
+    ]
+  },
+  "noTimesReason":
+  {
+    "Reason": "NoTimesExist",
+    "minPartySize": 2,
+    "MaxPartySize": 10,
+    "MaxDaysInAdvance": 90,
+    "SameDayCutoff": null,
+    "EarlyCutoff": null,
+    "AllowNextAvailable": true
+  }
+}

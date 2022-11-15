@@ -1,0 +1,29 @@
+{
+  "singleQuote": true,
+  "semi": false,
+  "trailingComma": "es5",
+  "overrides": [
+    {
+      "files": ["nx.json"],
+      "options": {
+        "printWidth": 20
+      }
+    },
+    {
+      "files": ["tsconfig.base.json"],
+      "options": {
+        "printWidth": 120
+      }
+    }
+  ],
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "embeddedLanguageFormatting": "off",
+  "endOfLine": "lf",
+  "bracketSameLine": true,
+  "jsxSingleQuote": true,
+  "printWidth": 100,
+  "quoteProps": "as-needed",
+  "tabWidth": 2,
+  "useTabs": false
+}

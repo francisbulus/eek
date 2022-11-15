@@ -1,0 +1,434 @@
+{
+  "availability":
+  {
+    "2021-07-25":
+    {
+      "allNoTimesReasons": ["NoTimesExist"],
+      "reasonCode": "NoTimesExist",
+      "standardMessageCode": "noTimes",
+      "minPartySize": 2,
+      "maxPartySize": 10,
+      "maxDaysInAdvance": 90,
+      "sameDayCutoff": null,
+      "earlyCutoff": null,
+      "allowNextAvailable": true,
+      "hasOffers": false,
+      "offerIds": [],
+      "timeSlots": [],
+      "date": "2021-07-25",
+      "hasExperiences": false
+    },
+    "2021-07-26":
+    {
+      "allNoTimesReasons": [],
+      "minPartySize": 2,
+      "maxPartySize": 10,
+      "maxDaysInAdvance": 90,
+      "sameDayCutoff": null,
+      "earlyCutoff": null,
+      "allowNextAvailable": true,
+      "hasOffers": false,
+      "offerIds": [],
+      "timeSlots": [
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "5:00 pm",
+          "dateTime": "2021-07-26T17:00",
+          "slotHash": 2786654613,
+          "offset": -105,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "8:30 pm",
+          "dateTime": "2021-07-26T20:30",
+          "slotHash": 2680642447,
+          "offset": 105,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "8:45 pm",
+          "dateTime": "2021-07-26T20:45",
+          "slotHash": 907469040,
+          "offset": 120,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "9:00 pm",
+          "dateTime": "2021-07-26T21:00",
+          "slotHash": 2110899037,
+          "offset": 135,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        }
+      ],
+      "date": "2021-07-26",
+      "hasExperiences": false
+    },
+    "2021-07-27":
+    {
+      "allNoTimesReasons": [],
+      "minPartySize": 2,
+      "maxPartySize": 10,
+      "maxDaysInAdvance": 90,
+      "sameDayCutoff": null,
+      "earlyCutoff": null,
+      "allowNextAvailable": true,
+      "hasOffers": false,
+      "offerIds": [],
+      "timeSlots": [
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "5:00 pm",
+          "dateTime": "2021-07-27T17:00",
+          "slotHash": 400282352,
+          "offset": -105,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "5:15 pm",
+          "dateTime": "2021-07-27T17:15",
+          "slotHash": 3848232020,
+          "offset": -90,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "5:30 pm",
+          "dateTime": "2021-07-27T17:30",
+          "slotHash": 567493916,
+          "offset": -75,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "5:45 pm",
+          "dateTime": "2021-07-27T17:45",
+          "slotHash": 1135053964,
+          "offset": -60,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "6:00 pm",
+          "dateTime": "2021-07-27T18:00",
+          "slotHash": 1838944811,
+          "offset": -45,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "6:15 pm",
+          "dateTime": "2021-07-27T18:15",
+          "slotHash": 99035278,
+          "offset": -30,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "6:30 pm",
+          "dateTime": "2021-07-27T18:30",
+          "slotHash": 35710259,
+          "offset": -15,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "8:30 pm",
+          "dateTime": "2021-07-27T20:30",
+          "slotHash": 258071073,
+          "offset": 105,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "8:45 pm",
+          "dateTime": "2021-07-27T20:45",
+          "slotHash": 2251187588,
+          "offset": 120,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "9:00 pm",
+          "dateTime": "2021-07-27T21:00",
+          "slotHash": 219120266,
+          "offset": 135,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        }
+      ],
+      "date": "2021-07-27",
+      "hasExperiences": false
+    },
+    "2021-07-28":
+    {
+      "allNoTimesReasons": [],
+      "minPartySize": 2,
+      "maxPartySize": 10,
+      "maxDaysInAdvance": 90,
+      "sameDayCutoff": null,
+      "earlyCutoff": null,
+      "allowNextAvailable": true,
+      "hasOffers": false,
+      "offerIds": [],
+      "timeSlots": [
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "8:30 pm",
+          "dateTime": "2021-07-28T20:30",
+          "slotHash": 668841413,
+          "offset": 105,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "8:45 pm",
+          "dateTime": "2021-07-28T20:45",
+          "slotHash": 3461211214,
+          "offset": 120,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        },
+        {
+          "hasOffers": false,
+          "offerIds": [],
+          "slotAvailabilityToken": "eyJ2IjoyLCJtIjowLCJwIjowLCJjIjo2LCJzIjowLCJuIjowfQ",
+          "time": "9:00 pm",
+          "dateTime": "2021-07-28T21:00",
+          "slotHash": 2537777895,
+          "offset": 135,
+          "creditCardRequired": true,
+          "tableAttributes": ["default","bar","outdoor"],
+          "type": "standard",
+          "bookableExperienceIds": [],
+          "bookableExperiencesBySeating":
+          {},
+          "nonBookableExperienceIds": [],
+          "nonBookableExperiencesBySeating":
+          {},
+          "hasExperiences": false,
+          "isMandatory": false,
+          "isMandatoryBySeating": null
+        }
+      ],
+      "date": "2021-07-28",
+      "hasExperiences": false
+    },
+    "ticketedExperiences":
+    {},
+    "waitlistStatus":
+    {
+      "waitlistAvailable": false
+    }
+  },
+  "blockedDayMessages": []
+}

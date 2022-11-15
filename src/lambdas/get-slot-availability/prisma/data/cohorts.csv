@@ -1,0 +1,8 @@
+id,external_id,name,party_sizes,slot_interval
+1,1,"cohort 1","[2,4]",15
+2,2,"cohort 2","[2,4]",15
+3,3,"cohort 3","[2,4]",15
+4,4,"cohort 4","[2,4,6]",15
+5,5,"cohort 5","[2,4,6]",15
+6,6,"cohort 6","[2,4,6]",15
+99999999,99999999,"hold","[2,4]",15

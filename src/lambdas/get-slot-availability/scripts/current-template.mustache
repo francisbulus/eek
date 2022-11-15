@@ -1,0 +1,13 @@
+#!/bin/bash
+
+dir=$(dirname "$0")
+
+cd "$dir/../../../../../.."
+
+direnv allow . && eval "$(direnv export bash)"
+
+TS_NODE_FILES=true "node_modules/.bin/ts-node" -T "src/lambdas/get-slot-availability/run-current.ts" \
+  --cohort_external_id={{ cohort_external_id }} \
+  --sendToSeated \
+  --no-test_mode \
+  >> "src/lambdas/get-slot-availability/{{ cohort_external_id }}.log"

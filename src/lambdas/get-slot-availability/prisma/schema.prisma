@@ -1,0 +1,436 @@
+generator client {
+  provider      = "prisma-client-js"
+  output        = "../../../../node_modules/prisma-seated"
+  binaryTargets = env("PRISMA_BINARY_TARGET")
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("SEATED_DATABASE_URL")
+}
+
+model Batch {
+  id                      Int               @id @default(autoincrement())
+  check_date              DateTime          @default(now()) @db.Date
+  check_dow               day_of_week_names
+  check_time              String            @db.VarChar
+  cohort_id               Int
+  cohort_external_id      Int
+  function_concurrency    Int               @default(15)
+  businesses_per_function Int               @default(2)
+  expected_num_slots      Int
+  num_businesses          Int
+  slots_per_run           Int
+  num_party_sizes         Int
+  created_at              DateTime          @default(now()) @db.Timestamptz(6)
+  updated_at              DateTime          @default(now()) @updatedAt @db.Timestamptz(6)
+  deleted_at              DateTime?         @db.Timestamptz(6)
+  test_mode               Boolean?          @default(false)
+
+  @@index([check_date, check_time])
+  @@index([check_dow])
+  @@index([cohort_external_id])
+  @@index([created_at])
+  @@index([deleted_at])
+  @@map("batches")
+}
+
+model Business {
+  id                 Int              @id @default(autoincrement())
+  /// This is the id that comes from Seated
+  external_id        Int
+  cohort_id          Int
+  name               String           @db.VarChar
+  original_url       String           @db.VarChar
+  url                String           @db.VarChar
+  slot_interval      Int              @default(15)
+  url_slug           String?          @db.VarChar
+  url_id             String?          @db.VarChar
+  platform           String           @db.VarChar
+  latitude           Float?
+  longitude          Float?
+  timezone           String           @default("America/New_York") @db.VarChar
+  created_at         DateTime         @default(now()) @db.Timestamptz(6)
+  updated_at         DateTime         @default(now()) @updatedAt @db.Timestamptz(6)
+  deleted_at         DateTime?        @db.Timestamptz(6)
+  cohort_external_id Int
+  archived_at        DateTime?        @db.Timestamptz(6)
+  city               business_cities?
+  cohort             Cohort           @relation(fields: [cohort_id], references: [id], onDelete: Cascade)
+  runs               Run[]
+
+  @@unique([cohort_id, external_id], map: "businesses_cohort_id_external_id")
+  @@index([archived_at], map: "businesses_archived_at")
+  @@index([cohort_external_id], map: "businesses_cohort_external_id")
+  @@index([cohort_id], map: "businesses_cohort_id")
+  @@index([created_at], map: "businesses_created_at")
+  @@index([deleted_at], map: "businesses_deleted_at")
+  @@index([external_id], map: "businesses_external_id")
+  @@index([platform], map: "businesses_platform")
+  @@index([updated_at], map: "businesses_updated_at")
+  @@map("businesses")
+}
+
+model Cohort {
+  id               Int              @id @default(autoincrement())
+  name             String           @db.VarChar
+  slot_interval    Int              @default(15)
+  created_at       DateTime         @default(now()) @db.Timestamptz(6)
+  updated_at       DateTime         @default(now()) @updatedAt @db.Timestamptz(6)
+  deleted_at       DateTime?        @db.Timestamptz(6)
+  external_id      Int
+  archived_at      DateTime?        @db.Timestamptz(6)
+  party_sizes      Int[]
+  businesses       Business[]
+  cohort_schedules CohortSchedule[]
+  runs             Run[]
+
+  @@index([archived_at], map: "cohort_archived_at")
+  @@index([external_id], map: "cohort_external_id")
+  @@map("cohorts")
+}
+
+/// A cohort schedule is a single time range of slots to check
+model CohortSchedule {
+  id                 Int               @id @default(autoincrement())
+  cohort_id          Int
+  /// Check time is in eastern time zone
+  check_dow          day_of_week_names
+  check_time         String            @db.VarChar
+  /// Slot time is in the business's time zone
+  slots_dow          day_of_week_names
+  slots_start_time   String            @db.VarChar
+  slots_end_time     String            @db.VarChar
+  created_at         DateTime          @default(now()) @db.Timestamptz(6)
+  updated_at         DateTime          @default(now()) @updatedAt @db.Timestamptz(6)
+  deleted_at         DateTime?         @db.Timestamptz(6)
+  cohort_external_id Int
+  archived_at        DateTime?         @db.Timestamptz(6)
+  cohort             Cohort            @relation(fields: [cohort_id], references: [id], onDelete: Cascade)
+
+  @@index([archived_at], map: "cohort_schedules_archived_at")
+  @@index([check_dow, check_time], map: "cohort_schedules_check_dow_check_time")
+  @@index([cohort_external_id], map: "schedules_cohort_external_id")
+  @@map("cohort_schedules")
+}
+
+/// A Run represents all the checks for a given business and cohort schedule
+/// It is lightweight and simply a container for repeated metadata
+/// Slots are uploaded one at a time, so we are no longer batching them
+model Run {
+  id                  Int               @id @default(autoincrement())
+  business_id         Int
+  /// Check time is in eastern time zone
+  check_dow           day_of_week_names
+  check_time          String            @db.VarChar
+  party_size          Int               @default(0)
+  started_at          DateTime?         @db.Timestamptz(6)
+  ended_at            DateTime?         @db.Timestamptz(6)
+  payload             Json?             @db.Json
+  scrape_error        String?           @db.VarChar
+  scrape_status       scrape_statuses   @default(pending)
+  upload_error        String?           @db.VarChar
+  upload_status       upload_statuses?  @default(pending)
+  uploaded_at         DateTime?         @db.Timestamptz(6)
+  report_sent_at      DateTime?         @db.Timestamptz(6)
+  created_at          DateTime          @default(now()) @db.Timestamptz(6)
+  updated_at          DateTime          @default(now()) @updatedAt @db.Timestamptz(6)
+  deleted_at          DateTime?         @db.Timestamptz(6)
+  test_mode           Boolean?          @default(false)
+  actual_num_slots    Int?
+  expected_num_slots  Int?
+  available_num_slots Int?
+  batch_id            Int?
+  cohort_id           Int
+  cohort_external_id  Int
+  retry_count         Int?
+  no_of_requests      Int?
+  full_payload        Json?             @db.Json
+  business            Business          @relation(fields: [business_id], references: [id], onDelete: Cascade)
+  cohort              Cohort            @relation(fields: [cohort_id], references: [id], onDelete: Cascade)
+  offered_slots       OfferedSlot[]
+  requests            Request[]
+  slots               Slot[]
+
+  @@index([business_id], map: "runs_business_id")
+  @@index([check_dow, check_time], map: "runs_check_dow_check_time")
+  @@index([created_at], map: "runs_created_at")
+  @@index([deleted_at], map: "runs_deleted_at")
+  @@index([scrape_status, upload_status], map: "runs_scrape_status_upload_status")
+  @@index([test_mode], map: "runs_test_mode")
+  @@index([updated_at], map: "runs_updated_at")
+  @@map("runs")
+}
+
+/// Slot is a slot check. It is created before it is actually scraped
+model Slot {
+  id            Int            @id @default(autoincrement())
+  run_id        Int
+  party_size    Int
+  slot_datetime DateTime       @db.Timestamptz(6)
+  /// Availability is a Boolean but nullable. Null means that we simply don't know yet
+  /// It can represent the fact that the Slot is still pending, or that it error'd when
+  /// attempting to retrieve the availability
+  availability  Boolean?
+  audit_flag    Boolean        @default(false)
+  audit_status  audit_statuses @default(pending)
+  created_at    DateTime       @default(now()) @db.Timestamptz(6)
+  updated_at    DateTime       @default(now()) @updatedAt @db.Timestamptz(6)
+  deleted_at    DateTime?      @db.Timestamptz(6)
+  run           Run            @relation(fields: [run_id], references: [id], onDelete: Cascade)
+  requests      Request[]
+
+  @@index([created_at], map: "slots_created_at")
+  @@index([deleted_at], map: "slots_deleted_at")
+  @@index([run_id], map: "slots_run_id")
+  @@map("slots")
+}
+
+/// OfferedSlot is to store slots data if the run is performed for future date.
+model OfferedSlot {
+  id            Int               @id @default(autoincrement())
+  run_id        Int
+  business_id   Int
+  check_dow     day_of_week_names
+  check_time    String            @db.VarChar
+  party_size    Int
+  slot_datetime DateTime          @db.Timestamptz(6)
+  availability  Boolean?
+  created_at    DateTime          @default(now()) @db.Timestamptz(6)
+  updated_at    DateTime          @default(now()) @updatedAt @db.Timestamptz(6)
+  deleted_at    DateTime?         @db.Timestamptz(6)
+  run           Run               @relation(fields: [run_id], references: [id], onDelete: Cascade)
+
+  @@index([check_dow], map: "offered_slots_check_dow")
+  @@index([created_at], map: "offered_slots_created_at")
+  @@index([business_id, check_dow, check_time, party_size, deleted_at], map: "offered_slots_latest_row_id")
+  @@index([business_id, check_dow, check_time, party_size], map: "offered_slots_run_id")
+  @@map("offered_slots")
+}
+
+/// WeeklyOfferedSlot is to store offered slots data based on last 4 week runs
+model WeeklyOfferedSlot {
+  id                   Int                @id @default(autoincrement())
+  business_external_id Int?
+  party_size           Int?
+  slot_check_day       day_of_week_names?
+  slot_check_time      String?            @db.VarChar
+  is_available         Boolean?
+  check_days           Int?
+  check_slots          Int?
+  created_on           DateTime?          @db.Timestamptz(6)
+  updated_on           DateTime?          @updatedAt @db.Timestamptz(6)
+  deleted_at           DateTime?          @db.Timestamptz(6)
+
+  @@unique([business_external_id, party_size, slot_check_day, slot_check_time], map: "weekly_offerd_slots_business_external_id_party_size_slot_ch_key")
+  @@index([business_external_id, party_size], map: "weekly_offered_latest_check")
+  @@map("weekly_offered_slots")
+}
+
+/// This model is currently unused
+model Request {
+  id              Int      @id @default(autoincrement())
+  slot_id         Int
+  run_id          Int
+  api_auth_token  String?
+  api_request     String?  @db.VarChar
+  api_response    Json?    @db.Json
+  api_http_status Int?
+  api_error       String?  @db.VarChar
+  proxy_service   String?
+  proxy_trial     Int?
+  /// The url we're using for the proxy apis
+  proxy_address   String?
+  proxy_ip        String?
+  test_mode       Boolean  @default(false)
+  user_agent      String?
+  created_at      DateTime @default(now()) @db.Timestamptz(6)
+  run             Run      @relation(fields: [run_id], references: [id], onDelete: Cascade)
+  slot            Slot     @relation(fields: [slot_id], references: [id], onDelete: Cascade)
+
+  @@index([api_http_status], map: "requests_api_http_status")
+  @@index([created_at], map: "requests_created_at")
+  @@index([proxy_service, proxy_trial], map: "requests_proxy_service_proxy_trial")
+  @@index([run_id], map: "requests_run_id")
+  @@index([slot_id], map: "requests_slot_id")
+  @@map("requests")
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+model Seated__Cohort_Schedules__Last_updated_10_27____10_28 {
+  id               Int?
+  external_id      Int?
+  check_dow        String?
+  check_time       String?
+  slots_dow        String?
+  slots_start_time String?
+  slots_end_time   String?
+
+  @@map("Seated_ Cohort Schedules (Last updated 10_27) - 10_28")
+  @@ignore
+}
+
+model SalesforceBusiness {
+  salesforce_id String? @db.VarChar
+  business_id   Int?
+  id            Int     @id @default(autoincrement())
+
+  @@unique([salesforce_id, business_id], map: "salesforce_business_unique")
+  @@map("salesforce_business")
+}
+
+model SeatingPreference {
+  id              Int                    @id @default(autoincrement())
+  location_title  String
+  location_type   seating_location_types
+  is_bookable     Boolean                @default(false)
+  created_on    DateTime                 @default(now()) @db.Timestamptz(6)
+  updated_on    DateTime                 @updatedAt @db.Timestamptz(6)
+  archived_on   DateTime?                @db.Timestamptz(6)
+
+  @@map("seating_preferences")
+  @@ignore
+}
+
+model booking {
+  booking_id           Int          @id
+  business_external_id Int
+  platform             String       @db.VarChar
+  first_name           String       @db.VarChar
+  last_name            String       @db.VarChar
+  phone                String       @db.VarChar
+  email                String       @db.VarChar
+  slot_time            String       @db.VarChar
+  slot_date            DateTime     @db.Date
+  party_size           Int          @db.SmallInt
+  created_on           DateTime     @db.Timestamptz(6)
+  updated_on           DateTime     @db.Timestamptz(6)
+  booking_done_on      DateTime?    @db.Timestamptz(6)
+  confirmation_url     String?      @db.VarChar
+  booking_ref          String?      @db.VarChar
+  cancelled_on         DateTime?    @db.Timestamptz(6)
+  status               String       @db.VarChar
+  step_data_dump       Json?
+  credit_card_id       Int?
+  raw_request          Json?
+  seated_response      Json?
+  email_active         Boolean?     @default(true)
+  email_content        Json?        @default("{}")
+  credit_card          credit_card? @relation(fields: [credit_card_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@ignore
+}
+
+model credit_card {
+  id         Int       @id @default(autoincrement())
+  city       String    @db.VarChar
+  first_name String    @db.VarChar
+  last_name  String    @db.VarChar
+  exp_month  Int       @db.SmallInt
+  exp_year   Int       @db.SmallInt
+  card_no    String    @db.VarChar
+  cvc        Int       @db.SmallInt
+  zip        Int?
+  weight     Int?      @db.SmallInt
+  booking    booking[]
+
+  @@ignore
+}
+
+model pgbench_accounts {
+  aid      Int     @id
+  bid      Int?
+  abalance Int?
+  filler   String? @db.Char(84)
+
+  @@ignore
+}
+
+model pgbench_branches {
+  bid      Int     @id
+  bbalance Int?
+  filler   String? @db.Char(88)
+
+  @@ignore
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+model pgbench_history {
+  tid    Int?
+  bid    Int?
+  aid    Int?
+  delta  Int?
+  mtime  DateTime? @db.Timestamp(6)
+  filler String?   @db.Char(22)
+
+  @@ignore
+}
+
+model pgbench_tellers {
+  tid      Int     @id
+  bid      Int?
+  tbalance Int?
+  filler   String? @db.Char(84)
+
+  @@ignore
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
+model request_logs {
+  id            Int      @default(autoincrement())
+  path          String?  @db.VarChar
+  method        String?  @db.VarChar
+  request_url   String?  @db.VarChar
+  request_body  Json?
+  is_inbound    Boolean?
+  response_code Int?
+
+  @@ignore
+}
+
+enum day_of_week_names {
+  monday
+  tuesday
+  wednesday
+  thursday
+  friday
+  saturday
+  sunday
+}
+
+enum audit_statuses {
+  pending
+  processing
+  success
+  failure
+}
+
+enum scrape_statuses {
+  pending
+  processing
+  success
+  failure
+  done_incomplete
+}
+
+enum upload_statuses {
+  pending
+  processing
+  success
+  failure
+}
+
+enum business_cities {
+  atlanta
+  boston
+  chicago
+  dallas
+  new_york_city
+  philadelphia
+}
+
+enum seating_location_types {
+  indoor
+  outdoor
+  unknown
+}

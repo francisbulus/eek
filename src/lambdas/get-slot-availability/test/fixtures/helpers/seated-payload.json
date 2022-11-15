@@ -1,0 +1,70 @@
+
+{
+  "business_id": 37,
+  "business_name": "Basho Japanese Brasserie",
+  "interval": 15,
+  "time_of_check": 1637329873965,
+  "site_checked": "opentable",
+  "data": [
+    {
+      "party_size": 4,
+      "slots": [
+        {
+          "available": false,
+          "humanReadableDate": "2021-07-25T17:00",
+          "slot_date": 1627246800000
+        },
+        {
+          "available": false,
+          "humanReadableDate": "2021-07-25T17:30",
+          "slot_date": 1627248600000
+        },
+        {
+          "available": true,
+          "humanReadableDate": "2021-07-25T18:00",
+          "slot_date": 1627250400000
+        }
+      ]
+    },
+    {
+      "party_size": 4,
+      "slots": [
+        {
+          "available": true,
+          "humanReadableDate": "2021-07-25T17:00",
+          "slot_date": 1627246800000
+        },
+        {
+          "available": false,
+          "humanReadableDate": "2021-07-25T22:00",
+          "slot_date": 1627264800000
+        },
+        {
+          "available": true,
+          "humanReadableDate": "2021-07-25T22:30",
+          "slot_date": 1627266600000
+        }
+      ]
+    },
+    {
+      "party_size": 6,
+      "slots": [
+        {
+          "available": true,
+          "humanReadableDate": "2021-07-25T17:00",
+          "slot_date": 1627246800000
+        },
+        {
+          "available": true,
+          "humanReadableDate": "2021-07-25T17:30",
+          "slot_date": 1627248600000
+        },
+        {
+          "available": false,
+          "humanReadableDate": "2021-07-25T18:00",
+          "slot_date": 1627250400000
+        }
+      ]
+    }
+  ]
+}

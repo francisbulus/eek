@@ -1,0 +1,26 @@
+{
+    "availability": {
+        "2021-07-25": {
+            "allNoTimesReasons": [
+                "NotActive"
+            ],
+            "reasonCode": "NotActive",
+            "standardMessageCode": null,
+            "minPartySize": 1,
+            "maxPartySize": 10,
+            "maxDaysInAdvance": 29,
+            "sameDayCutoff": null,
+            "earlyCutoff": null,
+            "allowNextAvailable": false,
+            "hasOffers": false,
+            "offerIds": [],
+            "timeSlots": [],
+            "date": "2021-07-25",
+            "hasExperiences": false
+        },
+        "waitlistStatus": {
+            "waitlistAvailable": false
+        }
+    },
+    "blockedDayMessages": []
+}

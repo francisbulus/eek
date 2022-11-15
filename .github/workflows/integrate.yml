@@ -1,0 +1,110 @@
+name: Integration
+
+on: pull_request
+
+jobs:
+  check_and_lint:
+    env:
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      PRISMA_BINARY_TARGET: '["linux-musl"]'
+    defaults:
+      run:
+        shell: bash
+        working-directory: '.'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: ⚙️ Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14.x'
+
+      - name: 🗄 Cache node_modules
+        uses: actions/cache@v2
+        id: cache-modules
+        with:
+          path: '**/node_modules'
+          key: ${{ runner.os }}-modules-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-modules-
+
+      - name: 📦 Install dependencies
+        if: steps.cache-modules.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: 🥫 prisma generate
+        run: ./node_modules/.bin/prisma generate
+
+      - run: npm run check-types
+      - run: npm run lint
+
+  test:
+    runs-on: ubuntu-latest
+    env:
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      NODE_ENV: test
+      SEATED_DATABASE_URL: postgres://postgres:postgres@localhost:5432/postgres-test?schema=seateddev
+      TEST_SEATED_DATABASE_URL: postgres://postgres:postgres@localhost:5432/postgres-test?schema=seateddev
+      PRISMA_BINARY_TARGET: '["linux-musl"]'
+    defaults:
+      run:
+        shell: bash
+        working-directory: '.'
+    services:
+      redis:
+        # Docker Hub image
+        image: redis
+        # Set health checks to wait until redis has started
+        options: >-
+          --health-cmd "redis-cli ping"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        ports:
+          # Maps port 6379 on service container to the host
+          - 6379:6379
+      postgres:
+        image: circleci/postgres:12.1-alpine
+        ports:
+          - 5432:5432
+        env:
+          TZ: 'Etc/UTC'
+          POSTGRES_DB: 'postgres-test'
+          POSTGRES_USER: 'postgres'
+          POSTGRES_PASSWORD: 'postgres'
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: ⚙️ Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14.x'
+
+      - name: 🗄 Cache node_modules
+        uses: actions/cache@v2
+        id: cache-modules
+        with:
+          path: '**/node_modules'
+          key: ${{ runner.os }}-modules-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-modules-
+
+      - name: 📦 Install dependencies
+        if: steps.cache-modules.outputs.cache-hit != 'true'
+        run: npm ci
+
+      - name: 🥫 prisma generate
+        run: ./node_modules/.bin/prisma generate
+
+      - run: sed 's/#.*$//;/^$/d' env.local >> $GITHUB_ENV
+      - run: SEATED_DATABASE_URL=$TEST_SEATED_DATABASE_URL ./node_modules/.bin/prisma generate
+      - run: SEATED_DATABASE_URL=$TEST_SEATED_DATABASE_URL ./node_modules/.bin/prisma db push
+      - run: npm run coverage
+        env:
+          GOOGLE_MAP_API_KEY: ${{secrets.GOOGLE_MAP_API_KEY}}
+
+      - name: 🚦 Coveralls
+        uses: coverallsapp/github-action@1.1.3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}

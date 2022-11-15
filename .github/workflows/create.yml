@@ -1,0 +1,84 @@
+# THIS WORKFLOW IS JUST FOR TESTING IN DEV - IT WILL LIVE IN THE DEPLOY PRODUCTION YML
+
+name: Create step templates from handlers
+
+on:
+  push:
+    branches:
+      - fb/create-templates
+    # paths:
+    #   - 'src/automations/**'
+jobs:
+  development:
+    name: Create Step Template
+    defaults:
+      run:
+        shell: bash
+    runs-on: ubuntu-latest
+    env:
+      NODE_ENV: development
+      PORT: 4045
+      ULTRON_VERSION: v1
+      ULTRON_URL: https://ultron-service.inv.systems
+      AUTOMATIONS_TOKEN: ${{secrets.AUTOMATIONS_TOKEN}}
+      ROLLBAR_ACCESS_TOKEN: fake
+      NIDAVELLIR_URL: http://localhost:3011
+      MIMIR_URL: http://localhost:3001
+      HEIMDALL_URL: http://localhost:3002
+      AUTOMATIONS_URL: http://localhost:3012
+      LAMBDA_URL: http://localhost:4100
+      USER_SERVICE_URL: http://localhost:4045
+      MIDGARD_URL: http://localhost:3004
+      MANTICORE_PROCESS_ENGINE_URL: http://localhost:4101
+      HUNTER_TOKEN: xyz
+      LOGGER_LEVEL: debug
+      GOOGLE_ADMIN_EMAIL: inv-lambdas@inv-lambdas.iam.gserviceaccount.com
+      BRAGI_URL: https://bragi-cyan.vercel.app
+      GOOGLE_SEARCH_API_KEY: fake
+      GOOGLE_SEARCH_CX: fake
+      GOOGLE_MAP_API_KEY: fake
+      SLACK_API_BOT_TOKEN: 'see lastpass'
+      SEATED_DATABASE_URL: postgres://postgres:postgres@localhost:5432/seated
+      TEST_SEATED_DATABASE_URL: postgres://postgres:postgres@localhost:5432/seated-test
+      SEATED_API_URL: https://webhook.staging.seatedapp.io/v1/invisible/business-slots
+      SEATED_API_KEY: fc50580dc275c460a5532b59f1d4fdaea733a84421bfcf2fd2a47b17cae4bf13
+      BRIGHTDATA_USERNAME: fake
+      BRIGHTDATA_PASSWORD: fake
+      INV_PROXY_USERNAME: token
+      INV_PROXY_PASSWORD: fake
+      GEOSURF_USERNAME: fake
+      GEOSURF_PASSWORD: fake
+      PRISMA_LOGGING: false
+      REDIS_URL: redis://localhost:6379
+      LOGDNA_API_KEY: fake
+      ZOOM_API_KEY: fake
+      ZOOM_SECRET: fake
+      SOAX_USERNAME: fake
+      SOAX_PASSWORD: fake
+      HOTPADS_SCRAPERS_URL: https://flaskapp-cr-v1-46m3ewxbaq-ue.a.run.app/
+      ZILLOW_SCRAPERS_URL: https://flaskapp-cr-v1-46m3ewxbaq-ue.a.run.app/
+      MANTICORE_SERVICE_TOKEN: fake-manticore
+      FLOW_DB_URL: 'postgres://postgres:postgres@localhost:5432/postgres'
+      OPSGENIE_API_KEY: fake
+
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.DOT_TOKEN_ACTIONS }}
+
+      - name: 👨🏻‍🔧 Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
+      - name: 📦 Install Typescript
+        run: npm i -g typescript
+      - name: 🔗 Link Typescript
+        run: npm link typescript
+      - name: 📦 Install TSConfig Paths
+        run: npm i tsconfig-paths
+      - name: 🤖 Run step template creation script
+        run: npx ts-node ./scripts/computeHandlers.ts ${{ env.SHORT_SHA }}

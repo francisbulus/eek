@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "availability_data": [
+      {
+        "availability_list": [
+          {
+            "timestamp": 1626382800,
+            "formatted_time": "5:00 PM",
+            "form_action": "/reservations/uogashi-new-york-3/checkout/2021-07-15/1700/2",
+            "csrf_token": "d3a1d5f8a11cf590dbd9f8c11a5ca64de48a62be73008c6aad2ed05d7a88e55d",
+            "isodate": "2021-07-15T17:00:00-04:00"
+          },
+          {
+            "timestamp": 1626383700,
+            "formatted_time": "5:15 PM",
+            "form_action": "/reservations/uogashi-new-york-3/checkout/2021-07-15/1715/2",
+            "csrf_token": "c40dc584cec86d3de28d2ae11e87a9cb37799a71c90c0e0a032b0c6df5f82dc8",
+            "isodate": "2021-07-15T17:15:00-04:00"
+          },
+          {
+            "timestamp": 1626384600,
+            "formatted_time": "5:30 PM",
+            "form_action": "/reservations/uogashi-new-york-3/checkout/2021-07-15/1730/2",
+            "csrf_token": "4f4e0678c60f75aeeec5e29a38023b145b51ff74e9a8ec1b82e39d072e168af7",
+            "isodate": "2021-07-15T17:30:00-04:00"
+          }
+        ],
+        "date": "Thu, Jul 15",
+        "covers": 2,
+        "time": "4:00 AM",
+        "timestamp": 1626321600,
+        "msg": "Availability on <strong><%=date%></strong> around <strong><%=time%></strong> for <strong><%=covers%> guests:</strong>",
+        "isodate": "2021-07-15T04:00:00-04:00"
+      }
+    ],
+    "availability_profile": "low",
+    "exact_match": null,
+    "notify_me_message": null,
+    "notify_me_url": null,
+    "enable_next_available": true,
+    "motivational_content": null,
+    "recovery_profile": "none"
+  }

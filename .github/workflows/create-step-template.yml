@@ -1,0 +1,106 @@
+# # THIS WORKFLOW IS JUST FOR TESTING IN DEV - IT WILL LIVE IN THE DEPLOY PRODUCTION YML
+
+# name: Create step templates from handlers
+
+# on:
+#   push:
+#     branches:
+#       - fb/create-templates
+#     # paths:
+#     #   - 'src/automations/**'
+# jobs:
+#   automation-path-checker:
+#     name: Check for Automation Handler Path Changes
+#     runs-on: ubuntu-latest
+#     outputs:
+#       changed: ${{ steps.filter.outputs.automations }}
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: dorny/paths-filter@v2
+#         id: filter
+#         with:
+#           filters: |
+#             automations:
+#               - 'src/automations/**'
+#       - name: Automation handler path change(s) confirmation
+#         if: steps.filter.outputs.automations == 'true'
+#         run: echo "automation folder changes"
+
+#   step-template-creator:
+#     name: Create Step Template
+#     defaults:
+#       run:
+#         shell: bash
+#     runs-on: ubuntu-latest
+#     env:
+#       NODE_ENV: development
+#       PORT: 4045
+#       ULTRON_VERSION: v1
+#       ULTRON_URL: https://ultron-service.inv.systems
+#       AUTOMATIONS_TOKEN: ${{secrets.AUTOMATIONS_TOKEN}}
+#       ROLLBAR_ACCESS_TOKEN: ${{secrets.ROLLBAR_ACCESS_TOKEN}}
+#       PRISMA_LOGGING: false
+#       LOGGER_LEVEL: debug
+#       # env with placeholder values to fulfill required constraint for envs in node environment
+#       NIDAVELLIR_URL: placeholder
+#       MIMIR_URL: placeholder
+#       HEIMDALL_URL: placeholder
+#       AUTOMATIONS_URL: placeholder
+#       LAMBDA_URL: placeholder
+#       USER_SERVICE_URL: placeholder
+#       MIDGARD_URL: placeholder
+#       MANTICORE_PROCESS_ENGINE_URL: placeholder
+#       HUNTER_TOKEN: xyz
+#       GOOGLE_ADMIN_EMAIL: placeholder
+#       BRAGI_URL: placeholder
+#       GOOGLE_SEARCH_API_KEY: placeholder
+#       GOOGLE_SEARCH_CX: placeholder
+#       GOOGLE_MAP_API_KEY: placeholder
+#       SLACK_API_BOT_TOKEN: 'see lastpass'
+#       SEATED_DATABASE_URL: placeholder
+#       TEST_SEATED_DATABASE_URL: placeholder
+#       SEATED_API_URL: placeholder
+#       SEATED_API_KEY: placeholder
+#       BRIGHTDATA_USERNAME: placeholder
+#       BRIGHTDATA_PASSWORD: placeholder
+#       INV_PROXY_USERNAME: token
+#       INV_PROXY_PASSWORD: placeholder
+#       GEOSURF_USERNAME: placeholder
+#       GEOSURF_PASSWORD: placeholder
+#       REDIS_URL: placeholder
+#       LOGDNA_API_KEY: placeholder
+#       ZOOM_API_KEY: placeholder
+#       ZOOM_SECRET: placeholder
+#       SOAX_USERNAME: placeholder
+#       SOAX_PASSWORD: placeholder
+#       HOTPADS_SCRAPERS_URL: placeholder
+#       ZILLOW_SCRAPERS_URL: placeholder
+#       MANTICORE_SERVICE_TOKEN: placeholder-manticore
+#       FLOW_DB_URL: 'placeholder'
+#       OPSGENIE_API_KEY: placeholder
+
+#     timeout-minutes: 15
+
+#     needs: automation-path-checker
+#     if: needs.automation-path-checker.outputs.changed == 'true'
+#     steps:
+#       - uses: actions/checkout@v3
+#         with:
+#           token: ${{ secrets.DOT_TOKEN_ACTIONS }}
+
+#       - name: 👨🏻‍🔧 Use Node.js
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: '14'
+#           cache: 'npm'
+#           cache-dependency-path: '**/package-lock.json'
+#       # - name: 📦 Add New Dependencies
+#       #   run: npm ci
+#       - name: 📦 Install Typescript
+#         run: npm i -g typescript
+#       - name: 🔗 Link Typescript
+#         run: npm link typescript
+#       - name: 📦 Install TSConfig Paths
+#         run: npm i tsconfig-paths
+#       - name: 🤖 Run step template creation script
+#         run: npx ts-node ./scripts/computeHandlers.ts ${{ env.SHORT_SHA }}

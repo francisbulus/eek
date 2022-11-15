@@ -1,0 +1,2697 @@
+{
+  "query": {
+    "day": "2021-06-18",
+    "party_size": 2
+  },
+  "bookmark": null,
+  "results": {
+    "venues": [
+      {
+        "venue": {
+          "id": {
+            "resy": 25112
+          },
+          "venue_group": {
+            "id": 157453,
+            "name": "Bar Camillo",
+            "venues": []
+          },
+          "name": "Bar Camillo",
+          "type": "Italian",
+          "url_slug": "bar-camillo",
+          "price_range": 2,
+          "average_bill_size": 40,
+          "currency_symbol": "$",
+          "hospitality_included": 0,
+          "resy_select": 0,
+          "is_gdc": 0,
+          "is_global_dining_access": false,
+          "is_global_dining_access_only": false,
+          "requires_reservation_transfers": 0,
+          "is_gns": 0,
+          "supports_pickups": 0,
+          "hide_allergy_question": false,
+          "rating": 4.82712,
+          "total_ratings": 295,
+          "inventory": {
+            "type": {
+              "id": 2
+            }
+          },
+          "reopen": {
+            "date": "2020-06-22"
+          },
+          "location": {
+            "time_zone": "EST5EDT",
+            "neighborhood": "Bed-Stuy",
+            "geo": {
+              "lat": 40.686548,
+              "lon": -73.944266
+            },
+            "code": "ny",
+            "name": "New York"
+          },
+          "travel_time": {
+            "distance": 5387.723990010863
+          },
+          "source": {
+            "name": null,
+            "logo": null,
+            "terms_of_service": null,
+            "privacy_policy": null
+          },
+          "service_types": {
+            "2": {}
+          },
+          "top": false,
+          "ticket": {
+            "average": 40,
+            "average_str": "$40"
+          },
+          "currency": {
+            "symbol": "$",
+            "code": "USD"
+          },
+          "is_rga": false,
+          "is_rga_only": false,
+          "default_template": "831792",
+          "responsive_images": {
+            "urls": {
+              "0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc": {
+                "1:1": {
+                  "200": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/1:1/1600"
+                },
+                "4:3": {
+                  "400": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/4:3/1600"
+                },
+                "16:9": {
+                  "400": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/16:9/1600"
+                }
+              },
+              "cb34cf0061932e4c906135adbbf6333603db0ca2": {
+                "1:1": {
+                  "200": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/1:1/1600"
+                },
+                "4:3": {
+                  "400": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/4:3/1600"
+                },
+                "16:9": {
+                  "400": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/16:9/1600"
+                }
+              },
+              "b26eac746f63a6e81cc386aee10bab93f4efb934": {
+                "1:1": {
+                  "200": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/1:1/1600"
+                },
+                "4:3": {
+                  "400": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/4:3/1600"
+                },
+                "16:9": {
+                  "400": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/16:9/1600"
+                }
+              },
+              "7929f933ad7867b1cbb0c2ed28d4312fa51b2450": {
+                "1:1": {
+                  "200": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/1:1/1600"
+                },
+                "4:3": {
+                  "400": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/4:3/1600"
+                },
+                "16:9": {
+                  "400": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/16:9/1600"
+                }
+              },
+              "1c0f04333c3bee6d9cea32a44980b5a55452df6f": {
+                "1:1": {
+                  "200": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/1:1/1600"
+                },
+                "4:3": {
+                  "400": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/4:3/1600"
+                },
+                "16:9": {
+                  "400": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/16:9/1600"
+                }
+              },
+              "6929664d6c7034f8680dba84189da71c1559ffe7": {
+                "1:1": {
+                  "200": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/1:1/1600"
+                },
+                "4:3": {
+                  "400": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/4:3/1600"
+                },
+                "16:9": {
+                  "400": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/16:9/1600"
+                }
+              },
+              "edba810a7c13d6bdf310038410a6e244a80fa8f5": {
+                "1:1": {
+                  "200": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/1:1/1600"
+                },
+                "4:3": {
+                  "400": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/4:3/1600"
+                },
+                "16:9": {
+                  "400": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/16:9/1600"
+                }
+              },
+              "e96ad61ff6423f31ab28bebb30b9009733d7fcb0": {
+                "1:1": {
+                  "200": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/1:1/1600"
+                },
+                "4:3": {
+                  "400": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/4:3/1600"
+                },
+                "16:9": {
+                  "400": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/16:9/1600"
+                }
+              }
+            },
+            "file_names": [
+              "0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc",
+              "cb34cf0061932e4c906135adbbf6333603db0ca2",
+              "b26eac746f63a6e81cc386aee10bab93f4efb934",
+              "7929f933ad7867b1cbb0c2ed28d4312fa51b2450",
+              "1c0f04333c3bee6d9cea32a44980b5a55452df6f",
+              "6929664d6c7034f8680dba84189da71c1559ffe7",
+              "edba810a7c13d6bdf310038410a6e244a80fa8f5",
+              "e96ad61ff6423f31ab28bebb30b9009733d7fcb0"
+            ],
+            "aspect_ratios": {
+              "1:1": {
+                "200": "200x200",
+                "400": "400x400",
+                "800": "800x800",
+                "1600": "1600x1600"
+              },
+              "4:3": {
+                "400": "400x300",
+                "800": "800x600",
+                "1600": "1600x1200"
+              },
+              "16:9": {
+                "400": "400x225",
+                "800": "800x450",
+                "1600": "1600x900"
+              }
+            }
+          },
+          "notify_options": [
+            {
+              "service_type_id": 2,
+              "min_request_datetime": "2021-06-18 17:00:00",
+              "max_request_datetime": "2021-06-18 22:00:00",
+              "step_minutes": 30
+            }
+          ],
+          "favorite": null,
+          "waitlist": {
+            "available": 0,
+            "label": "Join Wait List",
+            "current": null
+          },
+          "collections": [
+            {
+              "id": 3,
+              "type_id": 1,
+              "file_name": "collection-date-night",
+              "image": "https://s3.amazonaws.com/resy.com/images/lists/collection-date-night.svg",
+              "name": "Brooklyn Neighborhood Gems",
+              "short_name": "Idyllic Brooklyn",
+              "description": "Idyllic local eateries that have earned a devoted following."
+            },
+            {
+              "id": 998,
+              "type_id": 1,
+              "file_name": "collection-spring",
+              "image": "https://s3.amazonaws.com/resy.com/images/lists/collection-spring.svg",
+              "name": "It's Patio Season",
+              "short_name": "Al Fresco Dining",
+              "description": "Winter is finally in the rear-view mirror, and your favorite restaurants are going all out on outdoor dining — from quaint sidewalk seating to cozy backyard gardens."
+            },
+            {
+              "id": 888,
+              "type_id": 2,
+              "file_name": "collection-book-tonight",
+              "image": "https://s3.amazonaws.com/resy.com/images/lists/collection-book-tonight.svg",
+              "name": "Book Tonight",
+              "short_name": "Book Tonight",
+              "description": "Book these venues tonight."
+            },
+            {
+              "id": 891,
+              "type_id": 5,
+              "file_name": "collection-toprated",
+              "image": "https://s3.amazonaws.com/resy.com/images/lists/collection-toprated.svg",
+              "name": "Top Rated",
+              "short_name": "Top Rated",
+              "description": "A crowd-sourced stamp of approval. The five-star treatment. Resy's top-rated restaurants according to you, the guests."
+            }
+          ],
+          "content": [
+            {
+              "attribution": null,
+              "body": "",
+              "display": {
+                "type": "text"
+              },
+              "icon": {
+                "url": "https://s3.amazonaws.com/resy.com/images/icons/heart.svg"
+              },
+              "locale": {
+                "language": "en-us"
+              },
+              "name": "why_we_like_it",
+              "title": null
+            }
+          ],
+          "allow_bypass_payment_method": 1,
+          "events": []
+        },
+        "templates": {
+          "831792": {
+            "is_paid": false,
+            "venue_share": null,
+            "restriction_id": null,
+            "payment_structure": null,
+            "cancellation_fee": null,
+            "secs_cancel_cut_off": null,
+            "time_cancel_cut_off": null,
+            "secs_change_cut_off": null,
+            "time_change_cut_off": null,
+            "deposit_fee": null,
+            "service_charge": null,
+            "service_charge_options": [],
+            "images": [
+              "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/640x360"
+            ],
+            "raw_image_names": [
+              "0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc",
+              "cb34cf0061932e4c906135adbbf6333603db0ca2",
+              "b26eac746f63a6e81cc386aee10bab93f4efb934",
+              "7929f933ad7867b1cbb0c2ed28d4312fa51b2450",
+              "1c0f04333c3bee6d9cea32a44980b5a55452df6f",
+              "6929664d6c7034f8680dba84189da71c1559ffe7",
+              "edba810a7c13d6bdf310038410a6e244a80fa8f5",
+              "e96ad61ff6423f31ab28bebb30b9009733d7fcb0"
+            ],
+            "image_dimensions": [
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ]
+            ],
+            "is_default": 1,
+            "is_event": 0,
+            "is_pickup": 0,
+            "pickup_highlight": 0,
+            "venue_id": 25112,
+            "reservation_config": {
+              "badge": null,
+              "type": "",
+              "secs_off_market": null,
+              "time_off_market": null
+            },
+            "turn_times": [
+              {
+                "secs_amount": 5400,
+                "size": {
+                  "max": 1,
+                  "min": 1
+                }
+              },
+              {
+                "secs_amount": 5400,
+                "size": {
+                  "max": 2,
+                  "min": 2
+                }
+              },
+              {
+                "secs_amount": 5400,
+                "size": {
+                  "max": 3,
+                  "min": 3
+                }
+              },
+              {
+                "secs_amount": 5400,
+                "size": {
+                  "max": 4,
+                  "min": 4
+                }
+              },
+              {
+                "secs_amount": 5400,
+                "size": {
+                  "max": null,
+                  "min": 5
+                }
+              }
+            ],
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "content": {
+              "en-us": {
+                "about": {
+                  "attribution": null,
+                  "body": "From the team behind neighborhood standouts Locanda Vini e Olii in Clinton Hill and Camillo in Flatbush, Bar Camillo is a Roman bar and restaurant located in the heart of Bed-Stuy, Brooklyn with a menu focused on pinsa, an ancient style of Roman pizza. Made using a mixture of organic wheat and rice flours and left to rise for over 48 hours, the resulting crust is lighter, crispier, and more easily digestible than your typical Neapolitan pizza. Topped with a wide variety of traditional ingredients like artichokes, prosciutto cotto, guanciale, anchovies and mushrooms, and using only imported fior di latte mozzarella from Campania, each pinsa is then finished in Bar Camillo’s imported Moretti Forni oven specifically designed for this type of pizza. \n\nBar Camillo’s menu also has a large selection of Roman antipasti, as well as a few spins on classic dishes from the Eternal City such as baked cacio e pepe, and roasted artichokes.\n\nNamed after Count Camillo Negroni, the alleged creator of the negroni, Bar Camillo’s beverage program has a variety different variations of the iconic cocktail along with a large selection of wines on tap, craft beer, spritzes, aperitivi, whiskey and amari.",
+                  "title": null
+                },
+                "need_to_know": {
+                  "attribution": null,
+                  "body": "Reservations available for 14 days in advance. Please note, 1.5hr maximum time on the table. Masks are mandatory (you can take them off when eating).",
+                  "title": null
+                }
+              }
+            },
+            "id": 831792,
+            "menu": {},
+            "name": "UPDATED_DEFAULT_TEMPLATE",
+            "item_ids": [],
+            "menu_ids": []
+          },
+          "1086866": {
+            "is_paid": false,
+            "venue_share": null,
+            "restriction_id": null,
+            "payment_structure": null,
+            "cancellation_fee": null,
+            "secs_cancel_cut_off": null,
+            "time_cancel_cut_off": null,
+            "secs_change_cut_off": null,
+            "time_change_cut_off": null,
+            "deposit_fee": null,
+            "service_charge": null,
+            "service_charge_options": [],
+            "images": [
+              "https://image.resy.com/3/003/2/25112/0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/cb34cf0061932e4c906135adbbf6333603db0ca2/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/b26eac746f63a6e81cc386aee10bab93f4efb934/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/7929f933ad7867b1cbb0c2ed28d4312fa51b2450/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/1c0f04333c3bee6d9cea32a44980b5a55452df6f/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/6929664d6c7034f8680dba84189da71c1559ffe7/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/edba810a7c13d6bdf310038410a6e244a80fa8f5/jpg/640x360",
+              "https://image.resy.com/3/003/2/25112/e96ad61ff6423f31ab28bebb30b9009733d7fcb0/jpg/640x360"
+            ],
+            "raw_image_names": [
+              "0b9ded4c8540aee047bb1d8b03c9f22ac7caabfc",
+              "cb34cf0061932e4c906135adbbf6333603db0ca2",
+              "b26eac746f63a6e81cc386aee10bab93f4efb934",
+              "7929f933ad7867b1cbb0c2ed28d4312fa51b2450",
+              "1c0f04333c3bee6d9cea32a44980b5a55452df6f",
+              "6929664d6c7034f8680dba84189da71c1559ffe7",
+              "edba810a7c13d6bdf310038410a6e244a80fa8f5",
+              "e96ad61ff6423f31ab28bebb30b9009733d7fcb0"
+            ],
+            "image_dimensions": [
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ],
+              [
+                3500,
+                2333
+              ]
+            ],
+            "is_default": 0,
+            "is_event": 0,
+            "is_pickup": 0,
+            "pickup_highlight": 0,
+            "venue_id": 25112,
+            "reservation_config": {
+              "badge": null,
+              "type": "",
+              "secs_off_market": 900,
+              "time_off_market": null
+            },
+            "turn_times": [
+              {
+                "secs_amount": 5400,
+                "size": {
+                  "max": 1,
+                  "min": 1
+                }
+              },
+              {
+                "secs_amount": 6300,
+                "size": {
+                  "max": 2,
+                  "min": 2
+                }
+              },
+              {
+                "secs_amount": 7200,
+                "size": {
+                  "max": 4,
+                  "min": 3
+                }
+              },
+              {
+                "secs_amount": 8100,
+                "size": {
+                  "max": null,
+                  "min": 5
+                }
+              }
+            ],
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "content": {
+              "en-us": {
+                "about": {
+                  "attribution": null,
+                  "body": "From the team behind neighborhood standouts Locanda Vini e Olii in Clinton Hill and Camillo in Flatbush, Bar Camillo is a Roman bar and restaurant located in the heart of Bed-Stuy, Brooklyn with a menu focused on pinsa, an ancient style of Roman pizza. Made using a mixture of organic wheat and rice flours and left to rise for over 48 hours, the resulting crust is lighter, crispier, and more easily digestible than your typical Neapolitan pizza. Topped with a wide variety of traditional ingredients like artichokes, prosciutto cotto, guanciale, anchovies and mushrooms, and using only imported fior di latte mozzarella from Campania, each pinsa is then finished in Bar Camillo’s imported Moretti Forni oven specifically designed for this type of pizza. \n\nBar Camillo’s menu also has a large selection of Roman antipasti, as well as a few spins on classic dishes from the Eternal City such as baked cacio e pepe, and roasted artichokes.\n\nNamed after Count Camillo Negroni, the alleged creator of the negroni, Bar Camillo’s beverage program has a variety different variations of the iconic cocktail along with a large selection of wines on tap, craft beer, spritzes, aperitivi, whiskey and amari.",
+                  "title": null
+                },
+                "need_to_know": {
+                  "attribution": null,
+                  "body": "Reservations available for 14 days in advance. Please note, 1.5hr maximum time on the table. Masks are mandatory (you can take them off when eating).",
+                  "title": null
+                }
+              }
+            },
+            "id": 1086866,
+            "menu": {},
+            "name": "1086866",
+            "item_ids": [],
+            "menu_ids": []
+          }
+        },
+        "pickups": {
+          "slots": [],
+          "service_types": {}
+        },
+        "slots": [
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538830,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/17:00:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 18:45:00",
+              "start": "2021-06-18 17:00:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624049100,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411366
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 1,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/17:00:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 18:45:00",
+              "start": "2021-06-18 17:00:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624049100,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538830,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/17:15:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 19:00:00",
+              "start": "2021-06-18 17:15:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624050000,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411366
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 1,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/17:15:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 19:00:00",
+              "start": "2021-06-18 17:15:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624050000,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/17:30:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 19:15:00",
+              "start": "2021-06-18 17:30:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624050900,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/17:45:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 19:30:00",
+              "start": "2021-06-18 17:45:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624051800,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/18:00:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 19:45:00",
+              "start": "2021-06-18 18:00:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624052700,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/18:15:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 20:00:00",
+              "start": "2021-06-18 18:15:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624053600,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/18:30:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 20:15:00",
+              "start": "2021-06-18 18:30:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624054500,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/18:45:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 20:30:00",
+              "start": "2021-06-18 18:45:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624055400,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/19:00:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 20:45:00",
+              "start": "2021-06-18 19:00:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624056300,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739269,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/19:30:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 21:15:00",
+              "start": "2021-06-18 19:30:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624058100,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581265
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739270,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/20:00:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 21:45:00",
+              "start": "2021-06-18 20:00:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624059900,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 75.07
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581266
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 3,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538838,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/20:15:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 22:00:00",
+              "start": "2021-06-18 20:15:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624060800,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411374
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 1,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 739270,
+              "type": "Front Patio",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/20:15:00/2/Front Patio"
+            },
+            "date": {
+              "end": "2021-06-18 22:00:00",
+              "start": "2021-06-18 20:15:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624060800,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 76.32
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 6,
+              "min": 2
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                581266
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 3,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538838,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/20:45:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 22:30:00",
+              "start": "2021-06-18 20:45:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624062600,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411374
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538838,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/21:00:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 22:45:00",
+              "start": "2021-06-18 21:00:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624063500,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411374
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538838,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/21:15:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 23:00:00",
+              "start": "2021-06-18 21:15:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624064400,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411374
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538838,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/21:30:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 23:15:00",
+              "start": "2021-06-18 21:30:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624065300,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411374
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538838,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/21:45:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 23:30:00",
+              "start": "2021-06-18 21:45:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624066200,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411374
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "availability": {
+              "id": 3
+            },
+            "config": {
+              "id": 538838,
+              "type": "Backyard",
+              "token": "rgs://resy/25112/1086866/2/2021-06-18/2021-06-18/22:00:00/2/Backyard"
+            },
+            "date": {
+              "end": "2021-06-18 23:45:00",
+              "start": "2021-06-18 22:00:00"
+            },
+            "exclusive": {
+              "id": 0
+            },
+            "is_global_dining_access": false,
+            "floorplan": {
+              "id": 19168
+            },
+            "id": null,
+            "market": {
+              "date": {
+                "off": 1624067100,
+                "on": 1622865600
+              }
+            },
+            "meta": {
+              "size": {
+                "assumed": 2
+              },
+              "type": {
+                "id": 1
+              }
+            },
+            "lock": null,
+            "pacing": {
+              "beyond": false
+            },
+            "score": {
+              "total": 100
+            },
+            "shift": {
+              "id": 295006,
+              "service": {
+                "type": {
+                  "id": 2
+                }
+              },
+              "day": "2021-06-18"
+            },
+            "size": {
+              "max": 2,
+              "min": 1
+            },
+            "status": {
+              "id": 1
+            },
+            "table": {
+              "id": [
+                411374
+              ]
+            },
+            "template": {
+              "id": 1086866,
+              "is_pickup": false
+            },
+            "time": {
+              "turn": {
+                "actual": 6300,
+                "estimated": 6300
+              }
+            },
+            "quantity": 2,
+            "is_rga": false,
+            "display_config": {
+              "color": {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config": {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "payment": {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          }
+        ],
+        "notifies": []
+      }
+    ],
+    "meta": {
+      "offset": 1,
+      "limit": null
+    }
+  },
+  "guest_token": "CwoK8rE0kQHCrn3EO8aJPVEgylkwXw5_ZF_IamDHYXulNT7y9DHUzhoiCONP5bwTIfG9HLQXfS2G7D7UfnSlRssmIuXAkTZrA5nVNYNy|0E=-0e7028377ab26004a491acf11af1d07fbcfe91a1ca2835eddf602ff2"
+}

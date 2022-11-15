@@ -1,0 +1,95 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "mocha": true,
+    "node": true
+  },
+  "extends": [
+    "plugin:@next/next/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:prettier/recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "project": "./tsconfig.json",
+    "sourceType": "module",
+    "tsconfigRootDir": "./"
+  },
+  "plugins": ["prettier", "simple-import-sort", "no-only-tests", "import"],
+  "rules": {
+    "@typescript-eslint/array-type": [
+      2,
+      {
+        "default": "array",
+        "readonly": "array"
+      }
+    ],
+    "@typescript-eslint/ban-ts-comment": "error",
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/explicit-member-accessibility": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/interface-name-prefix": "off",
+    "@typescript-eslint/member-delimiter-style": [
+      "error",
+      {
+        "multiline": {
+          "delimiter": "none",
+          "requireLast": true
+        },
+        "singleline": {
+          "delimiter": "semi",
+          "requireLast": false
+        }
+      }
+    ],
+    "@typescript-eslint/no-empty-interface": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/no-unused-vars": [
+      "error",
+      {
+        "args": "none",
+        "ignoreRestSiblings": true,
+        "vars": "all"
+      }
+    ],
+    "@typescript-eslint/no-use-before-define": "off",
+    "@typescript-eslint/no-var-requires": "off",
+    "@typescript-eslint/semi": ["error", "never"],
+    "camelcase": "off",
+    "import/first": "error",
+    "import/named": "off",
+    "import/newline-after-import": "error",
+    "import/no-duplicates": "error",
+    "import/order": "off",
+    "import/namespace": "off",
+    "no-only-tests/no-only-tests": "error",
+    "no-useless-rename": ["error"],
+    "no-warning-comments": "error",
+    "object-shorthand": ["error", "always"],
+    "prettier/prettier": "error",
+    "no-console": "error",
+    "simple-import-sort/exports": "warn",
+    "simple-import-sort/imports": "warn",
+    "sort-imports": "off",
+    "no-implicit-any-catch": "off"
+  },
+  "settings": {
+    "import/parsers": {
+      "@typescript-eslint/parser": [".ts", ".tsx"]
+    },
+    "import/resolver": {
+      "typescript": {
+        "alwaysTryTypes": true
+      }
+    }
+  }
+}

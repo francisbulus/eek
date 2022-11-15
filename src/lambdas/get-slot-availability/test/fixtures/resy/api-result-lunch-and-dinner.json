@@ -1,0 +1,2530 @@
+{
+  "query":
+  {
+    "day": "2021-07-30",
+    "party_size": 2
+  },
+  "bookmark": null,
+  "results":
+  {
+    "venues": [
+      {
+        "venue":
+        {
+          "id":
+          {
+            "resy": 10969
+          },
+          "venue_group":
+          {
+            "id": 33409,
+            "name": "Restaurant Buenos Aires",
+            "venues": []
+          },
+          "name": "Restaurant Buenos Aires",
+          "type": "Steakhouse",
+          "url_slug": "restaurant-buenos-aires",
+          "price_range": 2,
+          "average_bill_size": 50.0,
+          "currency_symbol": "\u20ac",
+          "hospitality_included": 0,
+          "resy_select": 0,
+          "is_gdc": 0,
+          "is_global_dining_access": false,
+          "is_global_dining_access_only": false,
+          "requires_reservation_transfers": 0,
+          "is_gns": 0,
+          "supports_pickups": 0,
+          "hide_allergy_question": true,
+          "hide_occasion_question": false,
+          "hide_special_request_question": false,
+          "rating": 4.7,
+          "total_ratings": 0,
+          "inventory":
+          {
+            "type":
+            {
+              "id": 2
+            }
+          },
+          "reopen":
+          {
+            "date": null
+          },
+          "location":
+          {
+            "time_zone": "Europe/Berlin",
+            "neighborhood": "Berlin",
+            "geo":
+            {
+              "lat": 52.51809,
+              "lon": 13.19748
+            },
+            "code": "brl",
+            "name": "Berlin"
+          },
+          "travel_time":
+          {
+            "distance": 3712.1925340721486
+          },
+          "source":
+          {
+            "name": "Resmio",
+            "logo": "https://s3.amazonaws.com/resy.com/rgs/logo/logo-resmio.svg",
+            "terms_of_service": "https://www.resmio.com/en/terms-conditions/",
+            "privacy_policy": "https://www.resmio.com/en/privacy-policy/"
+          },
+          "service_types":
+          {
+            "2":
+            {},
+            "3":
+            {},
+            "5":
+            {}
+          },
+          "top": false,
+          "ticket":
+          {
+            "average": 50.0,
+            "average_str": "\u20ac50"
+          },
+          "currency":
+          {
+            "symbol": "\u20ac",
+            "code": "EUR"
+          },
+          "is_rga": false,
+          "is_rga_only": false,
+          "default_template": "1116242",
+          "responsive_images":
+          {
+            "urls":
+            {
+              "3e45d3f9688adc4fd6994194e67f0d20eaecea77":
+              {
+                "1:1":
+                {
+                  "200": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/1:1/1600"
+                },
+                "4:3":
+                {
+                  "400": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/4:3/1600"
+                },
+                "16:9":
+                {
+                  "400": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/16:9/1600"
+                }
+              },
+              "7f769534bae76e240324409f074a09c814da4f39":
+              {
+                "1:1":
+                {
+                  "200": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/1:1/200",
+                  "400": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/1:1/400",
+                  "800": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/1:1/800",
+                  "1600": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/1:1/1600"
+                },
+                "4:3":
+                {
+                  "400": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/4:3/400",
+                  "800": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/4:3/800",
+                  "1600": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/4:3/1600"
+                },
+                "16:9":
+                {
+                  "400": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/16:9/400",
+                  "800": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/16:9/800",
+                  "1600": "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/16:9/1600"
+                }
+              }
+            },
+            "file_names": ["3e45d3f9688adc4fd6994194e67f0d20eaecea77","7f769534bae76e240324409f074a09c814da4f39"],
+            "aspect_ratios":
+            {
+              "1:1":
+              {
+                "200": "200x200",
+                "400": "400x400",
+                "800": "800x800",
+                "1600": "1600x1600"
+              },
+              "4:3":
+              {
+                "400": "400x300",
+                "800": "800x600",
+                "1600": "1600x1200"
+              },
+              "16:9":
+              {
+                "400": "400x225",
+                "800": "800x450",
+                "1600": "1600x900"
+              }
+            }
+          },
+          "notify_options": [
+            {
+              "service_type_id": 2,
+              "min_request_datetime": "2021-07-30 17:00:00",
+              "max_request_datetime": "2021-07-31 00:00:00",
+              "step_minutes": 30
+            },
+            {
+              "service_type_id": 3,
+              "min_request_datetime": "2021-07-30 11:00:00",
+              "max_request_datetime": "2021-07-30 15:00:00",
+              "step_minutes": 30
+            },
+            {
+              "service_type_id": 5,
+              "min_request_datetime": "2021-07-30 06:00:00",
+              "max_request_datetime": "2021-07-30 10:30:00",
+              "step_minutes": 30
+            }
+          ],
+          "favorite": null,
+          "waitlist":
+          {
+            "available": 0,
+            "label": "Join Wait List",
+            "current": null
+          },
+          "collections": [
+            {
+              "id": 888,
+              "type_id": 2,
+              "file_name": "collection-book-tonight",
+              "image": "https://s3.amazonaws.com/resy.com/images/lists/collection-book-tonight.svg",
+              "name": "Book Tonight",
+              "short_name": "Book Tonight",
+              "description": "Book these venues tonight."
+            },
+            {
+              "id": 890,
+              "type_id": 4,
+              "file_name": "collection-new",
+              "image": "https://s3.amazonaws.com/resy.com/images/lists/collection-new.svg",
+              "name": "New on Resy",
+              "short_name": "New on Resy",
+              "description": "Lucky for you, these restaurants are brand-New on Resy. We've sorted them by popularity because if you know, you know."
+            }
+          ],
+          "content": [
+            {
+              "attribution": null,
+              "body": null,
+              "display":
+              {
+                "type": "text"
+              },
+              "icon":
+              {
+                "url": "https://s3.amazonaws.com/resy.com/images/icons/heart.svg"
+              },
+              "locale": null,
+              "name": "why_we_like_it",
+              "title": null
+            }
+          ],
+          "allow_bypass_payment_method": 1,
+          "events": []
+        },
+        "templates":
+        {
+          "1116242":
+          {
+            "is_paid": false,
+            "venue_share": null,
+            "restriction_id": null,
+            "payment_structure": null,
+            "cancellation_fee": null,
+            "secs_cancel_cut_off": null,
+            "time_cancel_cut_off": null,
+            "secs_change_cut_off": null,
+            "time_change_cut_off": null,
+            "deposit_fee": null,
+            "service_charge": null,
+            "service_charge_options": [],
+            "images": [
+              "https://image.resy.com/3/003/2/10969/3e45d3f9688adc4fd6994194e67f0d20eaecea77/jpg/640x360",
+              "https://image.resy.com/3/003/2/10969/7f769534bae76e240324409f074a09c814da4f39/jpg/640x360"
+            ],
+            "raw_image_names": ["3e45d3f9688adc4fd6994194e67f0d20eaecea77","7f769534bae76e240324409f074a09c814da4f39"],
+            "image_dimensions": [
+              [2668,2384],
+              [4090,1864]
+            ],
+            "is_default": 1,
+            "is_event": 0,
+            "is_pickup": 0,
+            "pickup_highlight": 0,
+            "venue_id": 10969,
+            "reservation_config":
+            {
+              "badge": null,
+              "type": null,
+              "secs_off_market": null,
+              "time_off_market": null
+            },
+            "turn_times": [],
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "content":
+            {
+              "ja-jp":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "\u30b0\u30ea\u30e0\u30cb\u30c3\u30c4\u6e56\u3092\u306e\u3093\u3073\u308a\u3068\u6563\u6b69\u3057\u305f\u5f8c\u3001\u30d9\u30eb\u30ea\u30f3\u306e\u7d20\u6734\u306a\u30b9\u30c6\u30fc\u30ad\u30cf\u30a6\u30b9\u3001\u30d6\u30a8\u30ce\u30b9\u30a2\u30a4\u30ec\u30b9\u306b\u7acb\u3061\u5bc4\u308b\u306e\u306b\u52dd\u308b\u3082\u306e\u306f\u3042\u308a\u307e\u305b\u3093\u3002\u3053\u306e\u30ec\u30b9\u30c8\u30e9\u30f3\u306f1970\u5e74\u4ee5\u6765\u305d\u308c\u81ea\u4f53\u306b\u5fe0\u5b9f\u3067\u3042\u308a\u3001\u4f1d\u7d71\u7684\u306b\u70ad\u706b\u713c\u304d\u3067\u8abf\u7406\u3055\u308c\u308b\u30b9\u30c6\u30fc\u30ad\u3068\u30b0\u30ea\u30eb\u6599\u7406\u3067\u30b2\u30b9\u30c8\u3092\u7518\u3084\u304b\u3057\u307e\u3059\u3002\u67d4\u3089\u304b\u3044\u30d3\u30fc\u30d5\u30d5\u30a3\u30ec\u304b\u3089\u30b8\u30e5\u30fc\u30b7\u30fc\u306a\u30e9\u30f3\u30d7\u30b9\u30c6\u30fc\u30ad\u3001\u5f37\u3044\u82b3\u9999\u306e\u30e9\u30e0\u30d5\u30a3\u30ec\u3084\u30a2\u30f3\u30c8\u30eb\u30b3\u30fc\u30c8\u307e\u3067\u3001\u3059\u3079\u3066\u306e\u30b9\u30c6\u30fc\u30ad\u611b\u597d\u5bb6\u306b\u7e4a\u7d30\u3055\u304c\u3042\u308a\u307e\u3059\uff01\u30d6\u30a8\u30ce\u30b9\u30a2\u30a4\u30ec\u30b9\u3067\u306f\u3001\u8089\u306e\u54c1\u8cea\u306b\u7279\u306b\u91cd\u70b9\u304c\u7f6e\u304b\u308c\u3066\u3044\u308b\u305f\u3081\u3001\u30d1\u30f3\u30d1\u3067\u306e\u653e\u3057\u98fc\u3044\u98fc\u80b2\u4e2d\u306b\u898b\u3064\u3051\u305f\u7267\u8349\u306e\u307f\u3092\u98df\u3079\u3066\u3044\u308b\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u306e\u725b\u306e\u307f\u3092\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u3002\u30b9\u30c6\u30fc\u30ad\u306b\u80cc\u3092\u5411\u3051\u3066\u30e1\u30ad\u30b7\u30b3\u6599\u7406\u306b\u8eab\u3092\u4efb\u305b\u308c\u3070\u3001\u3053\u306e\u30ec\u30b9\u30c8\u30e9\u30f3\u3067\u306f\u30dc\u30ea\u30e5\u30fc\u30e0\u305f\u3063\u3077\u308a\u306e\u30a8\u30f3\u30c1\u30e9\u30fc\u30c0\u3001\u30b1\u30b5\u30c7\u30a3\u30fc\u30e4\u3001\u30d6\u30ea\u30c8\u30fc\u3001\u30ca\u30c1\u30e7\u30b9\u3092\u697d\u3057\u3080\u3053\u3068\u3082\u3067\u304d\u307e\u3059\u3002",
+                  "title": null
+                }
+              },
+              "pt-pt":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "Depois de um passeio pelo Lago Grimnitz, n\u00e3o h\u00e1 nada melhor do que parar na churrascaria r\u00fastica Buenos Aires, em Berlim. Este restaurante mant\u00e9m-se fiel a si pr\u00f3prio desde 1970 e mima os h\u00f3spedes com especialidades de carnes e grelhados, tradicionalmente preparadas em uma churrasqueira a carv\u00e3o. De fil\u00e9 de carne tenra a suculento bife de alcatra a forte fil\u00e9 de cordeiro arom\u00e1tico ou entrecosto, h\u00e1 um deleite para todos os conhecedores de bife! Em Buenos Aires, \u00e9 dada \u00eanfase especial \u00e0 qualidade da carne, de modo que seja proveniente exclusivamente do gado argentino, que se alimenta apenas de capim que encontra nos pampas durante a cria\u00e7\u00e3o de animais ao ar livre. Se voc\u00ea der as costas para o bife e der prioridade aos pratos mexicanos, tamb\u00e9m poder\u00e1 saborear enchiladas, quesadillas, burritos e nachos neste restaurante.",
+                  "title": null
+                }
+              },
+              "pt-br":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "Depois de um passeio pelo Lago Grimnitz, n\u00e3o h\u00e1 nada melhor do que parar na churrascaria r\u00fastica Buenos Aires, em Berlim. Este restaurante mant\u00e9m-se fiel a si pr\u00f3prio desde 1970 e mima os h\u00f3spedes com especialidades de carnes e grelhados, tradicionalmente preparadas em uma churrasqueira a carv\u00e3o. De fil\u00e9 de carne tenra a suculento bife de alcatra a forte fil\u00e9 de cordeiro arom\u00e1tico ou entrecosto, h\u00e1 um deleite para todos os conhecedores de bife! Em Buenos Aires, \u00e9 dada \u00eanfase especial \u00e0 qualidade da carne, de modo que seja proveniente exclusivamente do gado argentino, que se alimenta apenas de capim que encontra nos pampas durante a cria\u00e7\u00e3o de animais ao ar livre. Se voc\u00ea der as costas para o bife e der prioridade aos pratos mexicanos, tamb\u00e9m poder\u00e1 saborear enchiladas, quesadillas, burritos e nachos neste restaurante.",
+                  "title": null
+                }
+              },
+              "nl-nl":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "Na een ontspannen wandeling rond het meer van Grimnitz, is er bijna niets leuker dan te stoppen in het rustieke steakhouse Buenos Aires in Berlijn. Dit restaurant is sinds 1970 trouw aan zichzelf gebleven en verwent zijn gasten met steak- en grillspecialiteiten die traditioneel worden bereid op een houtskoolgrill. Van malse runderfilet tot sappige biefstuk tot sterk aromatische lamsfilet of entrecote, er is een traktatie voor elke steakkenner! In Buenos Aires wordt bijzondere nadruk gelegd op de kwaliteit van het vlees, zodat het uitsluitend afkomstig is van Argentijns vee dat zich alleen voedt met weidegras dat ze in de pampa's vinden tijdens hun scharrelhouderij. Als je de steak de rug toekeert en voorrang geeft aan Mexicaanse gerechten, kun je in dit restaurant ook smullen van stevige enchiladas, quesadilla's, burrito's en nacho's.",
+                  "title": null
+                }
+              },
+              "de-de":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "Nach einem gem\u00fctlichen Spaziergang um den Grimnitzsee gibt es wohl kaum etwas sch\u00f6neres als in dem rustikalen Steakhouse Buenos Aires in Berlin ein zu kehren. Dieses Restaurant bleibt sich seit 1970 treu und verw\u00f6hnt seine G\u00e4ste mit Steak- und Grillspezialit\u00e4ten, die traditionell im Holzkohlegrill zubereitet werden. Vom zarten Rinderfilet \u00fcber saftiges Rumpsteak bis hin zum kr\u00e4ftig aromatischen Lammfilet oder Entrec\u00f4te, hier ist f\u00fcr den jeden Steakkenner eine K\u00f6stlichkeit dabei! Im Buenos Aires wird besonderer Wert auf die Qualit\u00e4t des Fleisches gelegt, sodass dieses ausschlie\u00dflich von argentinischen Rindern kommt, die sich nur von Weidegras, das sie w\u00e4hrend ihrer Freilandhaltung in den Pampas vorfinden, ern\u00e4hren. Wer dem Steak den R\u00fccken zukehrt und mexikanischen Gerichten den Vortritt gew\u00e4hrt, der kann in diesem Lokal auch deftige Enchiladas , Quesadillas, Burritos und Nachos schlemmen.",
+                  "title": null
+                }
+              },
+              "es-es":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "Despu\u00e9s de un tranquilo paseo por el lago Grimnitz, no hay nada mejor que detenerse en el asador r\u00fastico Buenos Aires en Berl\u00edn. Este restaurante se ha mantenido fiel a s\u00ed mismo desde 1970 y mima a sus hu\u00e9spedes con especialidades de carne y parrilla que se preparan tradicionalmente en una parrilla de carb\u00f3n. Desde filete de res tierno hasta filete de lomo jugoso hasta filete de cordero arom\u00e1tico fuerte o entrecot, \u00a1hay un regalo para cada conocedor de filetes! En Buenos Aires, se hace especial hincapi\u00e9 en la calidad de la carne, por lo que proviene exclusivamente de ganado argentino que solo se alimenta de pastos que encuentran en las pampas durante su cr\u00eda en libertad. Si le das la espalda al bistec y le das prioridad a los platos mexicanos, tambi\u00e9n puedes deleitarte con abundantes enchiladas, quesadillas, burritos y nachos en este restaurante.",
+                  "title": null
+                }
+              },
+              "ca":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "Despr\u00e9s d'un passeig tranquil pel llac Grimnitz, no hi ha res m\u00e9s bonic que parar-se a la r\u00fastica rosteria Buenos Aires de Berl\u00edn. Aquest restaurant s\u2019ha mantingut fidel des del 1970 i fa malb\u00e9 als seus convidats amb especialitats a la brasa i a la brasa que tradicionalment es preparen en una brasa de carb\u00f3. Des d'un filet de vedella tendre fins a un suculent filet de carn fins a un fort filet de xai arom\u00e0tic o entrecot, hi ha un gust per a tots els coneixedors de bistec. A Buenos Aires, es fa especial \u00e8mfasi en la qualitat de la carn, de manera que prov\u00e9 exclusivament de bestiar argent\u00ed que nom\u00e9s s\u2019alimenta de pastures que es troben a les pampas durant la seva explotaci\u00f3 lliure. Si gireu l\u2019esquena i prioritzeu els plats mexicans, tamb\u00e9 podeu fer festa amb enxilades, quesadillas, burritos i nachos abundants en aquest restaurant.",
+                  "title": null
+                }
+              },
+              "fr-fr":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "Apr\u00e8s une promenade tranquille autour du lac Grimnitz, il n'y a rien de mieux que de s'arr\u00eater dans le grill rustique Buenos Aires \u00e0 Berlin. Ce restaurant est rest\u00e9 fid\u00e8le \u00e0 lui-m\u00eame depuis 1970 et g\u00e2te ses clients avec des sp\u00e9cialit\u00e9s de steak et de grillades qui sont traditionnellement pr\u00e9par\u00e9es sur un grill au charbon de bois. Du filet de boeuf tendre au steak de croupe juteux en passant par le filet d'agneau aromatique fort ou l'entrec\u00f4te, il y a un r\u00e9gal pour tous les connaisseurs de steak! \u00c0 Buenos Aires, un accent particulier est mis sur la qualit\u00e9 de la viande, de sorte qu'elle provienne exclusivement de bovins argentins qui ne se nourrissent que d'herbe de p\u00e2turage qu'ils trouvent dans la pampa pendant leur \u00e9levage en plein air. Si vous tournez le dos au steak et donnez la priorit\u00e9 aux plats mexicains, vous pouvez \u00e9galement vous r\u00e9galer de copieux enchiladas, quesadillas, burritos et nachos dans ce restaurant.",
+                  "title": null
+                }
+              },
+              "fr-ca":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "Apr\u00e8s une promenade tranquille autour du lac Grimnitz, il n'y a rien de mieux que de s'arr\u00eater dans le grill rustique Buenos Aires \u00e0 Berlin. Ce restaurant est rest\u00e9 fid\u00e8le \u00e0 lui-m\u00eame depuis 1970 et g\u00e2te ses clients avec des sp\u00e9cialit\u00e9s de steak et de grillades qui sont traditionnellement pr\u00e9par\u00e9es sur un grill au charbon de bois. Du filet de boeuf tendre au steak de croupe juteux en passant par le filet d'agneau aromatique fort ou l'entrec\u00f4te, il y a un r\u00e9gal pour tous les connaisseurs de steak! \u00c0 Buenos Aires, un accent particulier est mis sur la qualit\u00e9 de la viande, de sorte qu'elle provienne exclusivement de bovins argentins qui ne se nourrissent que d'herbe de p\u00e2turage qu'ils trouvent dans la pampa pendant leur \u00e9levage en plein air. Si vous tournez le dos au steak et donnez la priorit\u00e9 aux plats mexicains, vous pouvez \u00e9galement vous r\u00e9galer de copieux enchiladas, quesadillas, burritos et nachos dans ce restaurant.",
+                  "title": null
+                }
+              },
+              "en-us":
+              {
+                "about":
+                {
+                  "attribution": null,
+                  "body": "After a leisurely stroll around Lake Grimnitz, there is hardly anything nicer than to stop in the rustic steakhouse Buenos Aires in Berlin. This restaurant has remained true to itself since 1970 and spoils its guests with steak and grill specialties that are traditionally prepared on a charcoal grill. From tender beef fillet to juicy rump steak to strong aromatic lamb fillet or entrecote, there is a treat for every steak connoisseur! In Buenos Aires, special emphasis is placed on the quality of the meat, so that it comes exclusively from Argentine cattle that only feed on pasture grass that they find in the pampas during their free-range farming. If you turn your back on the steak and give priority to Mexican dishes, you can also feast on hearty enchiladas, quesadillas, burritos and nachos in this restaurant.",
+                  "title": null
+                }
+              }
+            },
+            "id": 1116242,
+            "menu":
+            {},
+            "name": "Template af1585c5b1284dd4caafa186a845ca9700b6f4a59970209cddf0a4b65ac96c23",
+            "item_ids": [],
+            "menu_ids": []
+          }
+        },
+        "pickups":
+        {
+          "slots": [],
+          "service_types":
+          {}
+        },
+        "slots": [
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/11:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 11:30:00",
+              "end": "2021-07-30 11:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627636500
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/12:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 12:00:00",
+              "end": "2021-07-30 12:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627638300
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/12:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 12:30:00",
+              "end": "2021-07-30 12:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627640100
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/13:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 13:00:00",
+              "end": "2021-07-30 13:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627641900
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/13:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 13:30:00",
+              "end": "2021-07-30 13:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627643700
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/14:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 14:00:00",
+              "end": "2021-07-30 14:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627645500
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/14:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 14:30:00",
+              "end": "2021-07-30 14:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627647300
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/15:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 15:00:00",
+              "end": "2021-07-30 15:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627649100
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/3/2021-07-30/2021-07-30/15:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 3
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 15:30:00",
+              "end": "2021-07-30 15:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627650900
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/16:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 16:00:00",
+              "end": "2021-07-30 16:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627652700
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/16:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 16:30:00",
+              "end": "2021-07-30 16:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627654500
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/17:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 17:00:00",
+              "end": "2021-07-30 17:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627656300
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/17:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 17:30:00",
+              "end": "2021-07-30 17:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627658100
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/18:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 18:00:00",
+              "end": "2021-07-30 18:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627659900
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/18:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 18:30:00",
+              "end": "2021-07-30 18:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627661700
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/19:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 19:00:00",
+              "end": "2021-07-30 19:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627663500
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/19:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 19:30:00",
+              "end": "2021-07-30 19:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627665300
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/20:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 20:00:00",
+              "end": "2021-07-30 20:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627667100
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/20:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 20:30:00",
+              "end": "2021-07-30 20:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627668900
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/21:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 21:00:00",
+              "end": "2021-07-30 21:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627670700
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/21:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 21:30:00",
+              "end": "2021-07-30 21:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627672500
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/22:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 22:00:00",
+              "end": "2021-07-30 22:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627674300
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/22:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 22:30:00",
+              "end": "2021-07-30 22:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627676100
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/23:00:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 23:00:00",
+              "end": "2021-07-30 23:00:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627677900
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          },
+          {
+            "template":
+            {
+              "id": 1116242
+            },
+            "score":
+            {
+              "total": 100
+            },
+            "config":
+            {
+              "id": null,
+              "type": "Dining Room",
+              "token": "rgs://rgs/10969/1116242/2/2021-07-30/2021-07-30/23:30:00/2/Dining Room"
+            },
+            "exclusive":
+            {
+              "id": 0
+            },
+            "shift":
+            {
+              "day": "2021-07-30",
+              "service":
+              {
+                "type":
+                {
+                  "id": 2
+                }
+              }
+            },
+            "id": null,
+            "meta":
+            {
+              "size":
+              {
+                "assumed": 2
+              }
+            },
+            "date":
+            {
+              "start": "2021-07-30 23:30:00",
+              "end": "2021-07-30 23:30:00"
+            },
+            "market":
+            {
+              "date":
+              {
+                "on": 1626287078,
+                "off": 1627679700
+              }
+            },
+            "link":
+            {
+              "web": null,
+              "deep_link": null
+            },
+            "display_config":
+            {
+              "color":
+              {
+                "background": null,
+                "font": null
+              }
+            },
+            "reservation_config":
+            {
+              "badge": null
+            },
+            "gdc_perk": null,
+            "is_global_dining_access": false,
+            "payment":
+            {
+              "is_paid": false,
+              "cancellation_fee": null,
+              "deposit_fee": null,
+              "service_charge": null,
+              "venue_share": null,
+              "payment_structure": null,
+              "secs_cancel_cut_off": null,
+              "time_cancel_cut_off": null,
+              "secs_change_cut_off": null,
+              "time_change_cut_off": null,
+              "service_charge_options": []
+            }
+          }
+        ],
+        "notifies": []
+      }
+    ],
+    "meta":
+    {
+      "offset": 1,
+      "limit": null
+    }
+  },
+  "guest_token": "2RwM1C677kdwl5Q2J60BHar_GzFQHdT0TMEsFJDVZaQabRG6Q9dmsgBerto_ExkppFtCqZueMnNFBdISDLHgOfHcnEo4djnX7qfirXXsMbk=-e7ecbc12c4a022d2f7cf6145f6bb567f0e94311bb27aeaf38de501d9"
+}

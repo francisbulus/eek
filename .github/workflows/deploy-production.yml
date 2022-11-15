@@ -1,0 +1,181 @@
+name: Deploy Automations Production
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'infra/**/values.*.yaml'
+jobs:
+  automation-path-checker:
+    name: Check for Automation Handler Path Changes
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.filter.outputs.automations }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          filters: |
+            automations:
+              - 'src/automations/**'
+      - name: Automation handler path change(s) confirmation
+        if: steps.filter.outputs.automations == 'true'
+        run: echo "automation folder changes"
+
+  step-template-creator:
+    name: Create Step Templates
+    defaults:
+      run:
+        shell: bash
+    runs-on: ubuntu-latest
+    env:
+      ULTRON_VERSION: v1
+      ULTRON_URL: https://ultron-service.inv.systems
+      AUTOMATIONS_TOKEN: ${{secrets.AUTOMATIONS_TOKEN}}
+      ROLLBAR_ACCESS_TOKEN: ${{secrets.ROLLBAR_ACCESS_TOKEN}}
+      PRISMA_LOGGING: false
+      LOGGER_LEVEL: debug
+      PORT: 4045
+      NODE_ENV: production
+      # env with placeholder values to fulfill required constraint for envs in node environment
+      NIDAVELLIR_URL: placeholder
+      MIMIR_URL: placeholder
+      HEIMDALL_URL: placeholder
+      AUTOMATIONS_URL: placeholder
+      LAMBDA_URL: placeholder
+      USER_SERVICE_URL: placeholder
+      MIDGARD_URL: placeholder
+      MANTICORE_PROCESS_ENGINE_URL: placeholder
+      HUNTER_TOKEN: xyz
+      GOOGLE_ADMIN_EMAIL: placeholder
+      BRAGI_URL: placeholder
+      GOOGLE_SEARCH_API_KEY: placeholder
+      GOOGLE_SEARCH_CX: placeholder
+      GOOGLE_MAP_API_KEY: placeholder
+      SLACK_API_BOT_TOKEN: 'see lastpass'
+      SEATED_DATABASE_URL: placeholder
+      TEST_SEATED_DATABASE_URL: placeholder
+      SEATED_API_URL: placeholder
+      SEATED_API_KEY: placeholder
+      BRIGHTDATA_USERNAME: placeholder
+      BRIGHTDATA_PASSWORD: placeholder
+      INV_PROXY_USERNAME: token
+      INV_PROXY_PASSWORD: placeholder
+      GEOSURF_USERNAME: placeholder
+      GEOSURF_PASSWORD: placeholder
+      REDIS_URL: placeholder
+      LOGDNA_API_KEY: placeholder
+      ZOOM_API_KEY: placeholder
+      ZOOM_SECRET: placeholder
+      SOAX_USERNAME: placeholder
+      SOAX_PASSWORD: placeholder
+      HOTPADS_SCRAPERS_URL: placeholder
+      ZILLOW_SCRAPERS_URL: placeholder
+      MANTICORE_SERVICE_TOKEN: placeholder-manticore
+      FLOW_DB_URL: 'placeholder'
+      OPSGENIE_API_KEY: placeholder
+    needs: automation-path-checker
+    if: needs.automation-path-checker.outputs.changed == 'true'
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.DOT_TOKEN_ACTIONS }}
+
+      - name: 👨🏻‍🔧 Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
+      - name: 📦 Install Typescript
+        run: npm i -g typescript
+      - name: 🔗 Link Typescript
+        run: npm link typescript
+      - name: 📦 Install TSConfig Paths
+        run: npm i tsconfig-paths
+      - name: 🤖 Run step template creation script
+        run: npx ts-node ./scripts/computeHandlers.ts ${{ env.SHORT_SHA }}
+
+  production:
+    name: Push Images to Registry
+    defaults:
+      run:
+        shell: bash
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      REGISTRY_REGION: 'us-west1-docker.pkg.dev'
+      CLUSTER_REGION: 'us-west1'
+      CLUSTER_NAME: 'invisible-prod-cluster'
+      ENV: 'production'
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.DOT_TOKEN_ACTIONS }}
+      - name: 🔨 Set up Docker Buildx
+        id: buildx
+        uses: docker/setup-buildx-action@master
+        with:
+          buildkitd-flags: --debug
+          driver-opts: |
+            image=moby/buildkit:v0.9.3
+
+      - name: 🔑 authenticate GCP
+        id: 'auth'
+        uses: google-github-actions/auth@v0
+        with:
+          credentials_json: '${{ secrets.GOOGLE_CREDENTIALS }}'
+
+      - name: 🔑 Authenticate K8s cluster
+        id: 'get-credentials'
+        uses: 'google-github-actions/get-gke-credentials@v0'
+        env:
+          GCLOUD_PROJECT: 'invisible-infra'
+        with:
+          cluster_name: ${{ env.CLUSTER_NAME }}
+          location: ${{ env.CLUSTER_REGION }}
+
+      - name: 🐳 Configure Docker Client
+        run: gcloud auth configure-docker ${{ env.REGISTRY_REGION }} --quiet
+
+      - name: 💨 Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v0
+
+      - name: Add SHORT_SHA env property with commit short sha
+        run: echo "SHORT_SHA=`echo ${GITHUB_SHA} | cut -c1-8`" >> $GITHUB_ENV
+
+      - name: 👨🏻‍🔧 Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
+
+      - run: npm i -g npm@8
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🔨 Build Docker Image
+        run: DOCKER_BUILDKIT=1 docker build -f ./Dockerfile . --build-arg npmToken=${{ secrets.NPM_TOKEN }} -t process-automation:latest
+
+      - name: 🔨 Tag image
+        run: docker tag process-automation:latest us-west1-docker.pkg.dev/invisible-tools/process-automation/process-automation:$SHORT_SHA
+
+      - name: 🔨 Push Docker Image
+        run: docker push us-west1-docker.pkg.dev/invisible-tools/process-automation/process-automation:$SHORT_SHA
+
+      - name: ✅ Update values.yaml
+        run: ./scripts/set-image-version/index.js ${{ env.SHORT_SHA }}
+
+      - name: ⤴️ Push values.yaml to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'chore: update values.yaml with new image version'
+          file_pattern: 'infra/**/values.*.yaml'
+          commit_user_name: invisible-dot
+          commit_author: Dot <dot@invisible.email>
+          commit_user_email: dot@invisible.email
