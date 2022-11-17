@@ -10,7 +10,7 @@ on:
     #   - 'src/automations/**'
 jobs:
   development:
-    name: Create Step Template
+    name: Create Step Templates
     defaults:
       run:
         shell: bash
